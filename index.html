@@ -20,21 +20,19 @@
   <script>
     var verbs
 
-    function load() {
-      verbs = loadVerbs(client.responseText)
-      console.log('Loaded verbs.')
-      console.log(verbs)
-    }
-
     var client = new XMLHttpRequest();
     client.open('GET', 'verbs.txt');
-    client.onreadystatechange = load
+    client.onreadystatechange = function () {
+      if (client.readyState == 4) {
+        verbs = loadVerbs(client.responseText)
+        console.log('Loaded verbs.')
+      }
+    }
     client.send();
 
     var currentQuestion, questionOrAnswer = true
 
     function next() {
-      console.log('next')
       var display
       if (questionOrAnswer) display = currentQuestion = question(verbs)
       else display = currentQuestion + '<br/>' + '<span class="answer">' + answer().join('<br/>') + '</span>'
@@ -42,8 +40,6 @@
       questionOrAnswer = !questionOrAnswer
     }
   </script>
-
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
 </body>
 
 </html>
