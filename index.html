@@ -21,7 +21,10 @@
     var size = [window.width, window.height];
 
     $(window).resize(function () {
-      window.resizeTo(size[0], size[1]);
+      console.log('resizing...')
+      console.log(window.width)
+      console.log(window.height)
+      //window.resizeTo(size[0], size[1]);
     });
 
     var verbs
