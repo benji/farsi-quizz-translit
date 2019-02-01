@@ -3,7 +3,7 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="width=950">
+  
 
   <script src="quizz.js"></script>
   <script src="jquery-2.1.4.min.js"></script>
@@ -12,18 +12,21 @@
 
 <body>
   <div id="container" onclick="javacript:next()">
+    <div id='debug'>debug</div>
     <div id="inner">
       <div id="content">Tap to start...</div>
     </div>
   </div>
 
   <script>
+    function debug(m) {
+      document.getElementById('debug').innerText = m
+    }
     var size = [window.width, window.height];
 
     $(window).resize(function () {
       console.log('resizing...')
-      console.log(window.width)
-      console.log(window.height)
+      debug($(window).width() + 'x' + $(window).height())
       //window.resizeTo(size[0], size[1]);
     });
 
