@@ -34,8 +34,13 @@
 
     function next() {
       var display
-      if (questionOrAnswer) display = currentQuestion = question(verbs)
-      else display = currentQuestion + '<br/>' + '<span class="answer">' + answer().join('<br/>') + '</span>'
+      if (questionOrAnswer) {
+        currentQuestion = question(verbs)
+        display = '<span class="question">' + currentQuestion + '</span>'
+      } else {
+        display = '<span class="question">' + currentQuestion + '</span>'
+        display += '<br/>' + '<span class="answer">' + answer().join('<br/>') + '</span>'
+      }
       document.getElementById('content').innerHTML = display
       questionOrAnswer = !questionOrAnswer
     }
