@@ -94,7 +94,7 @@ function question(verbs) {
   var conjIdx = Math.floor(Math.random() * Math.floor(nchoices));
   var personIdx = Math.floor(Math.random() * Math.floor(6));
 
-  currentAnswer = [currentVerb.eng + ' (' + currentVerb.past_root + 'an)', choices[conjIdx], person_answer(personIdx)]
+  currentAnswer = [currentVerb.eng + ' (' + compound_prefix_str + currentVerb.past_root + 'an)', choices[conjIdx], person_answer(personIdx)]
 
   if (conjIdx == 0) {
     q = compound_prefix_str + currentVerb.past_root + 'an'
