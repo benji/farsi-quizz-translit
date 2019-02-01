@@ -12,28 +12,12 @@
 
 <body>
   <div id="container" onclick="javacript:next()">
-    <div id='debug'>debug</div>
     <div id="inner">
       <div id="content">Tap to start...</div>
     </div>
   </div>
 
   <script>
-    var resizeI = 0
-
-    function debug(m) {
-      resizeI++;
-      var size = $(window).width() + 'x' + $(window).height()
-      document.getElementById('debug').innerText = resizeI + ' ' + size + ' ' + m
-    }
-    var size = [window.width, window.height];
-
-    $(window).resize(function () {
-      console.log('resizing...')
-      debug('resizing')
-      //window.resizeTo(size[0], size[1]);
-    });
-
     var verbs
 
     function load() {
@@ -51,7 +35,6 @@
 
     function next() {
       console.log('next')
-      debug('')
       var display
       if (questionOrAnswer) display = currentQuestion = question(verbs)
       else display = currentQuestion + '<br/>' + '<span class="answer">' + answer().join('<br/>') + '</span>'
