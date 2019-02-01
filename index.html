@@ -4,6 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <script src="quizz.js"></script>
+  <script src="jquery-2.1.4.min.js"></script>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -15,6 +16,12 @@
   </div>
 
   <script>
+    var size = [window.width, window.height];
+
+    $(window).resize(function () {
+      window.resizeTo(size[0], size[1]);
+    });
+
     var verbs
 
     function load() {
