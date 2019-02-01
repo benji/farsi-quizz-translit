@@ -5,7 +5,7 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 ### Webapp
 
-TODO
+[Start the Quizz](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html)
 
 ### Desktop (NodeJS)
 
@@ -13,8 +13,6 @@ TODO
 
 ### External Docs
 
-Top verbs:
-http://www.jahanshiri.ir/fa/en/vocab-common-verbs
+Top verbs: http://www.jahanshiri.ir/fa/en/vocab-common-verbs
 
-Pronounciation:
-https://forvo.com/languages/fa/
+Pronounciation: https://forvo.com/languages/fa/
