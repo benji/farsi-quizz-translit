@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <script src="quizz.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="container" onclick="javacript:next()">
+    <div id="inner">
+      <div id="content">Tap to start...</div>
+    </div>
+  </div>
+
+  <script>
+    var verbs
+
+    function load() {
+      verbs = loadVerbs(client.responseText)
+      console.log('Loaded verbs.')
+      console.log(verbs)
+    }
+
+    var client = new XMLHttpRequest();
+    client.open('GET', 'verbs.txt');
+    client.onreadystatechange = load
+    client.send();
+
+    var currentQuestion, questionOrAnswer = true
+
+    function next() {
+      console.log('next')
+      var display
+      if (questionOrAnswer) display = currentQuestion = question(verbs)
+      else display = currentQuestion + '<br/>' + '<span class="answer">' + answer().join('<br/>') + '</span>'
+      document.getElementById('content').innerHTML = display
+      questionOrAnswer = !questionOrAnswer
+    }
+  </script>
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+</body>
+
+</html>

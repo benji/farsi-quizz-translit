@@ -1,0 +1,33 @@
+past root,present root,subjonctive prefix
+to be,bud,*hast,*bâsh
+to have,dâsht,*dâr,be
+(to do),kard,kon,be
+to go,raft,rav,be
+to want,khâst,khâh,be
+to come,âmad,ây,biy
+to take,gereft,gir,be
+to give,dâd,deh,be
+to become,shod,shav,be
+to see,did,bin,be
+to hit,zad,zan,be
+to bring,âvard,âvar,biy
+to play,bâzi kardan
+to fly,pârvoz kardan
+to watch,tamâshâ kardan
+to buy,kharid,khar,be
+to dream,khâb didan
+to sleep,khâbidan,khâb,be
+to read,khând,khân,be
+to eat,khord,khor,be
+to shout,dâd zadan
+to know,dânest,dân,be
+to like,dust dâshtan
+to make/to build,sâkht,sâz,be
+to think,fekr kardan
+to say,goft,guy,be
+to die,mord,mir,be
+to drink,nushid,nush,be
+to do,anjaam dâdan
+to need,niyaz dâshtan
+to laugh,khadid,khand,be
+to sing,âvâd khândan
