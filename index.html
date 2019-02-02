@@ -39,7 +39,7 @@
         display = '<span class="question">' + currentQuestion + '</span>'
       } else {
         display = '<span class="question">' + currentQuestion + '</span>'
-        display += '<br/>' + '<span class="answer">' + answer().join('<br/>') + '</span>'
+        display += '<span class="answer">' + answer().join('<br/>') + '</span>'
       }
       document.getElementById('content').innerHTML = display
       questionOrAnswer = !questionOrAnswer

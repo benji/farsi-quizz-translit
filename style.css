@@ -26,7 +26,8 @@ body,
 }
 
 .question {
-  font-style: italic;
+  display: block;
+  margin-bottom: .5em;
 }
 
 .answer {
