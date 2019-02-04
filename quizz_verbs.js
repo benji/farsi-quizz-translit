@@ -1,4 +1,4 @@
-function loadVerbs(verbsFileContent) {
+function loadData(verbsFileContent) {
   console.log('Loading verbs...')
   var lines = verbsFileContent.split("\n");
   lines.shift() // remove header
@@ -15,7 +15,7 @@ function loadVerbs(verbsFileContent) {
       verb.compound = true
       verb.infinitive = parts[1]
       var compound_parts = parts[1].split(' ')
-      if (compound_parts.length != 2) throw 'Invalid compound [' + line + ']'
+      if (compound_parts.length != 2) throw 'Invalid compound [' + lines[i] + ']'
       verb.compound_prefix = compound_parts[0]
       verb.compound_main_verb_infinitive = compound_parts[1]
       //console.log(verb.infinitive)
@@ -119,7 +119,7 @@ function answer() {
 }
 
 if (typeof module != 'undefined') { // nodejs compatibility
-  module.exports.loadVerbs = loadVerbs
+  module.exports.loadData = loadData
   module.exports.question = question
   module.exports.answer = answer
 }

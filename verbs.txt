@@ -1,7 +1,7 @@
-past root,present root,subjonctive prefix
+english,past root,present root,subjonctive prefix
 to be,bud,*hast,*bâsh
 to have,dâsht,*dâr,be
-(to do),kard,kon,be
+(to do),kard,kon,bo
 to go,raft,rav,be
 to want,khâst,khâh,be
 to come,âmad,ây,biy
@@ -18,7 +18,7 @@ to buy,kharid,khar,be
 to dream,khâb didan
 to sleep,khâbidan,khâb,be
 to read,khând,khân,be
-to eat,khord,khor,be
+to eat,khord,khor,bo
 to shout,dâd zadan
 to know,dânest,dân,be
 to like,dust dâshtan
@@ -31,3 +31,12 @@ to do,anjaam dâdan
 to need,niyaz dâshtan
 to laugh,khadid,khand,be
 to sing,âvâd khândan
+to hug,baghal kardan
+to repair,ta'mir kardan
+to teach,yâd dâdan
+to learn,yâd gereftan
+to write,nevesht,nevis,be
+to help,komak kardan
+to understand,fahmid,fahm,be
+to hear,shenid,shenav,be
+to dance,raghsig,raghs,be

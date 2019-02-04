@@ -1,8 +1,12 @@
 var fs = require('fs');
 var readline = require('readline');
-var quizz = require('./quizz')
 
-var verbsFileContent = fs.readFileSync('verbs.txt').toString()
+var quizz_type = process.argv[2]
+console.log('Quizz: ' + quizz_type)
+
+var quizz = require('./quizz_' + quizz_type)
+
+var data = fs.readFileSync(quizz_type + '.txt').toString()
 
 var rl = readline.createInterface({
   input: process.stdin,
@@ -10,7 +14,8 @@ var rl = readline.createInterface({
   terminal: false
 });
 
-var verbs = quizz.loadVerbs(verbsFileContent)
+var items = quizz.loadData(data)
+console.log(items)
 
 console.log('Initialization complete.')
 console.log('Please press enter to start...')
@@ -19,6 +24,6 @@ console.log('')
 var questionOrAnswer = true
 rl.on('line', function () {
   questionOrAnswer ?
-    process.stdout.write(quizz.question(verbs)) : console.log(quizz.answer().join(' ; '))
+    process.stdout.write(quizz.question(items)) : console.log(quizz.answer().join(' ; '))
   questionOrAnswer = !questionOrAnswer
 })
