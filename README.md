@@ -6,14 +6,15 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 ### Webapp
 
 [Start the Quizz for Verbs](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/verbs.html)
+
 [Start the Quizz for Words](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/words.html)
 
 ### Desktop (NodeJS)
 
-For verbs:
+For verbs: 
 ```node main.js verbs```
 
-For words:
+For words: 
 ```node main.js words```
 
 ### External Docs
