@@ -18,6 +18,7 @@ to buy,kharid,khar,be
 to dream,khâb didan
 to sleep,khâbidan,khâb,be
 to read,khând,khân,be
+to laugh,khandid,khand,be
 to eat,khord,khor,bo
 to shout,dâd zadan
 to know,dânest,dân,be
@@ -29,7 +30,6 @@ to die,mord,mir,be
 to drink,nushid,nush,be
 to do,anjaam dâdan
 to need,niyaz dâshtan
-to laugh,khadid,khand,be
 to sing,âvâd khândan
 to hug,baghal kardan
 to repair,ta'mir kardan
@@ -40,3 +40,4 @@ to help,komak kardan
 to understand,fahmid,fahm,be
 to hear,shenid,shenav,be
 to dance,raghsig,raghs,be
+to kiss,boos kardan

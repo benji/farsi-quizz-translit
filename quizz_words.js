@@ -15,7 +15,6 @@ function loadData(wordsFileContent) {
   return words
 }
 
-
 var currentAnswer
 
 function question(words) {
