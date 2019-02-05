@@ -62,3 +62,12 @@ mine,mal-e
 store,marâze
 book,ketab
 bookS,ketab-ha
+why,cherâ
+how,chekonehe
+what,chehe
+who,keye
+where,keyâ
+when,kei
+happy,khoshhaal
+khande,funny
+hayejaanzade,excited
