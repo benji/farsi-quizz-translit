@@ -1,49 +1,61 @@
 english,past root,present root,subjonctive prefix
+
 to be,bud,*hast,*bâsh
+to hope,omidvâr budan
+
 to have,dâsht,*dâr,be
-(to do),kard,kon,bo
-to go,raft,rav,be
-to want,khâst,khâh,be
-to come,âmad,ây,biy
-to take,gereft,gir,be
+to like,dust dâshtan
+to need,niyaz dâshtan
+to have fun,khosh dâshtan
+
 to give,dâd,deh,be
-to become,shod,shav,be
+to do,anjaam dâdan
+to teach,yâd dâdan
+
 to see,did,bin,be
+to dream,khâb didan
+
 to hit,zad,zan,be
-to bring,âvard,âvar,biy
+to shout,dâd zadan
+
+(to do),kard,kon,bo
 to play,bâzi kardan
 to fly,pârvoz kardan
 to watch,tamâshâ kardan
-to buy,kharid,khar,be
-to dream,khâb didan
-to sleep,khâbidan,khâb,be
+to think,fekr kardan
+to hug,baghal kardan
+to repair,ta'mir kardan
+to help,komak kardan
+to kiss,boos kardan
+to wait,sabr kardan
+to find,peydâ kardan
+
+to search (to roll),gasht,gard,be
+to come back,bar gashtan
+
+to take,gereft,gir,be
+to learn,yâd gereftan
+
 to read,khând,khân,be
+to sing,âvâd khândan
+
+to become,shod,shav,be
+to go,raft,rav,be
+to want,khâst,khâh,be
+to come,âmad,ây,biy
+to bring,âvard,âvar,biy
+to buy,kharid,khar,be
+to sleep,khâbidan,khâb,be
 to laugh,khandid,khand,be
 to eat,khord,khor,bo
-to shout,dâd zadan
 to know,dânest,dân,be
-to like,dust dâshtan
+to can,tavânest,tavân,be
 to make/to build,sâkht,sâz,be
-to think,fekr kardan
 to say,goft,guy,be
 to die,mord,mir,be
 to drink,nushid,nush,be
-to do,anjaam dâdan
-to need,niyaz dâshtan
-to sing,âvâd khândan
-to hug,baghal kardan
-to repair,ta'mir kardan
-to teach,yâd dâdan
-to learn,yâd gereftan
 to write,nevesht,nevis,be
-to help,komak kardan
 to understand,fahmid,fahm,be
 to hear,shenid,shenav,be
 to dance,raghsig,raghs,be
-to kiss,boos kardan
-to search (to roll),gasht,gard,be
-to come back,bar gashtan
-to find,peydâ kardan
 to cook,pokht,paz,be
-to have fun,khosh dâshtan
-to hope,omidvâr budan
