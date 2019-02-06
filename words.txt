@@ -69,6 +69,7 @@ who,keye
 where,keyâ
 when,kei
 happy,khoshhaal
-khande,funny
-hayejaanzade,excited
-khosh bâshi,have fun
+funny,khande
+excited,hayejaanzade
+have fun,khosh bâshi
+food,bhaza

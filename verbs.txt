@@ -27,7 +27,7 @@ to hug,baghal kardan
 to repair,ta'mir kardan
 to help,komak kardan
 to kiss,boos kardan
-to wait,sabr kardan
+to wait (for:baraye),sabr kardan
 to find,peydâ kardan
 
 to search (to roll),gasht,gard,be
