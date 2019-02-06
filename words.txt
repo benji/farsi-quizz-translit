@@ -71,3 +71,4 @@ when,kei
 happy,khoshhaal
 khande,funny
 hayejaanzade,excited
+khosh bâshi,have fun

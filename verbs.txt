@@ -41,6 +41,9 @@ to understand,fahmid,fahm,be
 to hear,shenid,shenav,be
 to dance,raghsig,raghs,be
 to kiss,boos kardan
-to search / to roll,gasht,gard,be
+to search (to roll),gasht,gard,be
 to come back,bar gashtan
 to find,peydâ kardan
+to cook,pokht,paz,be
+to have fun,khosh dâshtan
+to hope,omidvâr budan
