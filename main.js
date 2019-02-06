@@ -15,7 +15,7 @@ var rl = readline.createInterface({
 });
 
 var items = quizz.loadData(data)
-console.log(items)
+//console.log(items)
 
 console.log('Initialization complete.')
 console.log('Please press enter to start...')

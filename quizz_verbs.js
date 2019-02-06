@@ -5,6 +5,8 @@ function loadData(verbsFileContent) {
 
   var verbs = []
   for (i in lines) {
+    if (!(lines[i]) || lines[i][0] == '#') continue
+
     var parts = lines[i].split(',')
     var verb = {
       eng: parts[0]

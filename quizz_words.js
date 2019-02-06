@@ -5,6 +5,8 @@ function loadData(wordsFileContent) {
 
   var words = []
   for (i in lines) {
+    if (!(lines[i]) || lines[i][0] == '#') continue
+    
     var parts = lines[i].split(',')
     var word = {
       eng: parts[0],
