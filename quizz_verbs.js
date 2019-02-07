@@ -49,8 +49,11 @@ function loadData(verbsFileContent) {
 }
 
 function conjugate(conjIdx, conjPrefix, root, personIdx) {
-  if (root[0] == '*') root = root.substring(1, root.length)
-  else root = conjPrefix + root
+  if (conjPrefix[0] == '*') root = conjPrefix.substring(1, conjPrefix.length)
+  else {
+    if (root[0] == '*') root = root.substring(1, root.length)
+    if (conjIdx != 2) root = conjPrefix + root
+  }
 
   if (personIdx == 0) return root + 'am'
   else if (personIdx == 1) {
