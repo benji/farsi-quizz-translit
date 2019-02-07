@@ -30,7 +30,7 @@ to kiss,boos kardan
 to wait (for:baraye),sabr kardan
 to find,peydâ kardan
 
-to search (to roll),gasht,gard,be
+to search / to roll / to turn,gasht,gard,be
 to come back,bar gashtan
 
 to take,gereft,gir,be
@@ -45,7 +45,7 @@ to want,khâst,khâh,be
 to come,âmad,ây,biy
 to bring,âvard,âvar,biy
 to buy,kharid,khar,be
-to sleep,khâbidan,khâb,be
+to sleep,khâbid,khâb,be
 to laugh,khandid,khand,be
 to eat,khord,khor,bo
 to know,dânest,dân,be
