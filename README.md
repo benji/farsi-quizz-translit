@@ -5,9 +5,12 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 ### Webapp
 
-[Start the Quizz for Verbs](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/verbs.html)
 
-[Start the Quizz for Words](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/words.html)
+[Quizz - Verbs](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?type=verbs&dict=verbs)
+
+[Quizz - Words 1](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/words.html?type=words&dict=words1)
+
+[Quizz - Words 2](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/words.html?type=words&dict=words2)
 
 ### Desktop (NodeJS)
 
@@ -23,6 +26,7 @@ Top verbs: http://www.jahanshiri.ir/fa/en/vocab-common-verbs
 
 Pronounciation: https://forvo.com/languages/fa/
 
+Grammar: https://en.wikipedia.org/wiki/Persian_grammar
+
 Suffixes/Possessive/Plural: https://en.wikipedia.org/wiki/Persian_nouns
 
-Grammar: https://en.wikipedia.org/wiki/Persian_grammar

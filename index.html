@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+
+  <script src="jquery-2.1.4.min.js"></script>
+  <script src="html_quizz.js"></script>
+</head>
+
+<body>
+  <div id="container" onclick="javacript:next()">
+    <div id="inner">
+      <div id="content"><i class="fa fa-cog fa-spin fa-2x"></i></div>
+    </div>
+  </div>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const quizz_type = urlParams.get('type');
+    const quizz_dict = urlParams.get('dict');
+
+    if (!quizz_type || !quizz_dict) {
+      $('#content').html('<i class="far fa-sad-tear fa-2x"></div>')
+    } else {
+      var script = document.createElement('script');
+      script.onload = function () {
+        console.log('Quizz lib loaded.')
+        $('#content').html('Tap to start...')
+        start_quizz(quizz_dict)
+      };
+      script.src = 'quizz_' + quizz_type + '.js'
+      document.head.appendChild(script);
+    }
+  </script>
+</body>
+
+</html>
