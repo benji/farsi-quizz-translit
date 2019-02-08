@@ -18,7 +18,7 @@ function start_quizz() {
     return;
   }
 
-  var quizz_data_url = quizz_type + '.txt'
+  var quizz_data_url = quizz_dict + '.txt'
   console.log('Loading ' + quizz_data_url);
 
   var client = new XMLHttpRequest();
@@ -68,27 +68,6 @@ function load_script(url, onload) {
   sNew.onload = onload
   var s0 = document.getElementsByTagName('script')[0];
   s0.parentNode.insertBefore(sNew, s0);
-}
-
-function on_loaded_quizz_lib_func(quizz_type) {
-  console.log('1/2 - quizz lib loaded.')
-
-  return function () {
-    var quizz_data_url = quizz_type + '.txt'
-    console.log('Loading ' + quizz_data_url);
-
-    var client = new XMLHttpRequest();
-    client.open('GET', quizz_data_url);
-
-    client.onreadystatechange = function () {
-      if (client.readyState == 4) {
-        console.log('2/2 - quizz data loaded.')
-        items = loadData(client.responseText)
-        $('#content').html('Tap to start...')
-      }
-    }
-    client.send();
-  }
 }
 
 var items
