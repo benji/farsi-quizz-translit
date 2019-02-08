@@ -22,3 +22,7 @@ For words:
 Top verbs: http://www.jahanshiri.ir/fa/en/vocab-common-verbs
 
 Pronounciation: https://forvo.com/languages/fa/
+
+Suffixes/Possessive/Plural: https://en.wikipedia.org/wiki/Persian_nouns
+
+Grammar: https://en.wikipedia.org/wiki/Persian_grammar

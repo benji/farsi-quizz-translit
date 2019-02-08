@@ -68,8 +68,14 @@ what,chehe
 who,keye
 where,keyâ
 when,kei
-happy,khoshhaal
+happy,khosh
 funny,khande
 excited,hayejaanzade
 have fun,khosh bâshi
-food,bhaza
+food,ghaza
+the big brother,barâdar-e bozorg
+my book (book of me),ke'tab-e man
+beautiful girl (girl-of beautiful),doxtar-e zibâ
+heart,del
+tight,tang
+for,baraye
