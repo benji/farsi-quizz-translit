@@ -2,11 +2,12 @@ var fs = require('fs');
 var readline = require('readline');
 
 var quizz_type = process.argv[2]
+var quizz_dict = process.argv[3]
 console.log('Quizz: ' + quizz_type)
 
 var quizz = require('./quizz_' + quizz_type)
 
-var data = fs.readFileSync(quizz_type + '.txt').toString()
+var data = fs.readFileSync(quizz_dict + '.txt').toString()
 
 var rl = readline.createInterface({
   input: process.stdin,

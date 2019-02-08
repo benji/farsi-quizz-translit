@@ -1,4 +1,6 @@
-function loadData(wordsFileContent) {
+var wordquizz = {}
+
+wordquizz.loadData = function (wordsFileContent) {
   console.log('Loading words...')
   var lines = wordsFileContent.split("\n");
   lines.shift() // remove header
@@ -6,7 +8,7 @@ function loadData(wordsFileContent) {
   var words = []
   for (i in lines) {
     if (!(lines[i]) || lines[i][0] == '#') continue
-    
+
     var parts = lines[i].split(',')
     var word = {
       eng: parts[0],
@@ -17,22 +19,20 @@ function loadData(wordsFileContent) {
   return words
 }
 
-var currentAnswer
+wordquizz.currentAnswer
 
-function question(words) {
+wordquizz.question = function (words) {
   // pick word
   var wordIdx = Math.floor(Math.random() * Math.floor(words.length));
   var word = words[wordIdx]
-  currentAnswer = word.eng
+  wordquizz.currentAnswer = word.eng
   return word.farsi
 }
 
-function answer() {
-  return [currentAnswer]
+wordquizz.answer = function () {
+  return [wordquizz.currentAnswer]
 }
 
 if (typeof module != 'undefined') { // nodejs compatibility
-  module.exports.loadData = loadData
-  module.exports.question = question
-  module.exports.answer = answer
+  module.exports = wordquizz
 }

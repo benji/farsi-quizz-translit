@@ -1,4 +1,6 @@
-function loadData(verbsFileContent) {
+var verbquizz = {}
+
+verbquizz.loadData = function (verbsFileContent) {
   console.log('Loading verbs...')
   var lines = verbsFileContent.split("\n");
   lines.shift() // remove header
@@ -48,7 +50,7 @@ function loadData(verbsFileContent) {
   return verbs
 }
 
-function conjugate(conjIdx, conjPrefix, root, personIdx) {
+verbquizz.conjugate = function (conjIdx, conjPrefix, root, personIdx) {
   if (conjPrefix[0] == '*') root = conjPrefix.substring(1, conjPrefix.length)
   else {
     if (root[0] == '*') root = root.substring(1, root.length)
@@ -71,7 +73,7 @@ function conjugate(conjIdx, conjPrefix, root, personIdx) {
   else throw 'Invalid conjugation person idx ' + personIdx
 }
 
-function person_answer(personIdx) {
+verbquizz.person_answer = function (personIdx) {
   if (personIdx == 0) return 'singular 1st (I)'
   else if (personIdx == 1) return 'singular 2nd (you)'
   else if (personIdx == 2) return 'singular 3rd (he/she)'
@@ -81,11 +83,9 @@ function person_answer(personIdx) {
   else throw 'Invalid person idx ' + personIdx
 }
 
-function randInt(max) {
+verbquizz.randInt = function (max) {
   return Math.floor(Math.random() * Math.floor(max));
 }
-
-var currentAnswer
 
 var choices = {
   0: 'infinitive',
@@ -97,7 +97,7 @@ var choices = {
   6: 'imperative'
 }
 
-function question(verbs) {
+verbquizz.question = function (verbs) {
   // pick verb
   var verbIdx = Math.floor(Math.random() * Math.floor(verbs.length));
   var currentVerb = verbs[verbIdx]
@@ -108,56 +108,52 @@ function question(verbs) {
   var conjIdx = Math.floor(Math.random() * Math.floor(nchoices));
 
   // pick person
-  var personIdx = get_rand_person_for_tense(conjIdx)
+  var personIdx = verbquizz.get_rand_person_for_tense(conjIdx)
 
-  return question_for_tense(currentVerb, conjIdx, personIdx)
+  return verbquizz.question_for_tense(currentVerb, conjIdx, personIdx)
 }
 
-function get_rand_person_for_tense(conjIdx) {
+verbquizz.get_rand_person_for_tense = function (conjIdx) {
   if (conjIdx == 0) return -1;
-  if (conjIdx == 6) return randInt(5) + 1;
-  return randInt(6);
+  if (conjIdx == 6) return verbquizz.randInt(5) + 1;
+  return verbquizz.randInt(6);
 }
 
-function question_for_tense(currentVerb, conjIdx, personIdx) {
+verbquizz.question_for_tense = function (currentVerb, conjIdx, personIdx) {
   var compound_prefix_str = currentVerb.compound_prefix ? currentVerb.compound_prefix + ' ' : ''
   var q = ''
 
   if (conjIdx == 0) {
     q = compound_prefix_str + currentVerb.past_root + 'an'
   } else if (conjIdx == 1) {
-    q += compound_prefix_str + conjugate(conjIdx, '', currentVerb.past_root, personIdx)
+    q += compound_prefix_str + verbquizz.conjugate(conjIdx, '', currentVerb.past_root, personIdx)
   } else if (conjIdx == 2) {
-    q += compound_prefix_str + conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
+    q += compound_prefix_str + verbquizz.conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
   } else if (conjIdx == 3) {
-    q += compound_prefix_str + conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx)
+    q += compound_prefix_str + verbquizz.conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx)
   } else if (conjIdx == 4) {
-    q += conjugate(conjIdx, '', 'dâr', personIdx) + ' ' + compound_prefix_str + conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
+    q += verbquizz.conjugate(conjIdx, '', 'dâr', personIdx) + ' ' + compound_prefix_str + verbquizz.conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
   } else if (conjIdx == 5) {
-    q += conjugate(conjIdx, '', 'khâh', personIdx) + ' ' + compound_prefix_str + currentVerb.past_root
+    q += verbquizz.conjugate(conjIdx, '', 'khâh', personIdx) + ' ' + compound_prefix_str + currentVerb.past_root
   } else if (conjIdx == 6) {
-    q += compound_prefix_str + conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx) + '!'
+    q += compound_prefix_str + verbquizz.conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx) + '!'
   } else throw 'Invalid conjugation choice'
 
-  currentAnswer = [currentVerb.eng + ' (' + compound_prefix_str + currentVerb.past_root + 'an)', choices[conjIdx]]
-  if (personIdx >= 0) currentAnswer.push(person_answer(personIdx))
+  verbquizz.currentAnswer = [currentVerb.eng + ' (' + compound_prefix_str + currentVerb.past_root + 'an)', choices[conjIdx]]
+  if (personIdx >= 0) verbquizz.currentAnswer.push(verbquizz.person_answer(personIdx))
   return q
 }
 
-function answer() {
-  return currentAnswer
+verbquizz.answer = function () {
+  return verbquizz.currentAnswer
 }
 
-function find_verb(verbs, eng) {
+verbquizz.find_verb = function (verbs, eng) {
   for (var i in verbs) {
     if (verbs[i].eng == eng) return verbs[i]
   }
 }
 
 if (typeof module != 'undefined') { // nodejs compatibility
-  module.exports.loadData = loadData
-  module.exports.question = question
-  module.exports.answer = answer
-  module.exports.find_verb = find_verb
-  module.exports.question_for_tense = question_for_tense
+  module.exports = verbquizz
 }

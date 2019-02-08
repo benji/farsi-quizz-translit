@@ -1,3 +1,5 @@
+var quizz
+
 function start_quizz() {
   const quizz_dict = special_capture_param('quizz_dict');
   const quizz_type = special_capture_param('quizz_type');
@@ -6,11 +8,30 @@ function start_quizz() {
 
   if (!quizz_type || !quizz_dict) {
     display_error('Missing type/dict in query string.')
-  } else {
-    var quizz_lib_url = 'quizz_' + quizz_type + '.js'
-    console.log('Loading ' + quizz_lib_url);
-    load_script(quizz_lib_url, on_loaded_quizz_lib_func(quizz_type))
+    return
   }
+
+  if (quizz_type == 'verbs') quizz = verbquizz;
+  else if (quizz_type == 'words') quizz = wordquizz;
+  else {
+    display_error('Unknown quizz type ' + quizz_type);
+    return;
+  }
+
+  var quizz_data_url = quizz_type + '.txt'
+  console.log('Loading ' + quizz_data_url);
+
+  var client = new XMLHttpRequest();
+  client.open('GET', quizz_data_url);
+
+  client.onreadystatechange = function () {
+    if (client.readyState == 4) {
+      console.log('2/2 - quizz data loaded.')
+      items = quizz.loadData(client.responseText)
+      $('#content').html('Tap to start...')
+    }
+  }
+  client.send();
 }
 
 // needs to be compatibe with htmlpreview.github.io
@@ -76,11 +97,11 @@ var currentQuestion, questionOrAnswer = true
 function next() {
   var display
   if (questionOrAnswer) {
-    currentQuestion = question(items)
+    currentQuestion = quizz.question(items)
     display = '<span class="question">' + currentQuestion + '</span>'
   } else {
     display = '<span class="question">' + currentQuestion + '</span>'
-    display += '<span class="answer">' + answer().join('<br/>') + '</span>'
+    display += '<span class="answer">' + quizz.answer().join('<br/>') + '</span>'
   }
   document.getElementById('content').innerHTML = display
   questionOrAnswer = !questionOrAnswer
