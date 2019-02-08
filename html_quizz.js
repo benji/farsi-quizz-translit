@@ -1,9 +1,6 @@
 function start_quizz() {
-  console.log(window.location)
-  const urlParams = new URLSearchParams(window.location.search);
-  console.log(urlParams)
-  const quizz_dict = urlParams.get('quizz_dict');
-  const quizz_type = urlParams.get('quizz_type');
+  const quizz_dict = special_capture_param('quizz_dict');
+  const quizz_type = special_capture_param('quizz_type');
   console.log(quizz_type)
   console.log(quizz_dict)
 
@@ -13,6 +10,21 @@ function start_quizz() {
     var quizz_lib_url = 'quizz_' + quizz_type + '.js'
     console.log('Loading ' + quizz_lib_url);
     load_script(quizz_lib_url, on_loaded_quizz_lib_func(quizz_type))
+  }
+}
+
+// needs to be compatibe with htmlpreview.github.io
+// original URL of github html file is already passed as query tring param
+function special_capture_param(name) {
+  console.log(window.location)
+  var tmp = window.location.href.replace(/.*\?/, '')
+  console.log(tmp)
+  var pairs = tmp.split('&')
+  for (var i in pairs) {
+    console.log(pairs[i])
+    var parts = pairs[i].split('=')
+    console.log(parts)
+    if (parts[0] == name) return parts[1]
   }
 }
 
