@@ -62,8 +62,10 @@ function conjugate(conjIdx, conjPrefix, root, personIdx) {
       return root
     }
     return root + 'i'
-  } else if (personIdx == 2) return root + '(ad)'
-  else if (personIdx == 3) return root + 'im'
+  } else if (personIdx == 2) {
+    if (conjIdx == 1) return root // past 3rd sing no ending
+    return root + '(ad)'
+  } else if (personIdx == 3) return root + 'im'
   else if (personIdx == 4) return root + 'id'
   else if (personIdx == 5) return root + 'and'
   else throw 'Invalid conjugation person idx ' + personIdx
