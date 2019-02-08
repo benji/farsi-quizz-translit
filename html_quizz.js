@@ -1,5 +1,4 @@
 function start_quizz() {
-
   console.log(window.location)
   const urlParams = new URLSearchParams(window.location.search);
   console.log(urlParams)
@@ -11,7 +10,7 @@ function start_quizz() {
   } else {
     var quizz_lib_url = 'quizz_' + quizz_type + '.js'
     console.log('Loading ' + quizz_lib_url);
-    load_script(quizz_lib_url, on_loaded_quizz_lib_func(quizz_dict))
+    load_script(quizz_lib_url, on_loaded_quizz_lib_func(quizz_type))
   }
 }
 
@@ -31,7 +30,7 @@ function load_script(url, onload) {
   s0.parentNode.insertBefore(sNew, s0);
 }
 
-function on_loaded_quizz_lib_func(quizz_dict) {
+function on_loaded_quizz_lib_func(quizz_type) {
   console.log('1/2 - quizz lib loaded.')
 
   return function () {

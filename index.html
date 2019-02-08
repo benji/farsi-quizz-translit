@@ -21,22 +21,8 @@
   </div>
 
   <script>
-    const urlParams = new URLSearchParams(window.location.search);
-    const quizz_type = urlParams.get('type');
-    const quizz_dict = urlParams.get('dict');
-
-    if (!quizz_type || !quizz_dict) {
-      $('#content').html('<i class="far fa-sad-tear fa-2x"></div>')
-    } else {
-      var script = document.createElement('script');
-      script.onload = function () {
-        console.log('Quizz lib loaded.')
-        $('#content').html('Tap to start...')
-        start_quizz(quizz_dict)
-      };
-      script.src = 'quizz_' + quizz_type + '.js'
-      document.head.appendChild(script);
-    }
+    console.log(1)
+    start_quizz()
   </script>
 </body>
 
