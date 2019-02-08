@@ -4,14 +4,21 @@ function start_quizz() {
   console.log(urlParams)
   const quizz_type = urlParams.get('type');
   const quizz_dict = urlParams.get('dict');
+  console.log(quizz_type)
+  console.log(quizz_dict)
 
   if (!quizz_type || !quizz_dict) {
-    $('#content').html('<i class="far fa-sad-tear fa-2x"></div>')
+    display_error('Missing type/dict in query string.')
   } else {
     var quizz_lib_url = 'quizz_' + quizz_type + '.js'
     console.log('Loading ' + quizz_lib_url);
     load_script(quizz_lib_url, on_loaded_quizz_lib_func(quizz_type))
   }
+}
+
+function display_error(msg) {
+  console.log(msg)
+  $('#content').html('<i class="far fa-sad-tear fa-2x"></div>')
 }
 
 function load_script_deprecated(url, onload) {
