@@ -8,9 +8,9 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 [Quizz - Verbs](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?type=verbs&dict=verbs)
 
-[Quizz - Words 1](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/words.html?type=words&dict=words1)
+[Quizz - Words 1](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?type=words&dict=words1)
 
-[Quizz - Words 2](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/words.html?type=words&dict=words2)
+[Quizz - Words 2](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?type=words&dict=words2)
 
 ### Desktop (NodeJS)
 

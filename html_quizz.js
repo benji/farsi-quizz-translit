@@ -9,12 +9,24 @@ function start_quizz() {
   } else {
     var quizz_lib_url = 'quizz_' + quizz_type + '.js'
     console.log('Loading ' + quizz_lib_url);
-
-    var script = document.createElement('script');
-    script.onload = on_loaded_quizz_lib_func(quizz_dict)
-    script.src = quizz_lib_url
-    document.head.appendChild(script);
+    load_script(quizz_lib_url, on_loaded_quizz_lib_func(quizz_dict))
   }
+}
+
+function load_script_deprecated(url, onload) {
+  var script = document.createElement('script');
+  script.onload = onload
+  script.src = url
+  document.head.appendChild(script);
+}
+
+function load_script(url, onload) {
+  var sNew = document.createElement("script");
+  sNew.async = true;
+  sNew.src = url;
+  sNew.onload = onload
+  var s0 = document.getElementsByTagName('script')[0];
+  s0.parentNode.insertBefore(sNew, s0);
 }
 
 function on_loaded_quizz_lib_func(quizz_dict) {
