@@ -1,6 +1,8 @@
 function start_quizz() {
 
+  console.log(window.location)
   const urlParams = new URLSearchParams(window.location.search);
+  console.log(urlParams)
   const quizz_type = urlParams.get('type');
   const quizz_dict = urlParams.get('dict');
 
