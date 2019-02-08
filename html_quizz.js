@@ -18,7 +18,7 @@ function start_quizz() {
     return;
   }
 
-  var quizz_data_url = quizz_dict + '.txt'
+  var quizz_data_url = 'dicts/' + quizz_dict + '.txt'
   console.log('Loading ' + quizz_data_url);
 
   var client = new XMLHttpRequest();

@@ -7,7 +7,7 @@ console.log('Quizz: ' + quizz_type)
 
 var quizz = require('./quizz_' + quizz_type)
 
-var data = fs.readFileSync(quizz_dict + '.txt').toString()
+var data = fs.readFileSync('dicts/' + quizz_dict + '.txt').toString()
 
 var rl = readline.createInterface({
   input: process.stdin,
