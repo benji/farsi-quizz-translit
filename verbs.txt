@@ -29,6 +29,8 @@ to help,komak kardan
 to kiss,boos kardan
 to wait (for:baraye),sabr kardan
 to find,peydâ kardan
+to speak,goftegu kardan
+to try,talash kardan
 
 to search / to roll / to turn,gasht,gard,be
 to come back,bar gashtan
