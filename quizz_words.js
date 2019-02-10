@@ -21,12 +21,18 @@ wordquizz.loadData = function (wordsFileContent) {
 
 wordquizz.currentAnswer
 
-wordquizz.question = function (words) {
+wordquizz.question = function (words, far2eng) {
   // pick word
   var wordIdx = Math.floor(Math.random() * Math.floor(words.length));
   var word = words[wordIdx]
-  wordquizz.currentAnswer = word.eng
-  return word.farsi
+
+  if (far2eng) {
+    wordquizz.currentAnswer = word.eng
+    return [word.farsi]
+  } else {
+    wordquizz.currentAnswer = word.farsi
+    return [word.eng]
+  }
 }
 
 wordquizz.answer = function () {

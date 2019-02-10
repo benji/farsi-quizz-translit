@@ -97,7 +97,7 @@ var choices = {
   6: 'imperative'
 }
 
-verbquizz.question = function (verbs) {
+verbquizz.question = function (verbs, far2eng) {
   // pick verb
   var verbIdx = Math.floor(Math.random() * Math.floor(verbs.length));
   var currentVerb = verbs[verbIdx]
@@ -110,7 +110,7 @@ verbquizz.question = function (verbs) {
   // pick person
   var personIdx = verbquizz.get_rand_person_for_tense(conjIdx)
 
-  return verbquizz.question_for_tense(currentVerb, conjIdx, personIdx)
+  return verbquizz.question_for_tense(currentVerb, conjIdx, personIdx, far2eng)
 }
 
 verbquizz.get_rand_person_for_tense = function (conjIdx) {
@@ -119,29 +119,40 @@ verbquizz.get_rand_person_for_tense = function (conjIdx) {
   return verbquizz.randInt(6);
 }
 
-verbquizz.question_for_tense = function (currentVerb, conjIdx, personIdx) {
+verbquizz.question_for_tense = function (currentVerb, conjIdx, personIdx, far2eng) {
   var compound_prefix_str = currentVerb.compound_prefix ? currentVerb.compound_prefix + ' ' : ''
-  var q = ''
+
+  var far = ''
 
   if (conjIdx == 0) {
-    q = compound_prefix_str + currentVerb.past_root + 'an'
+    far = compound_prefix_str + currentVerb.past_root + 'an'
   } else if (conjIdx == 1) {
-    q += compound_prefix_str + verbquizz.conjugate(conjIdx, '', currentVerb.past_root, personIdx)
+    far += compound_prefix_str + verbquizz.conjugate(conjIdx, '', currentVerb.past_root, personIdx)
   } else if (conjIdx == 2) {
-    q += compound_prefix_str + verbquizz.conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
+    far += compound_prefix_str + verbquizz.conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
   } else if (conjIdx == 3) {
-    q += compound_prefix_str + verbquizz.conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx)
+    far += compound_prefix_str + verbquizz.conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx)
   } else if (conjIdx == 4) {
-    q += verbquizz.conjugate(conjIdx, '', 'dâr', personIdx) + ' ' + compound_prefix_str + verbquizz.conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
+    far += verbquizz.conjugate(conjIdx, '', 'dâr', personIdx) + ' ' + compound_prefix_str + verbquizz.conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
   } else if (conjIdx == 5) {
-    q += verbquizz.conjugate(conjIdx, '', 'khâh', personIdx) + ' ' + compound_prefix_str + currentVerb.past_root
+    far += verbquizz.conjugate(conjIdx, '', 'khâh', personIdx) + ' ' + compound_prefix_str + currentVerb.past_root
   } else if (conjIdx == 6) {
-    q += compound_prefix_str + verbquizz.conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx) + '!'
+    far += compound_prefix_str + verbquizz.conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx) + '!'
   } else throw 'Invalid conjugation choice'
 
-  verbquizz.currentAnswer = [currentVerb.eng + ' (' + compound_prefix_str + currentVerb.past_root + 'an)', choices[conjIdx]]
-  if (personIdx >= 0) verbquizz.currentAnswer.push(verbquizz.person_answer(personIdx))
-  return q
+  var infinitive = compound_prefix_str + currentVerb.past_root + 'an'
+
+  if (far2eng) {
+    verbquizz.currentAnswer = [currentVerb.eng + ' (' + infinitive + ')', choices[conjIdx]]
+    if (personIdx >= 0) verbquizz.currentAnswer.push(verbquizz.person_answer(personIdx))
+    return [far]
+  } else {
+    verbquizz.currentAnswer = [far]
+    if (personIdx >= 0) verbquizz.currentAnswer.push(infinitive)
+    eng = [currentVerb.eng, choices[conjIdx]]
+    if (personIdx >= 0) eng.push(verbquizz.person_answer(personIdx))
+    return eng
+  }
 }
 
 verbquizz.answer = function () {

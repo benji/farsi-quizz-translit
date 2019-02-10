@@ -1,10 +1,17 @@
-var quizz
+/*
+Sample URLs:
+/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=false
+*/
+
+var quizz, quizz_far2eng
 
 function start_quizz() {
   const quizz_dict = special_capture_param('quizz_dict');
   const quizz_type = special_capture_param('quizz_type');
+  quizz_far2eng = special_capture_param('quizz_far2eng') == 'true';
   console.log(quizz_type)
   console.log(quizz_dict)
+  console.log(quizz_far2eng)
 
   if (!quizz_type || !quizz_dict) {
     display_error('Missing type/dict in query string.')
@@ -76,7 +83,7 @@ var currentQuestion, questionOrAnswer = true
 function next() {
   var display
   if (questionOrAnswer) {
-    currentQuestion = quizz.question(items)
+    currentQuestion = quizz.question(items, quizz_far2eng).join('<br/>')
     display = '<span class="question">' + currentQuestion + '</span>'
   } else {
     display = '<span class="question">' + currentQuestion + '</span>'

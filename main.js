@@ -3,6 +3,7 @@ var readline = require('readline');
 
 var quizz_type = process.argv[2]
 var quizz_dict = process.argv[3]
+var quizz_far2en = process.argv[4]
 console.log('Quizz: ' + quizz_type)
 
 var quizz = require('./quizz_' + quizz_type)
@@ -25,6 +26,6 @@ console.log('')
 var questionOrAnswer = true
 rl.on('line', function () {
   questionOrAnswer ?
-    process.stdout.write(quizz.question(items)) : console.log(quizz.answer().join(' ; '))
+    process.stdout.write(quizz.question(items, quizz_far2en == 'true').join(' ; ')) : console.log(quizz.answer().join(' ; '))
   questionOrAnswer = !questionOrAnswer
 })
