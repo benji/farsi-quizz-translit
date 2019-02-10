@@ -61,3 +61,4 @@ to understand,fahmid,fahm,be
 to hear,shenid,shenav,be
 to dance,raghsig,raghs,be
 to cook,pokht,paz,be
+to arrive,resid,res,be

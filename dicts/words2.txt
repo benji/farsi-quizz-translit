@@ -39,3 +39,7 @@ tight,tang
 for,baraye
 must,bāyad
 might,shāyad
+I'm bored,hoselam sar rafteh
+at/in,dar
+still/yet,hanooz
+half,nim
