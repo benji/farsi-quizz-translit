@@ -62,3 +62,5 @@ to hear,shenid,shenav,be
 to dance,raghsig,raghs,be
 to cook,pokht,paz,be
 to arrive,resid,res,be
+to send,resend,resan,be
+to work (to function),kar kardan

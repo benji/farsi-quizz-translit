@@ -30,3 +30,23 @@ Pronounciation: https://forvo.com/languages/fa/
 Grammar: https://en.wikipedia.org/wiki/Persian_grammar
 
 Suffixes/Possessive/Plural: https://en.wikipedia.org/wiki/Persian_nouns
+
+### Verbs Conjugation Rules
+
+There are some subtleties but essentially:
+
+```
+infinitive =            (past_root + 'an')
+past       =            (past_root<>)
+future     = (khah<>) + (past_root)
+
+present            =           ('mi' + present_root<>)
+continuous present = (dâr<>) + ('mi' + present_root<>)
+
+subjonctive = ('be/bo/biy' + present_root<>)
+imperative  = ('be/bo/biy' + present_root<>)
+```
+
+<> : congugation ending
+(...) : word
+/ : or

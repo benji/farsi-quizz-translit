@@ -22,9 +22,9 @@ mine,mal-e
 store,marâze
 why,cherâ
 how,chekonehe
-what,chehe
+what,che
 who,keye
-where,keyâ
+where,koja
 when,kei
 happy,khosh
 funny,khande

@@ -2,8 +2,8 @@ english,farsi
 today,emrooz
 tomorrow,fardaa
 yesterday,dirooz
-hour,saa'at
-o'clock,saa'at-e
+hour,saat
+o'clock,saate
 minute,daqiqe
 now,aknoon
 before(time),pish
@@ -41,3 +41,8 @@ right,râst
 bullshit,tormi
 near,nazdik
 morning,sobh
+1 o'clock,saate yek
+it's 1 o'clock,saate yeke
+it's been 1 hour,yek saate
+bed,bastar
+to bed,be bastar
