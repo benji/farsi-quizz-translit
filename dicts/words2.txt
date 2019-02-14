@@ -43,3 +43,9 @@ I'm bored,hoselam sar rafteh
 at/in,dar
 still/yet,hanooz
 half,nim
+morning,sobh
+1 o'clock,saate yek
+it's 1 o'clock,saate yeke
+it's been 1 hour,yek saate
+bed,bastar
+to bed,be bastar

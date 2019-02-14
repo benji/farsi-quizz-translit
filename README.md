@@ -47,6 +47,6 @@ subjonctive = ('be/bo/biy' + present_root<>)
 imperative  = ('be/bo/biy' + present_root<>)
 ```
 
-<> : congugation ending
-(...) : word
+<> : congugation ending  
+(...) : word  
 / : or

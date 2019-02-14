@@ -54,7 +54,8 @@ verbquizz.conjugate = function (conjIdx, conjPrefix, root, personIdx) {
   if (conjPrefix[0] == '*') root = conjPrefix.substring(1, conjPrefix.length)
   else {
     if (root[0] == '*') root = root.substring(1, root.length)
-    if (conjIdx != 2) root = conjPrefix + root
+    //if (conjIdx != 2) 
+    else root = conjPrefix + root
   }
 
   if (personIdx == 0) return root + 'am'
