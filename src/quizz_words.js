@@ -1,3 +1,9 @@
+var quizzutils
+
+if (typeof module != 'undefined') { // nodejs compatibility
+  if (quizzutils) {} else quizzutils = require('./quizzutils')
+}
+
 var wordquizz = {}
 
 wordquizz.loadData = function (wordsFileContent) {
@@ -16,15 +22,16 @@ wordquizz.loadData = function (wordsFileContent) {
     }
     words.push(word)
   }
+
+  words = quizzutils.shuffle(words)
   return words
 }
 
 wordquizz.currentAnswer
+wordquizz.currentIdx = 0
 
 wordquizz.question = function (words, far2eng) {
-  // pick word
-  var wordIdx = Math.floor(Math.random() * Math.floor(words.length));
-  var word = words[wordIdx]
+  var word = words[wordquizz.currentIdx++ % words.length]
 
   if (far2eng) {
     wordquizz.currentAnswer = word.eng

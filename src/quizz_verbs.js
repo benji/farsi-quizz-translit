@@ -1,4 +1,12 @@
-var verbquizz = {}
+var quizzutils
+
+if (typeof module != 'undefined') { // nodejs compatibility
+  if (quizzutils) {} else quizzutils = require('./quizzutils')
+}
+
+var verbquizz = {
+  currentIdx:0
+}
 
 verbquizz.loadData = function (verbsFileContent) {
   console.log('Loading verbs...')
@@ -47,6 +55,7 @@ verbquizz.loadData = function (verbsFileContent) {
     }
   }
 
+  verbs = quizzutils.shuffle(verbs)
   return verbs
 }
 
@@ -99,9 +108,7 @@ var choices = {
 }
 
 verbquizz.question = function (verbs, far2eng) {
-  // pick verb
-  var verbIdx = Math.floor(Math.random() * Math.floor(verbs.length));
-  var currentVerb = verbs[verbIdx]
+  var currentVerb = verbs[verbquizz.currentIdx++ % verbs.length]
 
   // pick conjugation
   var nchoices = 0
