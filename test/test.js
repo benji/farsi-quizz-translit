@@ -1,6 +1,6 @@
 var fs = require('fs');
 var assert = require('assert');
-var quizz = require('../quizz_verbs')
+var quizz = require('../src/quizz_verbs')
 
 var data = fs.readFileSync('dicts/verbs.txt').toString()
 var verbs = quizz.loadData(data)

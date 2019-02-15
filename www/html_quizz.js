@@ -6,12 +6,13 @@ Sample URLs:
 var quizz, quizz_far2eng
 
 function start_quizz() {
+  console.log(window.location)
   const quizz_dict = special_capture_param('quizz_dict');
   const quizz_type = special_capture_param('quizz_type');
   quizz_far2eng = special_capture_param('quizz_far2eng') == 'true';
-  console.log(quizz_type)
-  console.log(quizz_dict)
-  console.log(quizz_far2eng)
+  console.log('Quizz type: ' + quizz_type)
+  console.log('Quizz dict: ' + quizz_dict)
+  console.log('Quizz far2en: ' + quizz_far2eng)
 
   if (!quizz_type || !quizz_dict) {
     display_error('Missing type/dict in query string.')
@@ -25,17 +26,21 @@ function start_quizz() {
     return;
   }
 
-  var quizz_data_url = 'dicts/' + quizz_dict + '.txt'
+  var quizz_data_url = '../dicts/' + quizz_dict + '.txt'
   console.log('Loading ' + quizz_data_url);
 
   var client = new XMLHttpRequest();
   client.open('GET', quizz_data_url);
 
-  client.onreadystatechange = function () {
+  client.onreadystatechange = function (a, b, c, d) {
     if (client.readyState == 4) {
-      console.log('2/2 - quizz data loaded.')
-      items = quizz.loadData(client.responseText)
-      $('#content').html('Tap to start...')
+      if (client.status == 200) {
+        console.log('Quizz data loaded.')
+        items = quizz.loadData(client.responseText)
+        $('#content').html('Tap to start...')
+      } else {
+        display_error('Request failed.')
+      }
     }
   }
   client.send();
@@ -44,20 +49,16 @@ function start_quizz() {
 // needs to be compatibe with htmlpreview.github.io
 // original URL of github html file is already passed as query tring param
 function special_capture_param(name) {
-  console.log(window.location)
   var tmp = window.location.href.replace(/.*\?/, '')
-  console.log(tmp)
   var pairs = tmp.split('&')
   for (var i in pairs) {
-    console.log(pairs[i])
     var parts = pairs[i].split('=')
-    console.log(parts)
     if (parts[0] == name) return parts[1]
   }
 }
 
 function display_error(msg) {
-  console.log(msg)
+  console.error(msg)
   $('#content').html('<i class="far fa-sad-tear fa-2x"></div>')
 }
 

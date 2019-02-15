@@ -49,3 +49,4 @@ it's 1 o'clock,saate yeke
 it's been 1 hour,yek saate
 bed,bastar
 to bed,be bastar
+flight,pârvoz

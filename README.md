@@ -4,14 +4,14 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 ### Webapp Quizz Demo
 
-[Verbs Persian -> English](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=true)  
-[Verbs English -> Persian](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=false)
+[Verbs Persian -> English](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=true)  
+[Verbs English -> Persian](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=false)
 
-[Words 1 Persian -> English](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?quizz_type=words&quizz_dict=words1&quizz_far2eng=true)  
-[Words 1 English -> Persian](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?quizz_type=words&quizz_dict=words1&quizz_far2eng=false)
+[Words 1 Persian -> English](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words1&quizz_far2eng=true)  
+[Words 1 English -> Persian](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words1&quizz_far2eng=false)
 
-[Words 2 - Persian -> English](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?quizz_type=words&quizz_dict=words2&quizz_far2eng=true)  
-[Words 2 - English -> Persian](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/index.html?quizz_type=words&quizz_dict=words2&quizz_far2eng=false)
+[Words 2 - Persian -> English](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words2&quizz_far2eng=true)  
+[Words 2 - English -> Persian](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words2&quizz_far2eng=false)
 
 ### Desktop (NodeJS)
 
