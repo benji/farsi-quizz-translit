@@ -116,7 +116,10 @@ verbquizz.question = function (verbs, far2eng) {
 
 verbquizz.get_rand_person_for_tense = function (conjIdx) {
   if (conjIdx == 0) return -1;
-  if (conjIdx == 6) return verbquizz.randInt(5) + 1;
+  if (conjIdx == 6) {
+    var possible_persons_imperative = [1, 3, 4]
+    return possible_persons_imperative[verbquizz.randInt(possible_persons_imperative.length)];
+  }
   return verbquizz.randInt(6);
 }
 
