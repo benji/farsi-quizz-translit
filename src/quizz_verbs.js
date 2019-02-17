@@ -5,7 +5,7 @@ if (typeof module != 'undefined') { // nodejs compatibility
 }
 
 var verbquizz = {
-  currentIdx:0
+  currentIdx: 0
 }
 
 verbquizz.loadData = function (verbsFileContent) {
@@ -146,7 +146,7 @@ verbquizz.question_for_tense = function (currentVerb, conjIdx, personIdx, far2en
   } else if (conjIdx == 4) {
     far += verbquizz.conjugate(conjIdx, '', 'dâr', personIdx) + ' ' + compound_prefix_str + verbquizz.conjugate(conjIdx, 'mi', currentVerb.pres_root, personIdx)
   } else if (conjIdx == 5) {
-    far += verbquizz.conjugate(conjIdx, '', 'khâh', personIdx) + ' ' + compound_prefix_str + currentVerb.past_root
+    far += compound_prefix_str + verbquizz.conjugate(conjIdx, '', 'khâh', personIdx) + ' ' + currentVerb.past_root
   } else if (conjIdx == 6) {
     far += compound_prefix_str + verbquizz.conjugate(conjIdx, currentVerb.subj_prefix, currentVerb.pres_root, personIdx) + '!'
   } else throw 'Invalid conjugation choice'
