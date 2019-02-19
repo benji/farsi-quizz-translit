@@ -31,6 +31,9 @@ to wait (for:baraye),sabr kardan
 to find,peydâ kardan
 to speak,goftegu kardan
 to try,talash kardan
+to make (food),dorost kardan
+to feel,~ehsâss kardan
+to look (at),(be) negah kardan
 
 to search / to roll / to turn,gasht,gard,be
 to come back,bar gashtan
@@ -41,16 +44,19 @@ to learn,yâd gereftan
 to read,khând,khân,be
 to sing,âvâd khândan
 
+to come,âmad,ây,biy
+to wind,bâd âmadan
+
 to become,shod,shav,be
 to go,raft,rav,be
 to want,khâst,khâh,be
-to come,âmad,ây,biy
 to bring,âvard,âvar,biy
 to buy,kharid,khar,be
 to sleep,khâbid,khâb,be
 to laugh,khandid,khand,be
 to eat,khord,khor,bo
-to know,dânest,dân,be
+to know (something),dânest,dân,be
+to know (someone),shenart,shenas,be
 to can,tavânest,tavân,be
 to make/to build,sâkht,sâz,be
 to say,goft,guy,be
@@ -65,3 +71,4 @@ to arrive,resid,res,be
 to send,resend,resan,be
 to work (to function),kar kardan
 to put,gozāsht,gozār,be
+to run,david,dav,be

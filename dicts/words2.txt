@@ -6,12 +6,6 @@ hot,dâr
 far,dour
 ugly,zesht
 easy,saade
-zero,sefr
-six,shesh
-seven,haft
-eight,hasht
-nine,noh
-ten,dah
 head,sar
 with,ba
 without,bi
@@ -21,7 +15,8 @@ many,bas
 mine,mal-e
 store,marâze
 why,cherâ
-how,chekonehe
+how,tchetor
+how many,tchand tâ
 what,che
 who,keye
 where,koja
@@ -29,24 +24,15 @@ when,kei
 happy,khosh
 funny,khande
 excited,hayejaanzade
-have fun,khosh bâshi
 food,ghaza
-the big brother,barâdar-e bozorg
-my book (book of me),ke'tab-e man
-beautiful girl (girl-of beautiful),doxtar-e zibâ
 heart,del
 tight,tang
 for,baraye
 must,bāyad
 might,shāyad
-I'm bored,hoselam sar rafteh
 at/in,dar
 still/yet,hanooz
 half,nim
 morning,sobh
-1 o'clock,saate yek
-it's 1 o'clock,saate yeke
-it's been 1 hour,yek saate
 bed,bastar
-to bed,be bastar
 flight,pârvoz

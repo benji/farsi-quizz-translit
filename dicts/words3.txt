@@ -1,0 +1,31 @@
+english,farsi
+breakfast,sobh-aneh
+dinner,sham
+correct,dorost
+tired,khasteh
+there is,anja hast
+wind,bâd
+sun,khorshid/oftâb
+sunny,oftâbi
+rain,baran
+rainy,barani
+thing,cheezy
+something,yek cheesy
+kassi,someone
+hello (ancient),dorood
+goodbye (ancient),bedrood
+mother,madar
+father,pedar
+month,mâh
+lip,lab
+tall,gerân
+key,kelid
+better,behtar
+star,setaareh
+thunder,tondar
+mouse,moush
+name,nâm
+orange,nârendji
+new,no
+naviguate,nâv
+fairy,pari
