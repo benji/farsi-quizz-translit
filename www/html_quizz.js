@@ -26,7 +26,8 @@ function start_quizz() {
     return;
   }
 
-  var quizz_data_url = '../dicts/' + quizz_dict + '.txt'
+  var ts = (new Date()).getTime()
+  var quizz_data_url = '../dicts/' + quizz_dict + '.txt?ts=' + ts
   console.log('Loading ' + quizz_data_url);
 
   var client = new XMLHttpRequest();
