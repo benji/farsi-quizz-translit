@@ -29,7 +29,7 @@ verbquizz.loadData = function (verbsFileContent) {
       var compound_parts = parts[1].split(' ')
 
       verb.compound_main_verb_infinitive = compound_parts[compound_parts.length - 1]
-      verb.compound_prefix = parts[1].replace(' ' + verb.compound_main_verb_infinitive)
+      verb.compound_prefix = parts[1].replace(' ' + verb.compound_main_verb_infinitive, '')
     } else if (parts.length == 4) {
       verb.compound = true
       verb.past_root = parts[1]
@@ -158,7 +158,7 @@ verbquizz.question_for_tense = function (currentVerb, conjIdx, personIdx, far2en
     return [far]
   } else {
     verbquizz.currentAnswer = [far]
-    if (personIdx >= 0) verbquizz.currentAnswer.push(infinitive)
+    if (personIdx >= 0) verbquizz.currentAnswer.push('[' + infinitive + ']')
     eng = [currentVerb.eng, choices[conjIdx]]
     if (personIdx >= 0) eng.push(verbquizz.person_answer(personIdx))
     return eng
