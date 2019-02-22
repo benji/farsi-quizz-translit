@@ -36,7 +36,11 @@ function start_quizz() {
     if (client.readyState == 4) {
       if (client.status == 200) {
         console.log('Quizz data loaded.')
-        items = quizz.loadData(client.responseText)
+        try {
+          items = quizz.loadData(client.responseText)
+        } catch (e) {
+          return display_error('Failed to load dict: ' + e)
+        }
         $('#content').html('Tap to start...')
       } else {
         display_error('Request failed.')

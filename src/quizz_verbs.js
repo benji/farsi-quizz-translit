@@ -27,10 +27,9 @@ verbquizz.loadData = function (verbsFileContent) {
       verb.compound = true
       verb.infinitive = parts[1]
       var compound_parts = parts[1].split(' ')
-      if (compound_parts.length != 2) throw 'Invalid compound [' + lines[i] + ']'
-      verb.compound_prefix = compound_parts[0]
-      verb.compound_main_verb_infinitive = compound_parts[1]
-      //console.log(verb.infinitive)
+
+      verb.compound_main_verb_infinitive = compound_parts[compound_parts.length - 1]
+      verb.compound_prefix = parts[1].replace(' ' + verb.compound_main_verb_infinitive)
     } else if (parts.length == 4) {
       verb.compound = true
       verb.past_root = parts[1]
