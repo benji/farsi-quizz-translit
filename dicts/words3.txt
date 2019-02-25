@@ -29,3 +29,5 @@ orange,nârendji
 new,no
 naviguate,nâv
 fairy,pari
+I am not,nistam
+ready,hazer

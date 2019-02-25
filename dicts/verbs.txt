@@ -17,6 +17,7 @@ to dream,khâb didan
 
 to hit,zad,zan,be
 to shout,dâd zadan
+to speak,harf zadan
 
 (to do),kard,kon,bo
 to play,bâzi kardan
@@ -29,7 +30,6 @@ to help,komak kardan
 to kiss,boos kardan
 to wait (for:baraye),sabr kardan
 to find,peydâ kardan
-to speak,goftegu kardan
 to try,talash kardan
 to make (food),dorost kardan
 to feel,~ehsâss kardan

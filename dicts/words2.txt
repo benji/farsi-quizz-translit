@@ -22,13 +22,15 @@ who,keye
 where,koja
 when,kei
 happy,khosh
+delicieux,khoshmazeh
+taste,mazeh
 funny,khande
 excited,hayejaanzade
 food,ghaza
 heart,del
 tight,tang
 for,baraye
-must,bāyad
+must/should,bāyad
 might,shāyad
 at/in,dar
 still/yet,hanooz
