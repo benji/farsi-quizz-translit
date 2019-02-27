@@ -56,7 +56,7 @@ to sleep,khâbid,khâb,be
 to laugh,khandid,khand,be
 to eat,khord,khor,bo
 to know (something),dânest,dân,be
-to know (someone),shenart,shenas,be
+to know (someone),shenâkht,shenâs,be
 to can,tavânest,tavân,be
 to make/to build,sâkht,sâz,be
 to say,goft,guy,be
@@ -65,7 +65,7 @@ to drink,nushid,nush,be
 to write,nevesht,nevis,be
 to understand,fahmid,fahm,be
 to hear,shenid,shenav,be
-to dance,raghsig,raghs,be
+to dance,raghsid,raghs,be
 to cook,pokht,paz,be
 to arrive,resid,res,be
 to send,resend,resan,be

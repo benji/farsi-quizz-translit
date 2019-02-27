@@ -12,7 +12,7 @@ there is a lot of wind,kheili bâd miad(miayad)
 have fun,khosh bâshi
 the big brother,barâdar-e bozorg
 my book (book of me),ke'tab-e man
-beautiful girl (girl-of beautiful),doxtar-e zibâ
+beautiful girl (girl-of beautiful),dokhtar-e zibâ
 I'm bored,hoselam sar rafteh
 1 o'clock,saate yek
 it's 1 o'clock,saate yeke
@@ -21,3 +21,15 @@ to bed,be bastar
 I must speak farsi,man bâyad farsi (ra) harf bezanam
 I should try to learn farsi,man bâyad tâlash (bo)konam farsi ra yâd begiram
 I should eat,man bâyad bokhoram
+nice to meet you,az didanet khoshbakhtam
+you're welcome,khahesh mikonam / ghabeli nadareh
+how are you? (casual),(halet) chetore / chetori
+how are you? (formal),hal-e shoma chetore
+goodbye (formal),khoda Hafez
+goodbye (casual),khodafez
+do you know english? (casual),englisi baladi?
+do you know english? (formal),aya shoma englisi sokhbat mikonid?
+I don't speak english,man englisi balad nistam
+Excuse me one coffee please,bebakhshid yek ghahve lotfan
+Where is Paris?,Paris kojast?
+Forgive me,marâ(man râ) bebakhsh

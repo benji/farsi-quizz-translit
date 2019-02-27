@@ -31,3 +31,4 @@ naviguate,nâv
 fairy,pari
 I am not,nistam
 ready,hazer
+a little bit,yek kami
