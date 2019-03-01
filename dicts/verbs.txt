@@ -17,7 +17,7 @@ to dream,khâb didan
 
 to hit,zad,zan,be
 to shout,dâd zadan
-to speak,harf zadan
+to speak,harf zadan / sokhbat kardan
 
 (to do),kard,kon,bo
 to play,bâzi kardan

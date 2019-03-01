@@ -1,0 +1,4 @@
+english,farsi
+open / to open,bâz / bâz kardan
+snow / to snow,barf / barf âmadan
+ear / to hear,goush / goush kardan (goush dâdan)
