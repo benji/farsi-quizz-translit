@@ -11,7 +11,7 @@ rain,baran
 rainy,barani
 thing,cheezy
 something,yek cheesy
-kassi,someone
+someone,kassi
 hello (ancient),dorood
 goodbye (ancient),bedrood
 mother,madar

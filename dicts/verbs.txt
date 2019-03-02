@@ -1,6 +1,7 @@
 english,past root,present root,subjonctive prefix
 
 to be,bud,*hast,*bâsh
+
 to hope,omidvâr budan
 
 to have,dâsht,*dâr,be
@@ -48,7 +49,8 @@ to come,âmad,ây,biy
 to wind,bâd âmadan
 
 to become,shod,shav,be
-to go,raft,rav,be
+to go (formal),raft,rav,be
+to go (casual),raft,r,be
 to want,khâst,khâh,be
 to bring,âvard,âvar,biy
 to buy,kharid,khar,be
@@ -57,7 +59,8 @@ to laugh,khandid,khand,be
 to eat,khord,khor,bo
 to know (something),dânest,dân,be
 to know (someone),shenâkht,shenâs,be
-to can,tavânest,tavân,be
+to can (formal),tavânest,tavân,be
+to can (casual),toonest,toon,be
 to make/to build,sâkht,sâz,be
 to say,goft,guy,be
 to die,mord,mir,be

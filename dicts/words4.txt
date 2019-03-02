@@ -2,3 +2,25 @@ english,farsi
 open / to open,bâz / bâz kardan
 snow / to snow,barf / barf âmadan
 ear / to hear,goush / goush kardan (goush dâdan)
+black,seyâh
+white,sefeyed
+meuble,asbâb
+jouet,asbâb bâzi
+fire,âtesh
+teacher,mo'alem
+student,daneshjoo
+language,zabân
+one moment,yes lahzeh
+weather,havâ
+money,pool
+bathroom,hamam
+congratulations,tabrik
+end,âkhar
+pet,ahli
+wife,hamsar
+house,khaneh
+before,pish/rabl
+after,pas/ba-ad
+this,in
+that,ân
+poop,an

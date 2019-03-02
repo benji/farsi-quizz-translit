@@ -6,8 +6,6 @@ hour,saat
 o'clock,saate
 minute,daqiqe
 now,aknoon
-before(time),pish
-after(time),pas
 tonight,emshab
 small,kotchak
 big,bozorg
@@ -30,7 +28,6 @@ here,indja
 life,zendegi
 book,ketab
 bookS,ketab-ha
-this,in
 friend,dust
 left,tchap
 right,râst

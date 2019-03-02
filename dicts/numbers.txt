@@ -19,3 +19,19 @@ ten,dah
 18,hijdah
 19,noozdah
 20,bist
+30,si
+40,chehel
+50,panjâh
+60,shast
+70,hafâd
+80,hajtâd
+90,navad
+100,sad
+199,sad o navad o noh
+Monday,doshanbe
+Tuesday,seshanbe
+Wednesday,chahârshanbe
+Thursday,panjshanbe
+Friday,jome-e
+Saturday,shanbe
+Sunday,yekshanbe
