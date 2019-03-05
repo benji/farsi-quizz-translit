@@ -52,3 +52,8 @@ what's you address?,adreset chieh?
 where are you going?,koja miri?
 good luck (be successful),movaffagh bashi
 1 week ago,yek hafte pish/rabl
+happy birthday,tavalodet mobarak
+I don't know how to say it in english,nemidanam chetori be engilisi beguyam
+I'm just here 1 day,faqat yek rook mimanam
+I'm going to be here for a week,yet rafteh inja mimanam
+when do you leave?,kei mivari?
