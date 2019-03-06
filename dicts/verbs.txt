@@ -75,3 +75,4 @@ to send,resend,resan,be
 to work (to function),kar kardan
 to put,gozāsht,gozār,be
 to run,david,dav,be
+to stay,mand,man,be

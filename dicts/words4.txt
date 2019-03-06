@@ -24,3 +24,4 @@ after,pas/ba-ad
 this,in
 that,ân
 poop,an
+only,farat
