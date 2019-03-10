@@ -24,7 +24,8 @@ better,behtar
 star,setaareh
 thunder,tondar
 mouse,moush
-name,nâm
+name (formal),nâm
+name (casual),esmesh
 orange,nârendji
 new,no
 naviguate,nâv
