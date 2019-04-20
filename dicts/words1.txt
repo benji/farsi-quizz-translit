@@ -7,7 +7,7 @@ o'clock,saate
 minute,daqiqe
 now,aknoon
 tonight,emshab
-small,kotchak
+small,kutchek
 big,bozorg
 warm,garm
 zero,sefr
@@ -18,7 +18,7 @@ difficult,doshvaar
 night,shab
 coffee,ghahve
 wine,sharâb
-beer,âbejo
+beer,âb(e)jo
 water,âb
 and,va
 or,ya

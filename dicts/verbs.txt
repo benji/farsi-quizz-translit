@@ -29,7 +29,8 @@ to hug,baghal kardan
 to repair,ta'mir kardan
 to help,komak kardan
 to kiss,boos kardan
-to wait (for:baraye),sabr kardan
+to wait (being patient) (for:baraye),sabr kardan
+to wait (stand still) (for:baraye),montazer shodan
 to find,peydâ kardan
 to try,talash kardan
 to make (food),dorost kardan

@@ -10,15 +10,15 @@ fire,âtesh
 teacher,mo'alem
 student,daneshjoo
 language,zabân
-one moment,yes lahzeh
+one moment,yek lahzeh
 weather,havâ
 money,pool
 bathroom,hamam
 congratulations,tabrik
 end,âkhar
 pet,ahli
-wife,hamsar
-house,khaneh
+wife/husband,hamsar
+house,khooneh
 before,pish/rabl
 after,pas/ba-ad
 this,in
@@ -30,4 +30,4 @@ to smell,boo dadan
 because,tchon
 ass,koon
 painful,dardnok
-it hurts,dard mokone
+it hurts,dard mikone

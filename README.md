@@ -42,6 +42,10 @@ French-Persian: http://anamnese.online.fr/site2/index.php?page=iran
 
 https://www.sssscomic.com/comicpages/196.jpg
 
+https://archive.org/stream/persianselftaugh00hasauoft#page/n27/mode/2up
+
+https://librivox.org/persian-self-taught-by-shaykh-hasan/
+
 ### Verbs Conjugation Rules
 
 There are some subtleties but essentially:
