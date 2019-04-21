@@ -1,6 +1,6 @@
 english,farsi
 breakfast,sobh-aneh
-dinner,sham
+dinner,shâm
 correct,dorost
 tired,khasteh
 there is,anja hast
@@ -18,17 +18,15 @@ mother,madar
 father,pedar
 month,mâh
 lip,lab
-tall,gerân
+expensive,gerân/geroon
+cheap,arzân/arzoon
 key,kelid
 better,behtar
 star,setaareh
 thunder,tondar
 mouse,moush
-name (formal),nâm
-name (casual),esmesh
-orange,nârendji
+name,esmesh (formal:nâm)
 new,no
-naviguate,nâv
 fairy,pari
 I am not,nistam
 ready,hazer

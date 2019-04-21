@@ -1,13 +1,14 @@
 english,farsi
 open / to open,bâz / bâz kardan
 snow / to snow,barf / barf âmadan
-ear / to hear,goush / goush kardan (goush dâdan)
-black,seyâh
-white,sefeyed
+ear / to listen,goush / goush kardan (goush dâdan)
+black,sia
+white,sefid
+orange (color),nârendji
 meuble,asbâb
 jouet,asbâb bâzi
 fire,âtesh
-teacher,mo'alem
+teacher,moallem
 student,daneshjoo
 language,zabân
 one moment,yek lahzeh
@@ -16,9 +17,9 @@ money,pool
 bathroom,hamam
 congratulations,tabrik
 end,âkhar
-pet,ahli
+tamed,ahli
 wife/husband,hamsar
-house,khooneh
+house,khooneh(khâneh)
 before,pish/rabl
 after,pas/ba-ad
 this,in
@@ -26,7 +27,7 @@ that,ân
 poop,an
 only,farat
 to fart,boo kardan
-to smell,boo dadan
+to smell (bad),boo dadan
 because,tchon
 ass,koon
 painful,dardnok

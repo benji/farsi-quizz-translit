@@ -18,8 +18,9 @@ difficult,doshvaar
 night,shab
 coffee,ghahve
 wine,sharâb
-beer,âb(e)jo
 water,âb
+beer,âb(e)jo
+wheat,jo
 and,va
 or,ya
 man,mard

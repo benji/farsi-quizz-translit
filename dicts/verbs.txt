@@ -72,8 +72,9 @@ to hear,shenid,shenav,be
 to dance,raghsid,raghs,be
 to cook,pokht,paz,be
 to arrive,resid,res,be
-to send,resend,resan,be
 to work (to function),kar kardan
 to put,gozāsht,gozār,be
 to run,david,dav,be
 to stay,mand,man,be
+to fight,davā kardan
+to send,ferestâdan,ferest,be
