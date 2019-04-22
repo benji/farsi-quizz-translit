@@ -1,9 +1,5 @@
 english,farsi
-more,bishtar
-less,kamtar
-entezar,the wait
-rhanoom-am,my lady
-shohar,husband
+less/more,kamtar/bishtar
 cake,cake
 war,djang
 fight,davā
