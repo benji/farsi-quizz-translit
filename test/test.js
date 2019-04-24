@@ -7,7 +7,7 @@ var verbs = quizz.loadData(data)
 
 var budan = quizz.find_verb(verbs, 'to be')
 var dashtan = quizz.find_verb(verbs, 'to have')
-var raftan = quizz.find_verb(verbs, 'to go')
+var raftan = quizz.find_verb(verbs, 'to go (casual)')
 var amadan = quizz.find_verb(verbs, 'to come')
 var tamasha = quizz.find_verb(verbs, 'to watch')
 var khastan = quizz.find_verb(verbs, 'to want')
@@ -28,7 +28,7 @@ describe('Verbs', function () {
   });
 
   it('Present', function () {
-    assert.equal(quizz.question_for_tense(raftan, 2, 0, true), 'miravam');
+    assert.equal(quizz.question_for_tense(raftan, 2, 0, true), 'miram');
     assert.equal(quizz.question_for_tense(budan, 2, 0, true), 'hastam');
     assert.equal(quizz.question_for_tense(dashtan, 2, 0, true), 'dâram');
   });
