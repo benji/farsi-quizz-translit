@@ -2,7 +2,7 @@ english,farsi
 less/more,kamtar/bishtar
 cake,cake
 war,djang
-fight,
+fight,davā
 ~the feeling of a person / the inner state of a person~,hal
 table,miz
 chair,sandali
@@ -11,5 +11,4 @@ fruit,mive
 meat,gousht
 milk,sheer
 bread,nan
-always,hamishe
-never,harguez
+never/always,harguez/hamishev
