@@ -100,8 +100,8 @@ var choices = {
   0: 'infinitive',
   1: 'past',
   2: 'present',
-  3: 'subjonctive',
-  4: 'continuous',
+  3: 'subjonctive present',
+  4: 'continuous present',
   5: 'future',
   6: 'imperative'
 }

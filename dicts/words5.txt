@@ -2,4 +2,14 @@ english,farsi
 less/more,kamtar/bishtar
 cake,cake
 war,djang
-fight,davā
+fight,
+~the feeling of a person / the inner state of a person~,hal
+table,miz
+chair,sandali
+car,machine
+fruit,mive
+meat,gousht
+milk,sheer
+bread,nan
+always,hamishe
+never,harguez

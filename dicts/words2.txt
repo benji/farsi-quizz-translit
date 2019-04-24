@@ -21,7 +21,7 @@ what,che
 who,keye
 where,koja
 when,kei
-happy,khosh
+happy,khosh-hal
 delicieux,khoshmazeh
 taste,mazeh
 funny,khande

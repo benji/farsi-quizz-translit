@@ -78,3 +78,4 @@ to run,david,dav,be
 to stay,mand,man,be
 to fight,davā kardan
 to send,ferestâdan,ferest,be
+to remember,be yād avardan
