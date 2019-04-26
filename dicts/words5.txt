@@ -12,3 +12,14 @@ meat,gousht
 milk,sheer
 bread,nan
 never/always,harguez/hamishev
+time,zaman
+fast/quick/early/soon,zood
+late,dir
+slow,kond
+busy,sholoorh
+problem/issue,moshkel
+safar,trip
+soul,jān/joon
+the look,nazar
+sure,motma'en
+time,zaman

@@ -5,7 +5,7 @@ yesterday,dirooz
 hour,saat
 o'clock,saate
 minute,daqiqe
-now,aknoon
+now,casual:alan formal:aknoon
 tonight,emshab
 small,kutchek
 big,bozorg

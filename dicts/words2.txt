@@ -11,7 +11,8 @@ with,ba
 without,bi
 but,vali
 all,hame
-many,bas
+enough,bas
+many,ziad
 mine,mal-e
 store,marâze
 why,cherâ

@@ -25,7 +25,7 @@ to play,bâzi kardan
 to fly,pârvoz kardan
 to watch,tamâshâ kardan
 to think,fekr kardan
-to hug,baghal kardan
+to hug,barhal kardan
 to repair,ta'mir kardan
 to help,komak kardan
 to kiss,boos kardan
@@ -79,3 +79,8 @@ to stay,mand,man,be
 to fight,davā kardan
 to send,ferestâdan,ferest,be
 to remember,be-yād âvardan
+to go by/passer (temps qui passe),gozashtan,gozar,be
+
+to thank,tashakor kardan
+to be sorry,motaasef budan
+to be sure,motma'en budan

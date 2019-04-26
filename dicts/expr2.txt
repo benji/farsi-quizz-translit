@@ -1,32 +1,34 @@
 eng,far
 how are you? (formal),haletan khoob hast?
-how is it going?,ozaa chetore
-I'm fine, thank you,khoobam, mot(a)shakeram
+how is it going? (what's your situation),ozaa(t) chetore
+I'm fine thank you,khoobam mot(e)shakeram
 not bad,bad nistam
-see you later (casual),badan mibinamet
+see you later (casual),ba-adan mibinamet
 not much,na ziad
-I've been very busy,saram kheily sholorh bood
+I've been very busy,saram kheily sholoorh bood
 see you soon,be zoodi mibinamet
-take care,!moraqeb bash!
-I'm sorry,motasefam
+take care,!morareb bash!
+I'm sorry,motaasefam
 no problem,moshkeli nist
 just a little,farat kami
 I grew up in Germani,dar alman bozorg shodam
 it's 2 o'clock,saat do ast
-good job,!afarin!
+good job (you achieved something higher),!afarin!
 have a nice trip,safare khoobi dashteh bashi
-enjoy your meal,nooshe jan
-I have to go now,alan bayad beram
+enjoy your meal,nushe jān
+I have to go now,alan bāyad beram
 that sounds good,be nazar khoob miad
 are you sure?,motma'eni?
 I'm not sure,motma'en nistam
-we're broken,ma az kar oftade-im
+broken / we're broken,az kar oftade/ma (az kar oftade)-im
 come/don't come,bia/naya
 go/don't go,ro/naro
-I want more bread,bishtar âb mikhaham
+I want more water,bishtar âb mikhaham
 thanks for making dinner,mamnoon baraye shâm/mamnoon shâm pokhti
 what's this?,in chie
 khosh gozasht,it was fun
 on the table,rouille miz
 under the table,zire miz
 I can't remember,man yâd-am nemiayad
+time goes by fast,zaman zood migozarad
+thank you,az to tashakor mikonam / az to motshakeram
