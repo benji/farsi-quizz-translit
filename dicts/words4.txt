@@ -5,11 +5,13 @@ ear / to listen,goush / goush kardan (goush dâdan)
 black,sia
 white,sefid
 orange (color),nârendji
+red,ermez/sorkh
+blue,âbi
 meuble,asbâb
 jouet,asbâb bâzi
 fire,âtesh
-teacher,moallem
-student,daneshjoo
+teacher (arabic/farsi),moallem/amoozegar
+student before university / after university,dânesh amooz / dâneshjoo
 language,zabân
 one moment,yek lahzeh
 weather,havâ
@@ -32,3 +34,5 @@ because,tchon
 ass,koon
 painful,dardnok
 it hurts,dard mikone
+god (the nurturer),parvar degar
+kitchen,ashpaz khooneh

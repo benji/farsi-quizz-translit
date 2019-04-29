@@ -11,15 +11,24 @@ fruit,mive
 meat,gousht
 milk,sheer
 bread,nan
-never/always,harguez/hamishev
+never/always,harguez/hamishe
 time,zaman
 fast/quick/early/soon,zood
 late,dir
 slow,kond
 busy,sholoorh
 problem/issue,moshkel
-safar,trip
+trip,safar
 soul,jān/joon
 the look,nazar
 sure,motma'en
-time,zaman
+time,
+to decrease,kam kardan
+to increase,ezafe kardan
+the same (or I agree),hamoon
+children / "guys",batche-ha
+I was bored / I was shocked / to boil,kaf kardam
+bubble,kaf
+shower,doush
+to sleep (childish),lala kardan
+purse/bag,kif

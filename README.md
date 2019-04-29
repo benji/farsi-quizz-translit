@@ -48,6 +48,8 @@ https://archive.org/stream/persianselftaugh00hasauoft#page/n27/mode/2up
 
 https://librivox.org/persian-self-taught-by-shaykh-hasan/
 
+https://en.wikipedia.org/wiki/Persian_verbs
+
 ### Verbs Conjugation Rules
 
 There are some subtleties but essentially:

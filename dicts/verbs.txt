@@ -9,7 +9,7 @@ to like,dust dâshtan
 to need,niyaz dâshtan
 to have fun,khosh dâshtan
 
-to give,dâd,deh,be
+to give,dâd,dah,be
 to do,anjaam dâdan
 to teach,yâd dâdan
 
@@ -70,7 +70,8 @@ to write,nevesht,nevis,be
 to understand,fahmid,fahm,be
 to hear,shenid,shenav,be
 to dance,raghsid,raghs,be
-to cook,pokht,paz,be
+to cook (1),pokht,paz,be
+to cook (2),ashpazi kardan
 to arrive,resid,res,be
 to work (to function),kar kardan
 to put,gozāsht,gozār,be
@@ -84,3 +85,7 @@ to go by/passer (temps qui passe),gozashtan,gozar,be
 to thank,tashakor kardan
 to be sorry,motaasef budan
 to be sure,motma'en budan
+
+to learn (math/physics/history),amoortan,amooz,be
+to nurture,parvaresh dâdan
+to clean,tamiz kardan

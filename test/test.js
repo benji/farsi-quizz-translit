@@ -38,6 +38,6 @@ describe('Verbs', function () {
     assert.equal(quizz.question_for_tense(tamasha, 6, 1, true), 'tamâshâ bokon!');
     assert.equal(quizz.question_for_tense(khastan, 6, 5, true), 'bekhâhand!');
     assert.equal(quizz.question_for_tense(khordan, 6, 1, true), 'bokhor!');
-    assert.equal(quizz.question_for_tense(dadan, 6, 1, true), 'bedeh!');
+    assert.equal(quizz.question_for_tense(dadan, 6, 1, true), 'bedah!');
   });
 });
