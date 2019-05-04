@@ -15,7 +15,7 @@ never/always,harguez/hamishe
 time,zaman
 fast/quick/early/soon,zood
 late,dir
-slow,kond
+slow - fast,kond/yavash - sari
 busy,sholoorh
 problem/issue,moshkel
 trip,safar
@@ -23,8 +23,8 @@ soul,jān/joon
 the look,nazar
 sure,motma'en
 time,
-to decrease,kam kardan
-to increase,ezafe kardan
+to decrease,kam/kamtar kardan
+to increase,ezafe/bishtar kardan
 the same (or I agree),hamoon
 children / "guys",batche-ha
 I was bored / I was shocked / to boil,kaf kardam
@@ -32,3 +32,7 @@ bubble,kaf
 shower,doush
 to sleep (childish),lala kardan
 purse/bag,kif
+around/close to,hodood
+animal,heivan
+sad,naharat
+hungry,gorosneh

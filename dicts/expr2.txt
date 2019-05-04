@@ -12,9 +12,9 @@ I'm sorry,motaasefam
 no problem,moshkeli nist
 just a little,farat kami
 I grew up in Germani,dar alman bozorg shodam
-it's 2 o'clock,saat do ast
+it's 2 o'clock (o'clock is 2),saat do ast
 good job (you achieved something higher),!afarin!
-have a nice trip,safare khoobi dashteh bashi
+have a nice trip,safare khoobi dashteh bâshi
 enjoy your meal,nushe jān
 I have to go now,alan bāyad beram
 that sounds good,be nazar khoob miad
@@ -26,11 +26,18 @@ go/don't go,ro/naro
 I want more water,bishtar âb mikhaham
 thanks for making dinner,mamnoon baraye shâm/mamnoon shâm pokhti
 what's this?,in chie
-khosh gozasht,it was fun
+it was fun,khosh gozasht
 on the table,rouille miz
 under the table,zire miz
 I can't remember,man yâd-am nemiayad
 time goes by fast,zaman zood migozarad
-thank you,az to tashakor mikonam / az to motshakeram
+I thank you,az to tashakor mikonam / az to motshakeram
 what do you want to do today?,emrooz mikhaï (mikhahi) che kar koni
-it's a pity that there's no snow,heyf ast ke barf nabāšad
+it's a pity that there's no snow,heyfe (heyf ast) ke barf nabâshad / nemiad
+it's a pity if it doesn't snow,heyfe bark nayad 
+good (in order) and you?,radifeh to chi?
+I ate a lot of chocolate,kheily chocolat khordam 
+I'll be home at/around 7:30PM,saate haftonim/ (haft va nim) rhoone-am
+my home / I'm home,khoonam (khooneh am) / khoone-am (khooneh hastam)
+fast/too fast,sari / ziadi sari
+I'm bleeding (blood is coming out of me),dare az man khoon miad

@@ -14,8 +14,7 @@ the big brother,barâdar-e bozorg
 my book (book of me),ke'tab-e man
 beautiful girl (girl-of beautiful),dokhtar-e zibâ
 I'm bored,hoselam sar rafteh
-1 o'clock,saate yek
-it's 1 o'clock,saate yeke
+it's 1 o'clock (o'clock is 1),saat(e) yeke
 it's been 1 hour,yek saate
 to bed,be bastar
 I must speak farsi,man bâyad farsi (ra) harf bezanam
@@ -57,3 +56,4 @@ I don't know how to say it in english,nemidanam chetori be engilisi beguyam
 I'm just here 1 day,farat yek rooz mimanam
 I'm going to be here for a week,yek hafte indja mimanam
 when do you leave?,kei miravi?
+have a good trip (may you have a good trip),safare khoobi dashteh bashi

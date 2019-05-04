@@ -76,7 +76,7 @@ to arrive,resid,res,be
 to work (to function),kar kardan
 to put,gozāsht,gozār,be
 to run,david,dav,be
-to stay,mand,man,be
+to stay,mând,man,be
 to fight,davā kardan
 to send,ferestâdan,ferest,be
 to remember,be-yād âvardan
@@ -89,3 +89,7 @@ to be sure,motma'en budan
 to learn (math/physics/history),amoortan,amooz,be
 to nurture,parvaresh dâdan
 to clean,tamiz kardan
+to agree,movafe(q)e budan
+
+to win/to take away,bord,bar,be
+to explain,tozih dâdan

@@ -19,7 +19,7 @@ money,pool
 bathroom,hamam
 congratulations,tabrik
 end,âkhar
-tamed,ahli
+domestic/tamed (belong home),ahli
 wife/husband,hamsar
 house,khooneh(khâneh)
 before,pish/rabl
