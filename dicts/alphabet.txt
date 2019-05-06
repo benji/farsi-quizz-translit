@@ -1,0 +1,10 @@
+english,farsi
+
+alef - â (g*o*rgeous) - (ex: âb = water = آب),a آ 
+alef - aa (f*a*ther) - (ex : baabaa = daddy = بابا),a ا
+be - b (*b*lack) - (ex: âb = water = آب),a ب
+be - b (*b*lack) - (ex: baabaa = daddy = بابا),a بـ
+pe - p (*p*en) - (ex: ? = ? = پاپ),a پ
+pe - p (*p*en) - (ex: ? = foot? = پا),a پـ
+te - t (*t*rain) - ex?,a ت
+te - t (*t*rain) - (ex: taab = ? = تاب) (ex: tab = ? = تَب) (ex: taa = ? = تا),a تـ
