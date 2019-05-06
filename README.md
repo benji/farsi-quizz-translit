@@ -52,6 +52,8 @@ https://librivox.org/persian-self-taught-by-shaykh-hasan/
 
 https://en.wikipedia.org/wiki/Persian_verbs
 
+Alphabet: https://www.learnpersianonline.com/beginners/farsi-alphabet/
+
 ### Verbs Conjugation Rules
 
 There are some subtleties but essentially:

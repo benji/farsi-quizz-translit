@@ -33,12 +33,15 @@ wordquizz.currentIdx = 0
 wordquizz.question = function (words, far2eng) {
   var word = words[wordquizz.currentIdx++ % words.length]
 
+  var eng = word.eng.replace(/hideme */, "")
+  var farsi = word.farsi.replace(/hideme */, "")
+
   if (far2eng) {
-    wordquizz.currentAnswer = word.eng
-    return [word.farsi]
+    wordquizz.currentAnswer = eng
+    return [farsi]
   } else {
-    wordquizz.currentAnswer = word.farsi
-    return [word.eng]
+    wordquizz.currentAnswer = farsi
+    return [eng]
   }
 }
 
