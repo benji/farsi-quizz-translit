@@ -8,3 +8,10 @@ pe - p (*p*en) - (ex: ? = ? = پاپ),a پ
 pe - p (*p*en) - (ex: ? = foot? = پا),a پـ
 te - t (*t*rain) - ex?,a ت
 te - t (*t*rain) - (ex: taab = ? = تاب) (ex: tab = ? = تَب) (ex: taa = ? = تا),a تـ
+se - s (*s*econd) - (ex: ? = ? = اَثاث),a ث
+se - s (*s*econd) - (ex: ? = ? = ثَبت) (ex: ? = ? = ثابِت),a ثـ
+jim - j (*j*ust) - (ex: ? = crown? = تاج),a ج
+jim - j (*j*ust) - (ex: ? = ? = جار) - (ex: ? = ? = جابِجا),a ج
+che - tch (*ch*air) - ex?,a چ
+che - tch (*ch*air) - (ex: ? = ? = چاپ) - (ex: ? = ? = چَپ),a چـ
+#se - s (*s*econd) - (ex: ? = ? = ),a 
