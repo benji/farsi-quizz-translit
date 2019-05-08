@@ -1,0 +1,33 @@
+english,farsi
+alef,hideme آ – ا
+be,hideme ب – بـ
+pe,hideme پ – پـ
+te,hideme ت – تـ
+se,hideme ث – ثـ
+jim,hideme ج – جـ
+che,hideme چ – چـ
+he,hideme ح – حـ
+khe,hideme خـ – خ
+dâl,hideme د
+zâl,hideme ذ
+re,hideme ر
+ze,hideme ز
+zhe (jhe),hideme ژ
+sin,hideme سـ – س
+shin,hideme شـ – ش
+sâd,hideme صـ – ص
+zâd,hideme ض – ضـ
+tâ,hideme ط
+zâ,hideme ظ
+eyn (pause),hideme عـ – ع
+gheyn (r/ghe),hideme غـ – غ
+fe,hideme فـ – ف
+ghâf (r/ghe),hideme قـ – ق
+kâf,hideme کـ – ک
+gâf,hideme گـ – گ
+lâm,hideme لـ – ل
+mim,hideme مـ – م
+nun,hideme نـ – ن
+vâv,hideme و
+he,hideme هـ – ـه – ه
+ye,hideme ی – یـ
