@@ -44,19 +44,38 @@ function prepare(s) {
   return s.split(" - ");
 }
 
+function preparePersianLetter(l, fontid) {
+  return (
+    '<span class="persian-font persian-font' +
+    fontid +
+    '">' +
+    l +
+    "</span>"
+  );
+}
+
+function preparePersianLetters(letters) {
+  for (var i = 0; i < letters.length; i++) {
+    letters[i] =
+      preparePersianLetter(letters[i], 4) +
+      preparePersianLetter(letters[i], 3) +
+      preparePersianLetter(letters[i], 2) +
+      preparePersianLetter(letters[i], 1);
+  }
+}
+
 wordquizz.question = function(words, far2eng) {
   var word = words[wordquizz.currentIdx++ % words.length];
 
-  var isFarsiAlphabet = false;//unicodeRegex.test(word.farsi);
+  var isFarsiAlphabet = unicodeRegex.test(word.farsi);
 
   var eng = prepare(word.eng);
   var farsi = prepare(word.farsi);
 
   if (far2eng) {
     wordquizz.currentAnswer = eng;
-    return isFarsiAlphabet
-      ? [farsi[Math.floor(Math.random() * farsi.length)]]
-      : farsi;
+    if (isFarsiAlphabet) preparePersianLetters(farsi);
+    return farsi;
   } else {
     wordquizz.currentAnswer = farsi;
     return eng;
