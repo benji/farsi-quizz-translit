@@ -41,8 +41,9 @@ body,
 
 .persian-font {
   font-size: 1.1em;
-  margin-right: .5em;
-  margin-left: .5em;
+  margin-right: .3em;
+  margin-left: .3em;
+  line-height: 1.3em;
 }
 
 .persian-font1 {
