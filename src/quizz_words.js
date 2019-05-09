@@ -1,54 +1,73 @@
-var quizzutils
+var quizzutils;
 
-if (typeof module != 'undefined') { // nodejs compatibility
-  if (quizzutils) {} else quizzutils = require('./quizzutils')
+if (typeof module != "undefined") {
+  // nodejs compatibility
+  if (quizzutils) {
+  } else quizzutils = require("./quizzutils");
 }
 
-var wordquizz = {}
+var wordquizz = {};
 
-wordquizz.loadData = function (wordsFileContent) {
-  console.log('Loading words...')
+wordquizz.loadData = function(wordsFileContent) {
+  console.log("Loading words...");
   var lines = wordsFileContent.split("\n");
-  lines.shift() // remove header
+  lines.shift(); // remove header
 
-  var words = []
+  var words = [];
   for (i in lines) {
-    if (!(lines[i]) || lines[i][0] == '#') continue
+    if (!lines[i] || lines[i][0] == "#") continue;
 
-    var parts = lines[i].split(',')
+    var parts = lines[i].split(",");
     var word = {
       eng: parts[0],
       farsi: parts[1]
-    }
-    words.push(word)
+    };
+    words.push(word);
   }
 
-  words = quizzutils.shuffle(words)
-  return words
+  words = quizzutils.shuffle(words);
+  return words;
+};
+
+wordquizz.currentAnswer;
+wordquizz.currentIdx = 0;
+
+var unicodeRegex = /^\\u([0-9A-Fa-f]{4})$/;
+var connectchar = String.fromCharCode("1600");
+
+function prepare(s) {
+  var match = unicodeRegex.exec(s);
+  while (match != null) {
+    var l = String.fromCharCode(parseInt(match[1], 16));
+    return [l, l + connectchar, connectchar + l + connectchar, connectchar + l];
+  }
+  return s.split(" - ");
 }
 
-wordquizz.currentAnswer
-wordquizz.currentIdx = 0
+wordquizz.question = function(words, far2eng) {
+  var word = words[wordquizz.currentIdx++ % words.length];
 
-wordquizz.question = function (words, far2eng) {
-  var word = words[wordquizz.currentIdx++ % words.length]
+  var isFarsiAlphabet = false;//unicodeRegex.test(word.farsi);
 
-  var eng = word.eng.replace(/hideme */, "").split(' - ')
-  var farsi = word.farsi.replace(/hideme */, "").split(' - ')
+  var eng = prepare(word.eng);
+  var farsi = prepare(word.farsi);
 
   if (far2eng) {
-    wordquizz.currentAnswer = eng
-    return farsi
+    wordquizz.currentAnswer = eng;
+    return isFarsiAlphabet
+      ? [farsi[Math.floor(Math.random() * farsi.length)]]
+      : farsi;
   } else {
-    wordquizz.currentAnswer = farsi
-    return eng
+    wordquizz.currentAnswer = farsi;
+    return eng;
   }
-}
+};
 
-wordquizz.answer = function () {
-  return wordquizz.currentAnswer
-}
+wordquizz.answer = function() {
+  return wordquizz.currentAnswer;
+};
 
-if (typeof module != 'undefined') { // nodejs compatibility
-  module.exports = wordquizz
+if (typeof module != "undefined") {
+  // nodejs compatibility
+  module.exports = wordquizz;
 }

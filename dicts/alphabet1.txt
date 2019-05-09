@@ -1,33 +1,33 @@
 english,farsi
-alef,hideme آ – ا
-be,hideme ب – بـ
-pe,hideme پ – پـ
-te,hideme ت – تـ
-se,hideme ث – ثـ
-jim,hideme ج – جـ
-che,hideme چ – چـ
-he,hideme ح – حـ
-khe,hideme خـ – خ
-dâl,hideme د
-zâl,hideme ذ
-re,hideme ر
-ze,hideme ز
-zhe (jhe),hideme ژ
-sin,hideme سـ – س
-shin,hideme شـ – ش
-sâd,hideme صـ – ص
-zâd,hideme ض – ضـ
-tâ,hideme ط
-zâ,hideme ظ
-eyn (pause),hideme عـ – ع
-gheyn (r/ghe),hideme غـ – غ
-fe,hideme فـ – ف
-ghâf (r/ghe),hideme قـ – ق
-kâf,hideme کـ – ک
-gâf,hideme گـ – گ
-lâm,hideme لـ – ل
-mim,hideme مـ – م
-nun,hideme نـ – ن
-vâv,hideme و
-he,hideme هـ – ـه – ه
-ye,hideme ی – یـ
+alef,\u0627
+be,\u0628
+pe,\u067E
+te,\u062A
+s̱e (s-th),\u062B
+jim,\u062C
+če (tche),\u0686
+ḥe,\u062D
+xe (khe),\u062E
+dâl,\u062F
+ẕâl,\u0630
+re,\u0631
+ze,\u0632
+že (z-j),\u0698
+sin,\u0633
+šin (shin),\u0634
+ṣâd,\u0635
+zâd,\u0636
+tâ,\u0637
+ẓâ,\u0638
+ʿayn (pause),\u0639
+ġayn (r/ghe),\u063A
+fe,\u0641
+q̈e (ghâf / r),\u0642
+kâf,\u06A9
+gâf,\u06AF
+lâm,\u0644
+mim,\u0645
+nun,\u0646
+vâv,\u0648
+he,\u0647
+ye,\u06CC
