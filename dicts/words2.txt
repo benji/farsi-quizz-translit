@@ -12,7 +12,7 @@ without,bi
 but,vali
 all,hame
 enough,bas
-many,ziad
+many,ziad/kol-li
 mine,mal-e
 store,marâze
 why,cherâ

@@ -12,6 +12,7 @@ meat,gousht
 milk,sheer
 bread,nan
 never/always,harguez/hamishe
+often,arlab/gali
 time,zaman
 fast/quick/early/soon,zood
 late,dir
