@@ -24,6 +24,8 @@ Expressions/Sentences 1: [IRA->ENG](http://htmlpreview.github.io/?https://github
 
 Expressions/Sentences 2: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr2&quizz_far2eng=true) - [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr2&quizz_far2eng=false)
 
+Expressions/Sentences 3: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr3&quizz_far2eng=true) - [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr3&quizz_far2eng=false)
+
 ### Desktop (NodeJS)
 
 For verbs farsi->english:

@@ -18,7 +18,7 @@ weather,havâ
 money,pool
 bathroom,hamam
 congratulations,tabrik
-end,âkhar
+end (casual/format),âkhar/anjaam
 domestic/tamed (belong home),ahli
 wife/husband,hamsar
 house,khooneh(khâneh)

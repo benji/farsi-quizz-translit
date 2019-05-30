@@ -14,8 +14,8 @@ something,yek cheesy
 someone,kassi
 hello (ancient),dorood
 goodbye (ancient),bedrood
-mother,madar
-father,pedar
+mother,madar/mâmân
+father,pedar/baba
 month,mâh
 lip,lab
 expensive,gerân/geroon

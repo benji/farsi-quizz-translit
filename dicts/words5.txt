@@ -37,3 +37,5 @@ around/close to,hodood
 animal,heivan
 sad,naharat
 hungry,gorosneh
+traditional soup dish / chef,ash / ashpazi
+awake,mishi
