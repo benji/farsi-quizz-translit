@@ -8,7 +8,7 @@ if (typeof module != "undefined") {
 
 var wordquizz = {};
 
-wordquizz.loadData = function(wordsFileContent) {
+wordquizz.loadData = function(wordsFileContent, randomize) {
   console.log("Loading words...");
   var lines = wordsFileContent.split("\n");
   lines.shift(); // remove header
@@ -25,7 +25,11 @@ wordquizz.loadData = function(wordsFileContent) {
     words.push(word);
   }
 
-  words = quizzutils.shuffle(words);
+  console.log("Randomizing: " + randomize);
+  if (typeof randomize == "undefined" || !randomize) {
+    console.log("Randomizing...");
+    words = quizzutils.shuffle(words);
+  }
   return words;
 };
 
@@ -39,18 +43,19 @@ function prepare(s) {
   var match = unicodeRegex.exec(s);
   while (match != null) {
     var l = String.fromCharCode(parseInt(match[1], 16));
-    return ['.'+l+'.', l + connectchar, connectchar + l + connectchar, connectchar + l];
+    return [
+      "." + l + ".",
+      l + connectchar,
+      connectchar + l + connectchar,
+      connectchar + l
+    ];
   }
   return s.split(" - ");
 }
 
 function preparePersianLetter(l, fontid) {
   return (
-    '<span class="persian-font persian-font' +
-    fontid +
-    '">' +
-    l +
-    "</span>"
+    '<span class="persian-font persian-font' + fontid + '">' + l + "</span>"
   );
 }
 

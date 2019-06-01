@@ -24,3 +24,15 @@ right (direction),راست
 free,ازاد
 bâzâr,بازار
 open,باز
+news,rhabar
+profession,kare
+single (i.e. not in a couple),mojarad
+married,moteahel
+fiancee,nâmzat
+girlfriend,dust dochtar
+nationality,kojayi
+francais,faransavi
+France,Farance
+sir,ara
+miss/mam,rhanoom
+engineer,mohandes

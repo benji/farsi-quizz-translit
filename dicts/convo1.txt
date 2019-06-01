@@ -1,0 +1,14 @@
+english,farsi
+hello how are you?,salâm rhoobi?
+good thank you; nice to meet you,rhoobam merci; roshbartam
+nice to meet you too,man am roshbartam
+what's new?,che rhabar?
+nothing new; just health,rhabari nist salomati
+what's your name?,esmeh shoma chie?
+what's your nationality?,shomâ kojayi hasti?
+how old are you?,chand sâl dâri?
+I am 36,man si-o-shesh sâl dâram
+what's your job?,che kare hasti?
+I am a computer engineer,man mohandes-e computer hastam
+Are you single or married?,mojarad hasti yâ moteahel?
+I have a fiancee,man nâmzat dâlam
