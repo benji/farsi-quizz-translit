@@ -1,33 +1,33 @@
 english,farsi
-alef,\u0627
-be,\u0628
-pe,\u067E
-te,\u062A
-s̱e (s-th),\u062B
-jim,\u062C
-če (tche),\u0686
-ḥe,\u062D
-xe (khe),\u062E
-dâl,\u062F
-ẕâl,\u0630
-re,\u0631
-ze,\u0632
-že (z-j),\u0698
-sin,\u0633
-šin (shin),\u0634
-ṣâd,\u0635
-zâd,\u0636
-tâ,\u0637
-ẓâ,\u0638
-ʿayn (pause),\u0639
-ġayn (r/ghe),\u063A
-fe,\u0641
-q̈e (ghâf / r),\u0642
-kâf,\u06A9
-gâf,\u06AF
-lâm,\u0644
-mim,\u0645
-nun,\u0646
-vâv,\u0648
-he,\u0647
-ye,\u06CC
+1 alef,\u0627
+2.1/4 be,\u0628
+2.2/4 pe,\u067E
+2.3/4 te,\u062A
+2.4/4 s̱e (s-th),\u062B
+3.1/4 jim,\u062C
+3.2/4 če (tche),\u0686
+3.3/4 ḥe,\u062D
+3.4/4 xe (khe),\u062E
+4.1/2 dâl,\u062F
+4.2/2 ẕâl,\u0630
+5.1/3 re,\u0631
+5.2/3 ze,\u0632
+5.3/3 že (z-j),\u0698
+6.1/2 sin,\u0633
+6.2/2 šin (shin),\u0634
+7.1/2 ṣâd,\u0635
+7.2/2 zâd,\u0636
+8.1/2 tâ,\u0637
+8.2/2 ẓâ,\u0638
+9.1/2 ʿayn (pause),\u0639
+9.2/2 ġayn (r/ghe),\u063A
+10.1/2 fe,\u0641
+10.2/2 q̈e (ghâf / r),\u0642
+11.1/2 kâf,\u06A9
+11.2/2 gâf,\u06AF
+12 lâm,\u0644
+13 mim,\u0645
+14 nun,\u0646
+15 vâv,\u0648
+16 he,\u0647
+17 ye,\u06CC

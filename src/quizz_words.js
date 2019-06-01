@@ -39,7 +39,7 @@ function prepare(s) {
   var match = unicodeRegex.exec(s);
   while (match != null) {
     var l = String.fromCharCode(parseInt(match[1], 16));
-    return [l, l + connectchar, connectchar + l + connectchar, connectchar + l];
+    return ['.'+l+'.', l + connectchar, connectchar + l + connectchar, connectchar + l];
   }
   return s.split(" - ");
 }
