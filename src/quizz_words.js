@@ -26,7 +26,7 @@ wordquizz.loadData = function(wordsFileContent, randomize) {
   }
 
   console.log("Randomizing: " + randomize);
-  if (typeof randomize == "undefined" || !randomize) {
+  if (typeof randomize == "undefined" || randomize) {
     console.log("Randomizing...");
     words = quizzutils.shuffle(words);
   }
