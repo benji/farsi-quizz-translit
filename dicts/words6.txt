@@ -1,0 +1,4 @@
+english,farsi
+egg,torhmemo(gh)
+hen (female chicken),mo(gh)
+ball (testies),torhm
