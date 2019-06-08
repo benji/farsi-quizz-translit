@@ -40,7 +40,7 @@ function start_quizz() {
       if (client.status == 200) {
         console.log("Quizz data loaded.");
         try {
-          items = quizz.loadData(client.responseText, quizz_rand);
+          items = quizz.loadData(client.responseText, quizz_rand == "true");
         } catch (e) {
           return display_error("Failed to load dict: " + e);
         }
