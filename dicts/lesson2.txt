@@ -1,0 +1,45 @@
+e,f
+day - 2,pari-rooz
+day - 3,pas pari-rooz
+day + 2,pas fardaa
+what day is it today?,emrooz chand shambe hast?
+what day was yesterday?,diroos chand shambe bood?
+friday,jom-e
+he doesn't like,formal:nadarad normal:nadare
+day of the week,shambe
+what,che+object / chi+no object
+to would like (food),mail dashtan
+parc,pârk
+stove,gâz
+sac,sâk
+knife,kârd
+#soil,khâk
+wing,bâl
+verre a pied,gillas (formal:jâm)
+cherry,jâm
+verre normal,levân
+snake,mâr
+wing,bâl
+almond,bâdâm
+groom,dâmâr
+this/that,in/ân
+wise,dânâ
+cuisse,rân
+easy,âssân
+name,formal:esm normal:nâm
+#roof,bâm
+raw (uncooked),rhâm
+mole (skin),rhâl
+top/above/on,bâlâ
+shir,milk
+kid/kids,ba-tche/ba-tcheha
+mobile,mobile
+pedar,dad
+product manager,modir-e tolid
+pastry (milk based),sheerini
+cheese,panir
+ice cream,bastani
+biscuit,biscuit
+fish,mâhi
+kâlbass
+soup,soup

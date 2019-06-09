@@ -12,3 +12,12 @@ what's your job?,che kare hasti?
 I am a computer engineer,man mohandes-e computer hastam
 Are you single or married?,mojarad hasti yâ moteahel?
 I have a fiancee,man nâmzat dâlam
+how interesting,che jâleb
+do you have kid?,ba-tche dâri?
+I have 2 kids,do ba-tche(ha?) dâram
+boy or girl?,pessar yâ dokhtar?
+1 boy 1 girl,yer pessar vâ yek dokhtar
+what's the name of your son?,esme pessare shoma chie?
+my son's name is Chris,esm-e pessar-am/dochtare-man Chris hast
+how old is your son?,pessar-e shoma chand sâle hast
+my son is 5,pessar-am panj sâl dâre (for kids: panj sâle hast)

@@ -1,0 +1,11 @@
+e,f
+what would you like (to eat)?,chi mail dâri?
+tea please?,chai lotfan?
+yes of course,bale hatman
+merci,merci
+go ahead/here you go (for all actions, very polite),befarmayid (farmoudan)
+merci,merci
+bon apetit,nushe jân
+where did you park your car?,machinet ro koja park kardi?
+do you like iranian food?,ghazâ-ye iranii dust dâri?
+what do you like a lot?,chi dust dâri rheili?

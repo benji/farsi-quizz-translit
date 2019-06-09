@@ -1,25 +1,25 @@
 english,farsi
-thorne,خار
-traditional string instrument,تار
-load (i.e. of a truck),بار
-pitcher (i.e. for water),پارچ
-horn,شاخ
-traditional soup/stew,آش
-watering can,آبپاش
+#thorne,خار
+#traditional string instrument,تار
+#load (i.e. of a truck),بار
+#pitcher (i.e. for water),پارچ
+#horn,شاخ
+#traditional soup/stew,آش
+#watering can,آبپاش
 waterfall,آبثار
 sun,آفتاب
-Fars (province in Iran),فارس
+#Fars (province in Iran),فارس
 mushroom,قارچ
 dast,hand
 avant bras,sâgh-e dast
 calf,sâgh-e pâ
 foot,پا
-Pope,پاپ
+#Pope,پاپ
 swing (i.e. for kids),تاب
 crown,تاج
 musical instruments,ساز
-faucille,داس
-âstârâ (city north of Iran),استارا
+#faucille,داس
+#âstârâ (city north of Iran),استارا
 right (direction),راست
 free,ازاد
 bâzâr,بازار

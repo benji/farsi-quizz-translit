@@ -4,7 +4,7 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 ### Webapp Quizz Demo
 
-Alphabet1: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet1&quizz_far2eng=true) [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet1&quizz_far2eng=false)
+Alphabet: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=true) [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=false)
 
 Verbs: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=true) - [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=false)
 
@@ -28,7 +28,11 @@ Expressions/Sentences 3: [IRA->ENG](http://htmlpreview.github.io/?https://github
 
 Lesson 1: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson1&quizz_far2eng=true) - [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson1&quizz_far2eng=false)
 
+Lesson 2: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson2&quizz_far2eng=true) - [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson2&quizz_far2eng=false)
+
 Convo 1: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo1&quizz_far2eng=true&quizz_rand=false) - [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo1&quizz_far2eng=false&quizz_rand=false)
+
+Convo 2: [IRA->ENG](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo2&quizz_far2eng=true&quizz_rand=false) - [ENG->IRA](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo2&quizz_far2eng=false&quizz_rand=false)
 
 ### Desktop (NodeJS)
 

@@ -5,7 +5,7 @@ cold,sard
 hot,dâr
 far,dour
 ugly,zesht
-easy,saade
+simple,saade
 head,sar
 with,ba
 without,bi
