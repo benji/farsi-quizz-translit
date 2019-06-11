@@ -1,0 +1,11 @@
+e,f
+car,machine
+plance,havaapeymaa
+bus,otoboos
+taxi,taaksi
+bike,docharkhe
+motorcycle,motor siklet
+scooter,eskooter
+boat,qaayeq
+truck,kaamion
+cable car,tele kaabin

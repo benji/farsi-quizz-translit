@@ -14,7 +14,6 @@ stove,gâz
 sac,sâk
 knife,kârd
 #soil,khâk
-wing,bâl
 verre a pied,gillas (formal:jâm)
 cherry,jâm
 verre normal,levân
