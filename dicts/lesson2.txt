@@ -1,7 +1,7 @@
 e,f
-day - 2,pari-rooz
-day - 3,pas pari-rooz
-day + 2,pas fardaa
+day before yesterday,pari-rooz
+day before day before yesterday,pas pari-rooz
+day after tomorrow,pas fardaa
 what day is it today?,emrooz chand shambe hast?
 what day was yesterday?,diroos chand shambe bood?
 friday,jom-e
@@ -21,7 +21,7 @@ verre normal,levân
 snake,mâr
 wing,bâl
 almond,bâdâm
-groom,dâmâr
+groom,dâmâd
 this/that,in/ân
 wise,dânâ
 cuisse,rân

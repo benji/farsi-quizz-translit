@@ -1,14 +1,15 @@
 english,farsi
-one,yek
-two,do
-three,seh
-four,chaahaar
-five,panj
-six,shesh
-seven,haft
-eight,hasht
-nine,noh
-ten,dah
+zero,sefr ۰
+one,yek ۱
+two,do ۲
+three,seh ۳
+four,chaahaar ۴
+five,panj ۵
+six,shesh ۶
+seven,haft ۷
+eight,hasht ۸
+nine,noh ۹
+ten,dah ۱۰
 11,yāzdah
 12,davāzdah
 13,sizdah
@@ -23,10 +24,20 @@ ten,dah
 40,chehel
 50,panjâh
 60,shast
-70,hafâd
+70,haftâd
 80,hajtâd
 90,navad
 100,sad
+200,devist
+300,sisad
+400,chahârsad
+500,pansad
+600,sheshsad
+700,heftsad
+800,heshtsad
+900,nehsad
+1.000,hezâr
+1.000.000,meyeleyon
 199,sad o navad o noh
 Monday,doshanbe
 Tuesday,seshanbe
