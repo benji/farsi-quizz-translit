@@ -1,0 +1,103 @@
+e,f,p
+I'm very busy,saram shooloore
+bed,tarht
+better,behtar
+many - more,ziad - bishtar
+sister,rohara
+this book is bigger than that book,in ketâb az ân ketâb bozorgtar hast
+my glass is more empty than yesterday,levânam az dirooz rhâlitar hast
+my house is busier on mondays than on tuesdays,rhoonam doshambeha sholoortar az seshambeha hast
+on Sundays,dar yekshambeha
+2 kids - kids - many kids - a lot of kids,do ba-tche - ba-tcheha - ba-tchehaye ziadi - rheili ba-tche
+be faster - hurry up,zood bash
+if I go to the theatre - I will see an iranian movie,agar be cinama beram - filme irani mibinam
+if I eat chocolate I'll get fat,agar chocolat borolam cha(gh)/bozorg misham
+I speak english slowing,man âeste ingilisi harf mizanam
+I don't want more - that's enough,bishtar nemirham - kofi-e
+country,keshvar
+doniâ,world
+Russia is the biggest country in the world,Russiye bozorgtarin keshvare doniâ hast
+the US is one of the biggest country in the world,amrica yeki az bozorgtarin keshvarhaye doniâ hast
+fessenjoon is the most delicious iranian dish,fessenjoon roshmazetarin ghazâye irani hast
+I miss(ed) you,delam barât tang shode (boud)
+cow,گاو
+navy ship,ناو
+tub,وان,vân
+baker,نانوا,nânvâ
+smoke,دود,doud
+net,تور,tour
+blind,کور,kour
+hair,مو
+swan,قو,ghou
+mouse,موش,moush
+shower,دوش,douche
+sock,جوراب,djurâb
+broom,جارو,djâru
+paddle/pelle,پارو,pâru
+medicine,دارو,dâru
+ear,گوش,goush
+light,نور,nour
+far,دور,dour
+salty,شور,shour
+day,روز,rouz
+friend,دوست,doust
+soup,سوپ,soup
+off (tv off),خاموش,rhâmoush
+skin,پوست,poust
+banana,موز,moz
+council,شورا,shorâ
+moon,ماه,mâh
+shah,شاه
+road,راه,râh
+highway (old),شاهراه,shâhrâh
+highway,ootooban - bozorg-râh
+tomb for famous ppl,ارامگاه,ârâmgah
+again,دوباره,dobare
+house,خانه,rhoone
+nest,لانه,lâne
+chin,چانه,tchâne
+towel,حوله,holè
+fabric,پارشه,pârche
+moonlight,هاله,hâle
+here - there,آنها - این,ânha
+Mâhân,ماهان
+hu? - hmmhmm,هان - آهان
+rabbies,هار,hâr
+letter sin,سین
+letter shin,شین
+letter mim,میم
+lion,شیر,shir
+elephant,فیل,phil
+robinet,شیر,shir
+garlic,سیر,sir
+apple,سیب,sib
+wall,دیوار,divâr
+entonoir,قیف,ghif
+nail,میخ,mirh
+pipe,پیپ
+jeep,جیپ
+purse,کیف,kif
+nose,بینی,bini
+teapot?,قوری,ghoori?
+toge,ساری,sari
+flower?,یاس,yâs
+famous poet,نیما یو شیج,nimâ yo shidj
+allemand,المانی
+Greece / greek,یونان / یونانی,Yoonân
+Iran,ایران
+grape?,اَنگور,anngoor
+pomagranite,اَنار,annâr
+fig,اَنجیر,annjir
+fire,آتَش,âtash
+human,آدَم,âdam
+iron/metal,آهَن,âhan
+woman,زَن
+man,مَرد
+leaf?,بَرگ,barg
+pants,شَلوار,shalvâr?
+shoe,کَفش,kafsh
+snow,بَرف
+someone who has knowldge by xp,اوستا,ousta
+Uganga,اوگاندا
+stop (sign),ایست,ist
+to stop,istâdan

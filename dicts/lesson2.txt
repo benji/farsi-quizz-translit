@@ -22,7 +22,7 @@ wing,bâl
 almond,bâdâm
 groom,dâmâd
 this/that,in/ân
-wise,dânâ
+wise,dânâ (pir)
 cuisse,rân
 easy,âssân
 name,formal:esm normal:nâm
@@ -30,10 +30,10 @@ name,formal:esm normal:nâm
 raw (uncooked),rhâm
 mole (skin),rhâl
 top/above/on,bâlâ
-shir,milk
+milk,shir
 kid/kids,ba-tche/ba-tcheha
 mobile,mobile
-pedar,dad
+dad,pedar
 product manager,modir-e tolid
 pastry (milk based),sheerini
 cheese,panir

@@ -7,7 +7,6 @@ to hope,omidvâr budan
 to have,dâsht,*dâr,be
 to like,dust dâshtan
 to need,niyaz dâshtan
-to have fun,khosh gozachtan
 
 to give,dâd,dah,be
 to do,anjaam dâdan
@@ -80,13 +79,15 @@ to stay,mând,man,be
 to fight,davā kardan
 to send,ferestâdan,ferest,be
 to remember,be-yād âvardan
-to go by/passer (temps qui passe),gozashtan,gozar,be
+
+to go by/passer (temps qui passe),gozasht,gozar,be
+to have fun,khosh gozashtan
 
 to thank,tashakor kardan
 to be sorry,motaasef budan
 to be sure,motma'en budan
 
-to learn (math/physics/history),amoortan,amooz,be
+to learn (math/physics/history),amoort,amooz,be
 to nurture,parvaresh dâdan
 to clean,tamiz kardan
 to agree,movafe(q)e budan

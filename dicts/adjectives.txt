@@ -1,0 +1,22 @@
+english,farsi,pronunciation
+young,javân
+old,pir
+new,no
+used - aged,koghne (clothes) - radimi (building)
+empty,rhâli
+full,por
+dumb,rheing
+smart,baroosh
+short (things) - short (people),kutâ - rhadkutâ
+tall (things) - tall (people),boland - rhadboland
+empty (not crowded),rhalvat
+crowded,shooloor
+fast,sari
+slow,âeste
+beautiful (2),zibaa (formal) - rashaeing (normal) - roshkel (casual)
+small,kutchak
+expensive,gerân
+cheap,arzân
+fat,tcha(gh)
+happy,rosh-hal
+sad,narâhat
