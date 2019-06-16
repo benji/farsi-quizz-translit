@@ -20,7 +20,8 @@ wordquizz.loadData = function(wordsFileContent, randomize) {
     var parts = lines[i].split(",");
     var word = {
       eng: parts[0],
-      farsi: parts[1]
+      farsi: parts[1],
+      p: parts.length > 2 ? parts[2] : null
     };
     words.push(word);
   }
@@ -40,51 +41,56 @@ var unicodeRegex = /^\\u([0-9A-Fa-f]{4})$/;
 var connectchar = String.fromCharCode("1600");
 
 function prepare(s) {
-  var match = unicodeRegex.exec(s);
-  while (match != null) {
+  var isFarsiAlphabet = unicodeRegex.test(s);
+  if (isFarsiAlphabet) {
+    var match = unicodeRegex.exec(s);
     var l = String.fromCharCode(parseInt(match[1], 16));
-    return [
+    return preparePersianLetters([
       "." + l + ".",
       l + connectchar,
       connectchar + l + connectchar,
       connectchar + l
-    ];
+    ]);
   }
+
+  if (_isFarsiWord(s)) {
+    return [preparePersianText(s, 0)];
+  }
+
   return s.split(" - ");
 }
 
-function preparePersianLetter(l, fontid) {
+function preparePersianText(t, fontid) {
   return (
-    '<span class="persian-font persian-font' + fontid + '">' + l + "</span>"
+    '<span class="persian-font persian-font' + fontid + '">' + t + "</span>"
   );
 }
 
 function preparePersianLetters(letters) {
   for (var i = 0; i < letters.length; i++) {
     letters[i] =
-      preparePersianLetter(letters[i], 4) +
-      preparePersianLetter(letters[i], 3) +
-      preparePersianLetter(letters[i], 2) +
-      preparePersianLetter(letters[i], 1);
+      preparePersianText(letters[i], 4) +
+      preparePersianText(letters[i], 3) +
+      preparePersianText(letters[i], 2) +
+      preparePersianText(letters[i], 1);
   }
+}
+
+function _isFarsiWord(w) {
+  // simplified
+  return w.charCodeAt(0) >= 1570;
 }
 
 wordquizz.question = function(words, far2eng) {
   var word = words[wordquizz.currentIdx++ % words.length];
 
-  var isFarsiAlphabet = unicodeRegex.test(word.farsi);
-
   var eng = prepare(word.eng);
   var farsi = prepare(word.farsi);
 
-  if (far2eng) {
-    wordquizz.currentAnswer = eng;
-    if (isFarsiAlphabet) preparePersianLetters(farsi);
-    return farsi;
-  } else {
-    wordquizz.currentAnswer = farsi;
-    return eng;
-  }
+  wordquizz.currentAnswer = far2eng ? eng : farsi;
+  if (word.p) wordquizz.currentAnswer.push(word.p);
+
+  return far2eng ? farsi : eng;
 };
 
 wordquizz.answer = function() {
