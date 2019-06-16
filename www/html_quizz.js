@@ -10,7 +10,7 @@ function start_quizz() {
   const quizz_dict = special_capture_param("quizz_dict");
   const quizz_type = special_capture_param("quizz_type");
   quizz_far2eng = special_capture_param("quizz_far2eng") == "true";
-  quizz_rand = special_capture_param("quizz_rand", true);
+  quizz_rand = special_capture_param("quizz_rand", "true");
   console.log("Quizz type: " + quizz_type);
   console.log("Quizz dict: " + quizz_dict);
   console.log("Quizz far2en: " + quizz_far2eng);
@@ -40,7 +40,7 @@ function start_quizz() {
       if (client.status == 200) {
         console.log("Quizz data loaded.");
         try {
-          items = quizz.loadData(client.responseText, quizz_rand == "true");
+          items = quizz.loadData(client.responseText, quizz_rand === "true");
         } catch (e) {
           return display_error("Failed to load dict: " + e);
         }
@@ -60,7 +60,7 @@ function special_capture_param(name, defaultValue) {
   var pairs = tmp.split("&");
   for (var i in pairs) {
     var parts = pairs[i].split("=");
-    if (parts[0] == name) return parts[1];
+    if (parts[0] == name) return parts[1].trim();
   }
   return defaultValue;
 }
