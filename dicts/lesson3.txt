@@ -66,8 +66,6 @@ rabbies,هار,hâr
 letter sin,سین
 letter shin,شین
 letter mim,میم
-lion,شیر,shir
-elephant,فیل,phil
 robinet,شیر,shir
 garlic,سیر,sir
 apple,سیب,sib
@@ -101,3 +99,7 @@ someone who has knowldge by xp,اوستا,ousta
 Uganga,اوگاندا
 stop (sign),ایست,ist
 to stop,istâdan
+gorosne,hungry
+teshne,thirsty
+how far is Mickaels?,Mickaels che rad dour-e?
+how many / how much,chand ta / che rad

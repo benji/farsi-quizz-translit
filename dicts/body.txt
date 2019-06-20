@@ -1,0 +1,20 @@
+e,f,p
+body,بدن,badan
+back,پشت,posht
+skin,پوست,pust
+heart,قلب,ghalb (del?)
+brain,مغز,maghz
+nose,بینی,bini
+chin,چانه,châne
+eye,چشم,cheshm
+tooth,دندان,dandân
+mouth,دهان,dahân
+beard,ریش,rish
+head,سر,sar
+ear,گوش,gush
+hair,مو,mu
+finger,انگشت,angosht
+arm,بازو,bâzu
+hand,دست,dast
+foot,پا,pâ
+thigh,ران,rân

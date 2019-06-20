@@ -19,6 +19,7 @@ late,dir
 slow - fast,kond/yavash - sari
 busy,sholoorh
 problem/issue,moshkel
+mistake,eshtebāh
 trip,safar
 soul,jān/joon
 the look,nazar
