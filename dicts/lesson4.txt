@@ -1,0 +1,21 @@
+e,f,p
+precise / exactly / minute,daghigh / daghighan / daghighe
+usually,ma..moulan
+patient,sabur
+pink,surati
+width/height (for object),'arz/toul
+storm,tufân
+yard,hayât
+vacation,ta.tilat
+but/however,vali/ammâ
+later,ba.dan
+1st 2nd 3rd 4th 5th,av-val dov-vom sev-vom chaharom panjom
+sorry,motehas-sef
+problem / math problem,moshkel / masa-ale
+to dream,rhâb didan
+last night,dishab
+question,sohâl
+west,gharb
+paper,kâghaz
+box,jah.be
+play,baazi

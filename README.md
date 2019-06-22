@@ -40,9 +40,13 @@ Lesson 2: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-q
 
 Lesson 3: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson3&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson3&quizz_far2eng=false)
 
+Lesson 4: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson4&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson4&quizz_far2eng=false)
+
 Convo 1: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo1&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo1&quizz_far2eng=false&quizz_rand=false)
 
 Convo 2: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo2&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo2&quizz_far2eng=false&quizz_rand=false)
+
+Convo 3: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo3&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo3&quizz_far2eng=false&quizz_rand=false)
 
 ### Desktop (NodeJS)
 
