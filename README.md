@@ -48,6 +48,8 @@ Convo 2: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-qu
 
 Convo 3: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo3&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo3&quizz_far2eng=false&quizz_rand=false)
 
+Song: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=song&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=song&quizz_far2eng=false&quizz_rand=false)
+
 ### Desktop (NodeJS)
 
 For verbs farsi->english:
