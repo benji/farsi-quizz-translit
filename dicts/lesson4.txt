@@ -19,3 +19,4 @@ west,gharb
 paper,kâghaz
 box,jah.be
 play,baazi
+I need a banana,(be) moz niyaz daram
