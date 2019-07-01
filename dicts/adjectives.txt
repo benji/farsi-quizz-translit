@@ -13,7 +13,7 @@ empty (not crowded),rhalvat
 crowded,shooloor
 fast,sari
 slow,âeste
-beautiful (2),zibaa (formal) - rashaeing (normal) - roshkel (casual)
+beautiful (3),zibaa (formal) - rashaeing (normal) - roshkel (casual)
 small,kutchak
 expensive,gerân
 cheap,arzân

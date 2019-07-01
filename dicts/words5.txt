@@ -40,3 +40,4 @@ sad,naharat
 hungry,gorosneh
 traditional soup dish / chef,ash / ashpazi
 awake,mishi
+family,khânevâde

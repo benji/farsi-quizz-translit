@@ -1,0 +1,44 @@
+e,f,p
+I went to their home/apartment,be rhoonashoon / apartemeneshoon raftam
+we went to a bar,be bâr raftim
+which bar did you go to?,kodum bâr raftid?
+we went to a bar in Mission,dar Mission bâr raftim
+you and you friend went to a bar,shoma va dustet be bâr raftid
+only you and your friend?,farat shoma va dustet?
+we were about 8 friends,taghliban haft dust boudim
+what did you eat?,ghaza chi rhordi?
+your windows are open or closed?,panjereye shoma bâz hast yâ baste hast
+all the windows are closed,hameye panjereheya baste hast
+do you know what is "apple"?,midooni chie "sib"?
+in Iran, iranians like the french nose,dar iran iraniha binie faransavi rheili dust dâram
+where is the wedding in France?,dar Farance dar koja hast?
+close to Spain,nazdik Espania hast
+what's the name of the city?,esmeh chaghl chie?
+are you from Narbonne?,shoma [az chahre]/ahle/az Narbonne hasti?
+because I like south of France's food,tchon ghazâye djoonoobe Farance dust dâram
+how many guests to you have?,tchand mehhmân (mehhmoon) dâri?
+where re the guests staying?,mehhmounha koja mimounand (mandan)?
+some of our guests / some of them,baazi az mehhmounhamoon / baazi az ouna
+they stay at the hotel,dar hotel mimoonand
+baazi digge, some others
+what time is the wedding?,arroussi saate chande?
+the wedding starts at 4,arroussi saate chahar (dârad) shooroo' mishe
+in the morning we will prepare,sobh amâde mishim
+we setup de lights,cherâghooni mikonim
+come to my place,pishema miad
+we eat a quick lunch,tond nahar mirholim
+the guests arrive,mehhmoonha miressan(d) (ressidan)
+we start the ceremony,marâssem-râ shooloo' mikonim
+how was your trip?,safaretoon chetor boud
+how was your day?,roozetoon chetor boud
+what places did you go to?,kojaha raftim?
+what places did you see?,kojaha râ didim?
+what did you eat?,ghaza chi rhordim?
+this is near Malihe's place,ounja nazdike rhooneye Malihe hast 
+she is at her place,dar rhoonesh hast
+this flower is as beautiful as that flower,in gol be roshkel[ie] oun miz ast
+this orange is as delicious as this apple,in porteghâl be rhoshmaze[gie] oun sibe
+give him/her my book,be ou ketâbam râ bede
+I try hard,rheili saaye mikonam
+the car of my friend's mom,machine mamâne doustam
+I don't know when you arrive,nemidoonam kei miressi
