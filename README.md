@@ -72,6 +72,8 @@ Pronounciation: https://forvo.com/languages/fa/
 
 Grammar: https://en.wikipedia.org/wiki/Persian_grammar
 
+Persian language overview: https://www.youtube.com/watch?v=dYLxjL27Q5w
+
 Suffixes/Possessive/Plural: https://en.wikipedia.org/wiki/Persian_nouns
 
 French-Persian: http://anamnese.online.fr/site2/index.php?page=iran

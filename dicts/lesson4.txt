@@ -15,7 +15,6 @@ problem / math problem,moshkel / masa-ale
 to dream,rhâb didan
 last night,dishab
 question,sohâl
-west,gharb
 paper,kâghaz
 box,jah.be
 play,baazi

@@ -1,13 +1,13 @@
 e,f,p
-I went to their home,be rhoonashoon raftam
+I went to their home,be rhoon!a!shoon raftam
 we went to a bar,be bâr raftim
 which bar did you guys go to?,kodum bâr raftid?
 we went to a bar in Mission,dar Mission bâr raftim
 only you and your friend?,farat shoma va dustet?
 we were about 8 friends,taghliban hasht dust boudim
 what did you eat?,ghaza chi rhordi?
-your windows are open or closed?,panjereye shoma bâz hast yâ baste hast?
-all the windows are closed,hameye panjereheya baste hast
+your windows are open or closed?,panjerehaye shoma bâz hast yâ baste hast?
+all the windows are closed,hameye panjereha baste-an (=hastand)
 do you know what is "apple"?,midooni chie "sib"?
 in Iran iranians like the french nose,dar Iran iraniha binie faransavi rheili dust dâran
 where is the wedding in France?,dar Farance dar koja hast?
@@ -15,13 +15,13 @@ it's close to Spain,nazdik Espania hast
 what's the name of the city?,esmeh chaghl chie?
 are you from Narbonne?,shoma az (chahre) Narbonne hasti?
 because I like south of France food,tchon ghazâye djoonoobe Farance dust dâram
-how many guests to you have?,tchand mehhmân (mehhmoon) dâri?
+how many guests to you have?,tchand (tâ) mehhmân (mehhmoon) dâri?
 where are the guests staying?,mehhmounha koja mimounand (mandan)?
 some of our guests stay at the hotel,baazi az mehhmounhamoon dar hotel mimoonand
 some of them / some others,baazi az ouna / baazi digge
 what time is the wedding?,arroussi saate chande?
 the wedding starts at 4,arroussi saate chahar (dârad) shooroo' mishe
-in the morning we prepare,sobh amâde mishim
+in the morning we get ready,sobh amâde mishim
 we setup de lights,cherâghooni mikonim
 come to my place,pishema miad
 we eat a quick lunch,tond nahar mirholim
@@ -36,6 +36,8 @@ she is at her place,dar rhoonesh hast
 this flower is as beautiful as that flower,in gol be roshkel[ie] oun gol ast
 this orange is as delicious as this apple,in porteghâl be rhoshmaze[gie] oun sibe ast
 give him/her my book,be ou ketâbam râ bede
-I try hard,rheili saaye mikonam
+effort / to try hard,saaye / saaye kardan
 the car of my friend's mom,machine mamâne doustam
 I don't know when you arrive,nemidoonam kei miressi
+what time is it? / how long does it take?,saate chande? / chand saate
+to break / broken,shekhestan / shekheste
