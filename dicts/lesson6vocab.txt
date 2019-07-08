@@ -1,0 +1,35 @@
+e,f,p
+strong,قوی,ghavi
+weak,ضعیف,za'hif
+come eat / let's eat,bia borholim / berim borholim
+everything,همه چیز
+I'm looking for water,dombale âb migardan (âb gashtan)
+tree,درخت
+from/to,تا/از
+to pick,چیدن,tchidan
+every / every day,هر روز / هر,ar rouz
+now,,aknoun / al'ân
+awake,بیدار
+to shop,خرید کردن
+where are you? / what is your nationality?,,kojayi (koja hasti) / koyaji hasti
+correct / incorrect,غلط / درست,- / ghalate
+before ; ago ; previously,قبلا / قبل
+60 / thumb,شست / شصت
+important,مهم,mohem
+11,yâzdah
+19,noozdah
+about (+ye),در باره
+eye,چشم,tchechm
+noon,ظهر,zohr
+afternoon,بعد از ظهر,baada(z) zohr
+dusk (during sunset),asr
+this morning,امروز صبح
+hard,سخت,saarte
+to drive,رانندگی
+to sing,آواز خواندن
+a song,آواز
+a singer,خواننده
+fruit tree,derarhte mive
+after the party,baad az mehmâni
+party (low key vs dance+drinks),جشن / مهمانی,mehmâni / djashn
+birthday party,djashne tavalod
