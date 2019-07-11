@@ -24,7 +24,7 @@ quick,tond
 mon ton son notre vos leur,-am -at/-et -ash/-esh -emon -etoon -eshoon
 to send,ressendan
 class,kelass
-street,riâban
+street,خیابان,riâban
 restaurant,restorân
 jupe,dâman
 flower / pot de fleur (flower container),gol / gol-dân
