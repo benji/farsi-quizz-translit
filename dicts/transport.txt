@@ -1,11 +1,11 @@
 e,f
-car,machine
-plance,havaapeymaa
-bus,otoboos
-taxi,taaksi
-bike,docharkhe
-motorcycle,motor siklet
-scooter,eskooter
-boat,qaayeq
-truck,kaamion
+car,ماشین,machine
+plane,havaapeymaa?
+bus,اتوبوس,âtoboos
+taxi,تاکسی,taaksi
+bike,دوچرخه,docharkhe
+motorcycle,موتورسیکلت,motor siklet
+scooter,اسکوتر,eskooter
+boat,قایق,ghâyegh
+truck,کامیون,kaamion
 cable car,tele kaabin

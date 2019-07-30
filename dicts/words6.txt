@@ -1,6 +1,6 @@
 english,farsi
-egg,torhmemo(gh)
-hen (female chicken),mo(gh)
+egg,تخم مرغ,torhmemor(gh)
+chicken,مرغ,mor(gh)
 ball (testies),torhm
 nerve,asab
 angry,asabâni
@@ -8,35 +8,35 @@ nervous,asabi
 soft,narm
 straight ahead,mostarim
 next to you,baghal-e to
-tanam,body
+body (2),badan / tanam
 to fit (clothes),tanam avardan
 how much money do you have?,che radr pool dari?
-smart (with intelligence),ba-oosh
-useful,mofid
-cute/funny (with salt),ba-namak / ba-maze
-like/same,mesle/shabi
+clever (with intelligence),باهوش,ba-oosh
+useful,مفید,mofid
+salt,namak
+like/same (2),mesle/shabi
 X is the same as Y,X X mesle/shabi Y hast
 X and Y are the same,X va Y mesleham/shabieham hastand
 to sell / I sell / store,forourhtan / miforousham / foroushi
 I prefer,man tahjih mideham
 to sit / I sit,neshashtan / mineshanam
-they are different,motefavet hastand
-to swim,shena kardan
+they are different,متفاوت,motefavet hastand
+to swim,شنا کردن,shena kardan
 to run away,dar raftan
-yogurt,mâst
-top,bala
+yogurt,ماست,mâst
+top,بالا,bala
 to hide,ghayem kardan
-to break,chekastan
+to break / I break,شکستن / می شکنم,chekastan / mishekanam
 heat is breaking,oftab chek-ast
-back (body part),kamar
+back (body) (2),kamar / posht
 sad (2),nahârat / ghamgin
-potato (ground apple),sib zamini
+potato (ground apple),سیب زمینی,sib zamini
 not at all,asland
 to make food,dorost kardan
-together,ham
-all,hame
-always,hamishe
-everything,hameshi
-picture,aks
+together,با هم,ba ham
+all,همه,hame
+always,همیشه,hamishe
+everything,همه چیز,hameshiz
+photo,عکس,aks
 with good taste,ba-salighe
 I am as tall as you,man be rhadbolandie to hastam
