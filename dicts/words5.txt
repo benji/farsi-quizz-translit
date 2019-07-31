@@ -24,20 +24,19 @@ trip,safar
 soul,jān/joon
 the look,nazar
 sure,motma'en
-time,
 to decrease,kam/kamtar kardan
 to increase,ezafe/bishtar kardan
-the same (or I agree),hamoon
+the same (or I agree),hamoon***
 children / "guys",batche-ha
 I was bored / I was shocked / to boil,kaf kardam
 bubble,kaf
 shower,doush
 to sleep (childish),lala kardan
 purse/bag,kif
-around/close to,hodood
-animal,heivan
+around/close to,hodood***
+animal,heivan***
 sad,naharat
 hungry,gorosneh
 traditional soup dish / chef,ash / ashpazi
-awake,mishi
-family,khânevâde
+awake,mishi***
+family,khânevâde***

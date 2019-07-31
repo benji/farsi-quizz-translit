@@ -1,15 +1,15 @@
 english,farsi
 egg,تخم مرغ,torhmemor(gh)
 chicken,مرغ,mor(gh)
-ball (testies),torhm
+testicule,torhm
 nerve,asab
 angry,asabâni
 nervous,asabi
 soft,narm
-straight ahead,mostarim
+straight ahead,mostaghim
 next to you,baghal-e to
-body (2),badan / tanam
-to fit (clothes),tanam avardan
+body (2),badan (formal) / tan (casual)
+this swimsuit doesn't fit,in mayo andoze nist
 how much money do you have?,che radr pool dari?
 clever (with intelligence),باهوش,ba-oosh
 useful,مفید,mofid
@@ -17,19 +17,23 @@ salt,namak
 like/same (2),mesle/shabi
 X is the same as Y,X X mesle/shabi Y hast
 X and Y are the same,X va Y mesleham/shabieham hastand
-to sell / I sell / store,forourhtan / miforousham / foroushi
-I prefer,man tahjih mideham
-to sit / I sit,neshashtan / mineshanam
+to sell / I sell / for sale,forourhtan / miforousham / foroushi
+I prefer blue to red,man abi râ be ermez tahjih mideham
+to sit / I sit,neshastan / mineshinam
 they are different,متفاوت,motefavet hastand
 to swim,شنا کردن,shena kardan
 to run away,dar raftan
 yogurt,ماست,mâst
 top,بالا,bala
-to hide,ghayem kardan
+hidden / to hide,ghayem / ghayem kardan
 to break / I break,شکستن / می شکنم,chekastan / mishekanam
-heat is breaking,oftab chek-ast
-back (body) (2),kamar / posht
-sad (2),nahârat / ghamgin
+sun is breaking,oftab chek-ast
+back (broad / spine),posht / kamar
+sad (normal / filled with sorrow),nahârat / ghamgin
+sorrow,gham
+embarassement / embarrased,sharm / sharmgin
+music,moussiri
+poison,zahr
 potato (ground apple),سیب زمینی,sib zamini
 not at all,asland
 to make food,dorost kardan
@@ -38,5 +42,11 @@ all,همه,hame
 always,همیشه,hamishe
 everything,همه چیز,hameshiz
 photo,عکس,aks
-with good taste,ba-salighe
+with good taste (deco ; dress),ba-salighe
 I am as tall as you,man be rhadbolandie to hastam
+just do it,anjaam bede digge
+I never eat in the morning,sobha itchvart cheezi nemirhoram
+jam,morabâ
+tomato paste,robe goje farengi
+tomato (european plum),goje farengi
+plum,goje

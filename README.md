@@ -2,9 +2,7 @@
 
 Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi verbs into english.
 
-### Webapp Quizz Demo
-
-Alphabet: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=true) [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=false)
+### Online Quizz
 
 Verbs: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=false)
 
@@ -19,8 +17,6 @@ Words 4: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-qu
 Words 5: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words5&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words5&quizz_far2eng=false)  
 
 Words 6: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words6&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=words6&quizz_far2eng=false)  
-
-Numbers: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=numbers&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=numbers&quizz_far2eng=false)  
 
 Animals: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=animals&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=animals&quizz_far2eng=false)  
 
@@ -58,9 +54,17 @@ Lesson 6 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/f
 
 Lesson 6 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6vocab&quizz_far2eng=false)
 
+### Other Quizz
+
+Alphabet: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=true) [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=false)
+
+Numbers: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=numbers&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=numbers&quizz_far2eng=false)  
+
 Song: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=song&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=song&quizz_far2eng=false&quizz_rand=false)
 
 Song Vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=song-vocab&quizz_far2eng=true&quizz_rand=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=song-vocab&quizz_far2eng=false&quizz_rand=true)
+
+Arabic Words: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=arabic&quizz_far2eng=true&quizz_rand=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=arabic&quizz_far2eng=false&quizz_rand=true)
 
 ### Desktop (NodeJS)
 
