@@ -40,5 +40,5 @@ cheese,panir
 ice cream,bastani
 biscuit,biscuit
 fish,mâhi
-kâlbass
+sliced meat,kâlbass
 soup,soup

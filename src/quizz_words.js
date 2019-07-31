@@ -45,6 +45,7 @@ function prepare(s) {
   if (isFarsiAlphabet) {
     var match = unicodeRegex.exec(s);
     var l = String.fromCharCode(parseInt(match[1], 16));
+    
     return preparePersianLetters([
       "." + l + ".",
       l + connectchar,
@@ -74,6 +75,7 @@ function preparePersianLetters(letters) {
       preparePersianText(letters[i], 2) +
       preparePersianText(letters[i], 1);
   }
+  return letters
 }
 
 function _isFarsiWord(w) {
