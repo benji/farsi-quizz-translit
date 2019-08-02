@@ -93,7 +93,9 @@ var currentQuestion,
 function next() {
   var display;
   if (questionOrAnswer) {
-    currentQuestion = quizz.question(items, quizz_far2eng).join("<br/>");
+    var ques = quizz.question(items, quizz_far2eng);
+    if (typeof ques == "undefined") throw "Couldn't load question...";
+    currentQuestion = ques.join("<br/>");
     display = '<span class="question">' + currentQuestion + "</span>";
   } else {
     display = '<span class="question">' + currentQuestion + "</span>";

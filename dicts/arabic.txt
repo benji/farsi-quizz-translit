@@ -5,7 +5,7 @@ single,mojarad
 married,moteahel
 successful,movaffarh
 merry,mobarak
-born,motovaled
+born,moteval'ed
 I'm sorry,motaasefam
 take care,!morareb bash!
 thank you,mot(e)shakeram

@@ -1,11 +1,11 @@
 e,f,p
 strong,قوی,ghavi
 weak,ضعیف,za'hif
-come eat / let's eat,bia borholim / berim borholim
+come eat / let's eat,bia borhol / bia borholim / berim borholim
 everything,همه چیز
 to look for something,دنبال چیزی گشتن,dombale chizi gashtan
 tree,درخت
-from/to,تا/از
+from/to,تا/از,az/tâ-be
 to pick,چیدن,tchidan
 every / every day,هر روز / هر,ar rouz
 now,aknoun / al'ân

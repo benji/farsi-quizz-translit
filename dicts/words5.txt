@@ -16,7 +16,8 @@ often,arlab/gali
 time,zaman
 fast/quick/early/soon,zood
 late,dir
-slow - fast,kond/yavash - sari
+slow / fast,kond - yavash - aeste / sari - tond
+spicy/fast,tond
 busy,sholoorh
 problem/issue,moshkel
 mistake,eshtebāh
@@ -26,17 +27,16 @@ the look,nazar
 sure,motma'en
 to decrease,kam/kamtar kardan
 to increase,ezafe/bishtar kardan
-the same (or I agree),hamoon***
+the same Ben said,hamoon ke Ben goft
 children / "guys",batche-ha
 I was bored / I was shocked / to boil,kaf kardam
 bubble,kaf
 shower,doush
 to sleep (childish),lala kardan
 purse/bag,kif
-around/close to,hodood***
-animal,heivan***
+around/close to,hodood
+animal,heivan
 sad,naharat
 hungry,gorosneh
 traditional soup dish / chef,ash / ashpazi
-awake,mishi***
-family,khânevâde***
+family,khânevâde
