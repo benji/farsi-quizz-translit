@@ -1,0 +1,34 @@
+e,f,p
+kass,~person
+no one,itch kass
+everyone,hame kass
+someone,kassi
+by car,ba machine
+number,shomare
+phone numer,shomare telephon
+pen,خودکار,rodcar
+brown (coffee-i),ghaghvei
+green,sabz
+ugly,zecht
+soil / ash / grey,rhak / rhakestar / rhakestari
+navy blue,sormei
+color,rang
+pull over,poliver
+cravatte,kerevatte
+noeud papillon,papillion
+shirt,pirân
+pasta,maccaroni
+nuts,ajill
+rice,berenj
+cooked rice,polo
+sliced meat,câlbass
+beans,rouboubât
+chicken (hen/chicken),morgh/djuje
+date (fruit),rhormâ
+sugar,chekar
+space,djâ
+long coat,pâlto
+3 days ago,se rouze pish
+kind (nice person),mehraboun
+mean (bad person),badzât > badjens
+university,daneshgâ

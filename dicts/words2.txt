@@ -19,7 +19,7 @@ why,cherâ
 how,tchetor
 how many,tchand tâ
 what,che
-who,keye
+who,ki
 where,koja
 when,kei
 happy,khosh-hal

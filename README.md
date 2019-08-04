@@ -54,6 +54,10 @@ Lesson 6 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/f
 
 Lesson 6 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6vocab&quizz_far2eng=false)
 
+Lesson 7 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7convo&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7convo&quizz_far2eng=false&quizz_rand=false)
+
+Lesson 7 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7vocab&quizz_far2eng=false)
+
 ### Other Quizz
 
 Alphabet: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=true) [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=false)

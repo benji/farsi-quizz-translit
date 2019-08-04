@@ -8,7 +8,7 @@ tree,درخت
 from/to,تا/از,az/tâ-be
 to pick,چیدن,tchidan
 every / every day,هر روز / هر,ar rouz
-now,aknoun / al'ân
+now,aknoun / (formal:halâ) al'ân 
 awake,بیدار
 to shop,خرید کردن
 where are you? / what is your nationality?,kojayi (koja hasti) / koyaji hasti
