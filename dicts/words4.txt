@@ -28,8 +28,8 @@ this,in
 that,ân
 poop,an
 only,farat
-to fart,boo kardan
-to smell (bad),boo dadan
+to smell,boo kardan
+to stink,boo dadan
 because,tchon
 ass,koon
 painful,dardnok

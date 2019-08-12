@@ -51,6 +51,13 @@ function test_word_dict(dfile) {
   console.log(dfile);
 
   it("Check dictionnary file " + dfile, function() {
+    data = fs.readFileSync("README.md");
+    dictname = dfile.replace(".txt", "");
+    assert(
+      data.indexOf(dictname) >= 0,
+      "Dict " + dictname + " not in README.md"
+    );
+
     var f = path.join(__dirname, "..", "dicts", dfile);
     var data = fs.readFileSync(f).toString();
     var items = word_quizz.loadData(data);

@@ -1,0 +1,39 @@
+e,f,p
+did you dance?,raghsidi?
+room,otagh
+sourcil,abru
+menton,tchâne
+t-shirt,t-shirt
+yellow,zard
+eggplant,bâdemdjun
+purple,bâdemdjuni
+painter,naghâsh
+foreign,rhaledji
+socks,djurâbha
+rose (flower),gole roz
+poet,sha'er
+hat,kola
+to know (someone),shenarhtan
+profession,shoghl
+baker,nânvâ
+doctor,formal:pezesht casual:doctor
+driver,ranânde
+journalist (news writer),rhabarneggâr
+clerk,karmand
+sales person,fouroushande
+letter,nâme
+mailman (letter+arrive / postoffice job),nâmeressan / postchi
+to arrive,residan
+tailor,rhayât
+photo / photographer,aks / ak'kas
+tooth,dandân
+dentist,dandân pezecht
+skirt,dâman
+repairman,mechânic / ta'mirkar
+so / therefore,pas / banobarin
+to text someone,sms bâzi kardan
+olive,zeitoon
+olive oil,rhoghane zeitoone
+to put,gozashtan
+fridge,yarhtchâl,یخچال
+sister,khwâhar,خواهر
