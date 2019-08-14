@@ -15,15 +15,15 @@ poet,sha'er
 hat,kola
 to know (someone),shenarhtan
 profession,shoghl
-baker,nânvâ
-doctor,formal:pezesht casual:doctor
-driver,ranânde
-journalist (news writer),rhabarneggâr
+baker,نانوا,nânvâ
+doctor,پزشک / دکتر,formal:pezesht casual:doctor
+driver,راننده,ranânde
+journalist (news writer),روزنامه نگار,roozename neggâr / rhabarneggâr
 clerk,karmand
 sales person,fouroushande
-letter,nâme
+letter,نامه,nâme
 mailman (letter+arrive / postoffice job),nâmeressan / postchi
-to arrive,residan
+to arrive,رسیدن,ressidan
 tailor,rhayât
 photo / photographer,aks / ak'kas
 tooth,dandân
@@ -35,5 +35,6 @@ to text someone,sms bâzi kardan
 olive,zeitoon
 olive oil,rhoghane zeitoone
 to put,gozashtan
+to name X (to put name of X),esme X gozashtan
 fridge,yarhtchâl,یخچال
 sister,khwâhar,خواهر
