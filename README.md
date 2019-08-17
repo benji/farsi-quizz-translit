@@ -62,6 +62,8 @@ Lesson 8 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/f
 
 Lesson 8 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8vocab&quizz_far2eng=false)
 
+Lesson 9: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=false)
+
 ### Other Quizz
 
 Alphabet: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=true) [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=false)
@@ -105,6 +107,14 @@ https://librivox.org/persian-self-taught-by-shaykh-hasan/
 https://en.wikipedia.org/wiki/Persian_verbs
 
 Alphabet: https://www.learnpersianonline.com/beginners/farsi-alphabet/
+
+### Notable differences with english
+
+- letters may change shape depending the letters around it and how they connect to them. Each letter has different rules and may or may not attach to the next letter. All letter may be attached to the previous one.
+- different definition of what a word is. Some words may contain spaces (ex: hands - دست ها)
+- there may be several way to write a word (ex: hands - دست ها or دستها)
+- verb is at the end and the typical sentence structure is Subject + Object + Verb
+- particle râ - را is used for direct object, applied to a noun, which is specific and definite
 
 ### Verbs Conjugation Rules
 

@@ -1,0 +1,39 @@
+e,f,p
+I want you to sleep,می خوام (تو) بخوابی
+on top of a mountain,بالای کوه
+I arrive in 2 minutes,دو دقیقه می رسم
+lazy,تنبل,tanbal
+sick,مریض,mariz
+danger,خطر
+dangerous,خطرناک,rhatarnâk
+I believe in god,من به خدا اعتقاد دارم,man be rodâ e'theghad dâram
+is there something or nothing?,cheese hast yâ na?
+I selected,من انتخاب کردم,man enterhâbât kardam
+winner,برنده,barande
+in your opinion who will win the elections?,فکر می کنی در انتخابات که برنده می شه,fekr mikoni dâr enterrhâbât ki barabde mishe?
+last time,daf'eye pish = varte pish
+who will win?,کی میبره؟
+who won?,کی برد؟
+republic/an(s),جمهوری خواهان,djumoori/rha(han)
+democrats,دموکرات ها
+I'm working until 5,من تا پنج کار میکنم
+I work until 5,من تا پنج کار دارم
+I woke up to (go) play soccer,بیدار شدم تا (برم) فوتبال بازی کنم
+I don't want to work any more,nemotoonam bishtar as in kar konam
+wednesday the 15th,چهارشنبه پانزدهم,chahar shambe poonzdahom
+I feel good,چهارشنبه پانزدهم,ehsâsse roobi dâram
+not possible,ممکن نیست,momken nist
+lucky,خوش شانس
+thirsty,تشنه
+I'm thirsty,teshname
+I am scared,ترسیده ام,mitarsam
+you scared me,to mano (man râ) tarsidi
+I don't want any more,دیگر نمی خواهم,digge nemirham
+to try,saaye kardan
+it's hard,سخت است
+I am a french speaker (native/second lang),man faransavi zabânam / baladam
+a book about math,کتابی درباره ریاضی
+to change,عوض کردن,avaz kardan
+to sing,آواز خواندن
+be ready!,آماده باش
+I want to learn to be ready,می خواهم یاد بگیرم تا آماده باشم
