@@ -7,6 +7,7 @@ sick,مریض,mariz
 danger,خطر
 dangerous,خطرناک,rhatarnâk
 I believe in god,من به خدا اعتقاد دارم,man be rodâ e'theghad dâram
+belief,اعتقاد
 is there something or nothing?,cheese hast yâ na?
 I selected,من انتخاب کردم,man enterhâbât kardam
 winner,برنده,barande
@@ -21,7 +22,7 @@ I work until 5,من تا پنج کار دارم
 I woke up to (go) play soccer,بیدار شدم تا (برم) فوتبال بازی کنم
 I don't want to work any more,nemotoonam bishtar as in kar konam
 wednesday the 15th,چهارشنبه پانزدهم,chahar shambe poonzdahom
-I feel good,چهارشنبه پانزدهم,ehsâsse roobi dâram
+I feel good,احساس خوبی دارم,ehsâsse roobi dâram
 not possible,ممکن نیست,momken nist
 lucky,خوش شانس
 thirsty,تشنه
