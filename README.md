@@ -2,7 +2,19 @@
 
 Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi verbs into english.
 
-### Online Quizz
+|  | En->Ir | Ir->En |
+| ------ | ------ | ------ |
+| Lesson 10 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson10&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson10&quizz_far2eng=true) |
+| Lesson 9 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=true) |
+| Lesson 8 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8&quizz_far2eng=true) |
+| Lesson 7 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7&quizz_far2eng=true) |
+| Lesson 6 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6&quizz_far2eng=true) |
+| Lesson 5 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson5&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson5&quizz_far2eng=true) |
+| Lesson 4 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson4&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson4&quizz_far2eng=true) |
+| Lesson 3 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson3&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson3&quizz_far2eng=true) |
+| Lesson 2 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson2&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson2&quizz_far2eng=true) |
+| Lesson 1 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson1&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson1&quizz_far2eng=true) |
+
 
 Verbs: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=verbs&quizz_dict=verbs&quizz_far2eng=false)
 
@@ -31,38 +43,6 @@ Expressions/Sentences 1: [IR2EN](http://htmlpreview.github.io/?https://github.co
 Expressions/Sentences 2: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr2&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr2&quizz_far2eng=false)
 
 Expressions/Sentences 3: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr3&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr3&quizz_far2eng=false)
-
-Lesson 1: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson1&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson1&quizz_far2eng=false)
-
-Convo 1: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo1&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo1&quizz_far2eng=false&quizz_rand=false)
-
-Lesson 2: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson2&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson2&quizz_far2eng=false)
-
-Convo 2: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo2&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo2&quizz_far2eng=false&quizz_rand=false)
-
-Lesson 3: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson3&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson3&quizz_far2eng=false)
-
-Convo 3: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo3&quizz_far2eng=true&quizz_rand=false) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=convo3&quizz_far2eng=false&quizz_rand=false)
-
-Lesson 4: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson4&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson4&quizz_far2eng=false)
-
-Lesson 5 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson5convo&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson5convo&quizz_far2eng=false&quizz_rand=false)
-
-Lesson 5 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson5vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson5vocab&quizz_far2eng=false)
-
-Lesson 6 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6convo&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6convo&quizz_far2eng=false&quizz_rand=false)
-
-Lesson 6 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson6vocab&quizz_far2eng=false)
-
-Lesson 7 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7convo&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7convo&quizz_far2eng=false&quizz_rand=false)
-
-Lesson 7 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson7vocab&quizz_far2eng=false)
-
-Lesson 8 convo: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8convo&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8convo&quizz_far2eng=false&quizz_rand=false)
-
-Lesson 8 vocab: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8vocab&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8vocab&quizz_far2eng=false)
-
-Lesson 9: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=false)
 
 ### Other Quizz
 

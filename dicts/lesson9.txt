@@ -9,10 +9,10 @@ dangerous,خطرناک,rhatarnâk
 I believe in god,من به خدا اعتقاد دارم,man be rodâ e'theghad dâram
 belief,اعتقاد
 is there something or nothing?,cheese hast yâ na?
-I selected,من انتخاب کردم,man enterhâbât kardam
+I selected,من انتخاب کردم,man enterhâb kardam
 winner,برنده,barande
 in your opinion who will win the elections?,فکر می کنی در انتخابات که برنده می شه,fekr mikoni dâr enterrhâbât ki barabde mishe?
-last time,daf'eye pish = varte pish
+last time,daf'e-ye pish
 who will win?,کی میبره؟
 who won?,کی برد؟
 republic/an(s),جمهوری خواهان,djumoori/rha(han)
@@ -20,9 +20,9 @@ democrats,دموکرات ها
 I'm working until 5,من تا پنج کار میکنم
 I work until 5,من تا پنج کار دارم
 I woke up to (go) play soccer,بیدار شدم تا (برم) فوتبال بازی کنم
-I don't want to work any more,nemotoonam bishtar as in kar konam
+I don't want to work any more (I don't want to work more than this),nemotoonam bishtar az in kar konam
 wednesday the 15th,چهارشنبه پانزدهم,chahar shambe poonzdahom
-I feel good,احساس خوبی دارم,ehsâsse roobi dâram
+I feel good (I have a good feeling),احساس خوبی دارم,ehsâsse rhoobi dâram
 not possible,ممکن نیست,momken nist
 lucky,خوش شانس
 thirsty,تشنه
@@ -32,7 +32,7 @@ you scared me,to mano (man râ) tarsidi
 I don't want any more,دیگر نمی خواهم,digge nemirham
 to try,saaye kardan
 it's hard,سخت است
-I am a french speaker (native/second lang),man faransavi zabânam / baladam
+I am a frankophone / I speak french,man (faransavi zabân) hastam / man faransavi (balad hastam)
 a book about math,کتابی درباره ریاضی
 to change,عوض کردن,avaz kardan
 to sing,آواز خواندن

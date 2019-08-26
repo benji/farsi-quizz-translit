@@ -1,0 +1,25 @@
+e,f,p
+free ($0),مجانی,madjaani
+200,دویست,divist
+300,سیصد,sisad
+sick (2),مریض / بیمار,mariz / bimar
+ticket (bus, cinema,...),بلیط,belit
+to teach (lesson) someone,به کسی درس دادن,be kassi dars daadan
+lesson,درس,dars
+to study (lesson),درس خواندن,dars rhaandan
+a stick,چوب,tchub
+strawberry,توت فرنگی,toot farengi
+berry,توت,toot
+last name (family name),نام خانوادگی,name rhaanevaadegi
+age,سن,sen
+profession,شغل,shoghl
+address,نشانی,neshaani
+415,چهارصد و پانزده,chahar sado poonzda
+4,۴
+6,۶
+only on Thursdays,فقط پنج شنبه ها,farat panjshambeha
+from morning to noon you work,از صبح تا ظهر   سر کار می روی
+the rest of the day is off,بقیه روز تعطیل است,bagiye rooz ta'til hast
+apple pie,پای سیب
+jeans,شلوار جین
+a prayer,نماز,namaaz
