@@ -12,15 +12,23 @@ strawberry,توت فرنگی,toot farengi
 berry,توت,toot
 last name (family name),نام خانوادگی,name rhaanevaadegi
 age,سن,sen
-profession,شغل,shoghl
+profession,شغل,shohl / shoghl?
 address,نشانی,neshaani
 415,چهارصد و پانزده,chahar sado poonzda
 4,۴
 6,۶
 only on Thursdays,فقط پنج شنبه ها,farat panjshambeha
-from morning to noon you work,از صبح تا ظهر   سر کار می روی
-the rest of the day is off,بقیه روز تعطیل است,bagiye rooz ta'til hast
+from morning to noon you work,از صبح تا ظهر سر کار می روی
+the rest of the day is off,بقیه روز تعطیل است,baghiye rooz ta'til hast
+the rest of,باقی
 apple pie,پای سیب
 jeans,شلوار جین
 a prayer,نماز,namaaz
 next week,هفته بعد,hafteye ba-ad
+next to the table (hug + table),baghal-e miz
+next to,کنار / بغل,kenaar / baghal
+how many (countable/not countable),چند تا / چقدر,chan ta / che radr
+plum,گوجه,goje
+moon,ماه,maah
+perfect,کامل,kaamel
+full moon,ماه کامل,maahe kamel
