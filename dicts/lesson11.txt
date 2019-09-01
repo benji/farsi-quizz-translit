@@ -1,0 +1,57 @@
+e,f,p
+perfect,کامل,kaamel
+full moon,ماه کامل,maahe kamel
+the rest of the day is off,بقیه روز تعطیل است,baghiye rooz ta'til hast
+next to,کنار / بغل,kenaar / baghal
+it smells good,بوی خوبی می دهد,boo-ye rhoob midahad (mide)
+nowhere,یچ جا
+to go,رفتن
+to wear,پوشیدن
+to eat,خوردن
+to give,دادن
+to read,خواندن
+exercise (study+sport),ورزش,varzesh
+to workout,ورزش کردن
+wife and husband (expression),زن و شوهر
+house wife,خانه دار
+roundabout / square,میدان,meydaad
+with class,با کلاس
+school,مدرسه 
+maternelle 1,مهد کودک,mahde kudak
+craddle,مهد,mahde
+child,کودک,kudak
+maternelle 2 / preschool,پیش دبستانی
+elementary school,دبستان,dabestaan
+fr college - middleschool,مدرسه راهنمایی,raahnamaayi
+middleschool+highschool teacher,دبیر,dabir
+5th grade,کلاس پنجم
+highschool,دبیرستان,dabirestaan
+1 year pre univ, پیش دانشگاه
+to show,نشان دادن,neshaan daadan
+far from,دور از
+close to,نزدیک به
+supermarket (mall),سوپر مارکت
+grocery store,بقالی,baghaali
+bakery,نانوایی
+pharmacy,داروخانه
+drug (medicine),دارو
+to snore,خروپف کردن,rhoropof kardan
+come in,بیا تو,biaa tu
+excellency,قربان / جناب,djenaab
+captain,ناخدا,naarhod(aa)
+to wake up (casual),بلند شید,boland shid
+I put (casual),می ذارم,mi(go)zaaram
+leave me alone,ولم کن,velam kon
+5 times,پنج بار
+newborn,نوزاد
+born,زاد
+bell,زنگ
+to ring someone,زنگ زدن به کسی
+to text someone,زنگ تکست به کسی
+love,عشق,eshgh
+
+
+
+
+
+
