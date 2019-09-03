@@ -4,6 +4,7 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 |  | En->Ir | Ir->En |
 | ------ | ------ | ------ |
+| Lesson 11 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson11&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson11&quizz_far2eng=true) |
 | Lesson 10 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson10&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson10&quizz_far2eng=true) |
 | Lesson 9 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=true) |
 | Lesson 8 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson8&quizz_far2eng=true) |

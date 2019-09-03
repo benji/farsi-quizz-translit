@@ -49,7 +49,11 @@ bell,زنگ
 to ring someone,زنگ زدن به کسی
 to text someone,زنگ تکست به کسی
 love,عشق,eshgh
-
+to serve,خدمت کردن,rhedmat kardan
+servant (maid; server),خدمتکار,rhedmatkaar
+flight attendant,خدمه پرواز,rhadame parvoz
+waiter (2),گارسون / پیشخدمت,pishrhedmat
+art,هنر,honar
 
 
 
