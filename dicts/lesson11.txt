@@ -34,6 +34,9 @@ supermarket (mall),سوپر مارکت
 grocery store,بقالی,baghaali
 bakery,نانوایی
 pharmacy,داروخانه
+flower shop,گل فروشی
+newspaper shop,روزنامه فروشی
+photography / photography store,عکاسی
 drug (medicine),دارو
 to snore,خروپف کردن,rhoropof kardan
 come in,بیا تو,biaa tu
@@ -54,8 +57,7 @@ servant (maid; server),خدمتکار,rhedmatkaar
 flight attendant,خدمه پرواز,rhadame parvoz
 waiter (2),گارسون / پیشخدمت,pishrhedmat
 art,هنر,honar
-
-
-
-
-
+which,کدام,kodam / kodum
+and,و,va
+or,یا,yaa
+carpenter,نجار
