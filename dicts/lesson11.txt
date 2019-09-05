@@ -1,6 +1,6 @@
 e,f,p
 perfect,کامل,kaamel
-full moon,ماه کامل,maahe kamel
+full moon,ماه کامل,maahe kaamel
 the rest of the day is off,بقیه روز تعطیل است,baghiye rooz ta'til hast
 next to,کنار / بغل,kenaar / baghal
 it smells good,بوی خوبی می دهد,boo-ye rhoob midahad (mide)
@@ -16,14 +16,14 @@ wife and husband (expression),زن و شوهر
 house wife,خانه دار
 roundabout / square,میدان,meydaad
 with class,با کلاس
-school,مدرسه 
+school,مدرسه,madresse
 maternelle 1,مهد کودک,mahde kudak
 craddle,مهد,mahde
 child,کودک,kudak
 maternelle 2 / preschool,پیش دبستانی
 elementary school,دبستان,dabestaan
-fr college - middleschool,مدرسه راهنمایی,raahnamaayi
-middleschool+highschool teacher,دبیر,dabir
+fr college - middleschool (school + way+guide),مدرسه راهنمایی,raahnamaayi
+teacher (middleschool+highschool),دبیر,dabir
 5th grade,کلاس پنجم
 highschool,دبیرستان,dabirestaan
 1 year pre univ, پیش دانشگاه
@@ -42,7 +42,7 @@ to snore,خروپف کردن,rhoropof kardan
 come in,بیا تو,biaa tu
 excellency,قربان / جناب,djenaab
 captain,ناخدا,naarhod(aa)
-to wake up (casual),بلند شید,boland shid
+get up!,بلند شید,boland shid
 I put (casual),می ذارم,mi(go)zaaram
 leave me alone,ولم کن,velam kon
 5 times,پنج بار
@@ -60,4 +60,6 @@ art,هنر,honar
 which,کدام,kodam / kodum
 and,و,va
 or,یا,yaa
-carpenter,نجار
+but,ولی
+carpenter,نجار,nadjaar
+to work,کار کردن,kaar kardan
