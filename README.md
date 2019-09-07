@@ -4,6 +4,7 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 |  | En->Ir | Ir->En |
 | ------ | ------ | ------ |
+| Lesson 1۲ | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson12&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson12&quizz_far2eng=true) |
 | Lesson 11 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson11&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson11&quizz_far2eng=true) |
 | Lesson 10 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson10&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson10&quizz_far2eng=true) |
 | Lesson 9 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=lesson9&quizz_far2eng=true) |
@@ -46,6 +47,8 @@ Expressions/Sentences 2: [IR2EN](http://htmlpreview.github.io/?https://github.co
 Expressions/Sentences 3: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr3&quizz_far2eng=true) - [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=expr3&quizz_far2eng=false)
 
 ### Other Quizz
+
+French Test [EN2FR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=fr1&quizz_far2eng=false) | [FR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=fr1&quizz_far2eng=true) |
 
 Alphabet: [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=true) [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=alphabet&quizz_far2eng=false)
 
