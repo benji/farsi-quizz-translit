@@ -49,3 +49,5 @@ it's time to eat,وقت خوردنه
 be quick,زود باش
 television,تلویزیون
 cartoon,کارتون
+their second daughter,دختر دومشون,dorhtare dovvomeshoon
+company,شرکت,sherkate
