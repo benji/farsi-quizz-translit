@@ -1,0 +1,11 @@
+e,f,p
+monday,lundi,
+tuesday,mardi,
+wednesday,mercredi,
+thursday,jeudi,
+friday,vendredi,
+saturday,samedi,
+sunday,dimanche,
+january,janvier
+february,fevrier
+march,mars

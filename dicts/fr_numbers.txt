@@ -1,0 +1,34 @@
+e,f,p
+one,un
+two,deux,ده
+three,trois,
+four,quatre,
+five,cinq,
+six,six,سیس
+seven,sept,
+eight,huit,
+nine,neuf,
+ten,dix,
+eleven,onze
+twelve,douze
+thirteen,treize
+fourteen,quatorze
+fiftenn,quinze
+sixteen,seize
+seventeen,dix-sept
+eighteen,dix-huit
+nineteen,dix-neuf
+twenty,vingt
+twenty one,vingt-et-un
+twenty two,vingt-deux
+twenty three,vingt-trois
+thirty,trente
+fourty,quarante
+fifty,cinquante
+sixty,soixante,سواسانت
+seventy,soixante-dix
+eighty,quatre-vingt
+ninety,quatre-vingt-dix
+one hundred,cent
+124,cent vingt quatre
+368,trois cent soixante huit
