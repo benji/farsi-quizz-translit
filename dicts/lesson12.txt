@@ -55,3 +55,4 @@ cartoon,کارتون
 their second daughter,دختر دومشون,dorhtare dovvomeshoon
 firm,شرکت,sherkat
 company,compani
+I'm broken,chekaste-am
