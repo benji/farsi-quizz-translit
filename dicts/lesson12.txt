@@ -1,11 +1,11 @@
 e,f,p
 there is no time,وقت ندار
 but (2),ولی / اما
-this / that,این / اون
-what did you do?,چکار کردین
+this / that (casual),این / اون
+what did you do (casual shoma)?,چکار کردین
 nightclub,دیسکو
 alcohol (2),الکل / مشروب,mashrob
-drinking water,آب شربت,aabe shorb
+drinking water,آب شرب,aabe shorb
 sirup,شربت,shorbat
 drunk,مست,mast
 Drunkenness and truth,مستی و راستی
@@ -17,8 +17,8 @@ uncle (mom side),دایی
 aunt (mom side),خاله
 uncle (dad side),عمو,amou
 aunt (dad side),عمه,am-me
-cousin (mom's sister),دختر دایی
-grandpa,پدر بزرگ
+cousin (mom's brother),دختر دایی,dorhtar daayi
+grandpa,پدر بزرگ,pedar bozorg
 brother,برادر,baraadar
 sister,خواهر
 pilot,خلبان,rhalabaan
@@ -37,10 +37,11 @@ you have to,تو باید
 respect,احترام,ehteraam
 lady,خانم
 tolerance,تحمل,taham-mol
-I can't stand you,تحملتو ندارم,taham-moleto
-c'est peche "it has sin",گناه داره,gobaah daare
+I can't stand you,تحملتو ندارم,taham-moleto nadaaram
+c'est peche "it has sin",گناه داره,gonaah daare
 "oh I see" (expr),که این طور,ke in tor
-mean,یعنی
+this is the way [it is]?,طور,in tori-e?
+mean (x means Y),یعنی
 dessert,دسر
 "no news for dessert!" (expr),از دسر خبری نیست
 lazy,تنبل,tanbal
@@ -50,4 +51,5 @@ be quick,زود باش
 television,تلویزیون
 cartoon,کارتون
 their second daughter,دختر دومشون,dorhtare dovvomeshoon
-company,شرکت,sherkate
+firm,شرکت,sherkat
+company,compani
