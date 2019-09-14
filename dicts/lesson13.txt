@@ -1,0 +1,46 @@
+e,f,p
+to forget (more formal),فراموش کردن,faramoush kardan
+to forget (expr / less formal),yaadam raft
+dark,تاریک
+bright,روشن,roshan
+bitter,تلخ,talrh
+sweet,شیرین
+shirt (women),بلوز
+shirt (men),پیراهن
+winter,زمستان,temestaan
+summer,تابستان,[taab]estaan
+shine/glow,تابیدن,[taab]idan
+sun,آفتاب,aaf[taab]
+spring,بهار
+fall,پاییز,paayiz
+I ate a bit of cake (2),کیک کم خوردم / کمی کیک خوردم
+winter nights are the coldest nights of the year,شب های زمستان سردترین شب های سال است
+easy,آسان
+my god!,خدای من
+here,این جا
+what's up / what happened,چی شد؟
+it looks like,انگار,engaar
+to believe,باور كردن,baavar kardan
+in (2),تو / در,tou / dar
+in my opinion,به نظرمن,be bezaram
+opinion,نظر,bezar
+real,واقعی,vaaghehi
+nightmare,کابوس,kaabouss
+what a nightmare (2),چه کابوسی / عجب کابوسی,che/adjab kaaboussi
+terrifying,وحشتناک,vahshatnaak
+to terrify,وحشت کردن
+horror,وحشت
+let me say,بذار بگم,bezaar begam
+let's go to the cinema,بیا (به) سینما بریم
+for me / for them (short form),برام / برامون
+to define,تعریف کردن,tahrif kardan
+let me tell you,بزار برات تعریف کنم
+not at all,نه خیر
+good night,شب بخیر
+wrong,اشتباه,eshtebah
+incorrect,غلط,ghalat
+butcher,قصاب,ghassaan
+butchery,قصابی,ghassaani
+you got it wrong,اشتباه گرفتید
+store,مغازه / فروشگاه
+I'm sorry,متاسفم
