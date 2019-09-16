@@ -44,3 +44,12 @@ butchery,قصابی,ghassaani
 you got it wrong,اشتباه گرفتید
 store,مغازه / فروشگاه
 I'm sorry,متاسفم
+dear,عزیز
+bench,نیمکت,nimkat
+pencil,مداد,medaad
+pen,قلم,ghalam
+paper,کاغذ,kaaghaz
+bird,پرنده,parande
+cloud,ابر,aabr
+horse,اسب,aasb
+
