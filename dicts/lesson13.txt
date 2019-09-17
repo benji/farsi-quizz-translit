@@ -1,13 +1,13 @@
 e,f,p
 to forget (more formal),فراموش کردن,faramoush kardan
-to forget (expr / less formal),yaadam raft
+to forget (casual+expr / formal),یادم رفت / فراموش کردن,yaadam raft / faraamoush kardan
 dark,تاریک
 bright,روشن,roshan
 bitter,تلخ,talrh
 sweet,شیرین
 shirt (women),بلوز
 shirt (men),پیراهن
-winter,زمستان,temestaan
+winter,زمستان,zemestaan
 summer,تابستان,[taab]estaan
 shine/glow,تابیدن,[taab]idan
 sun,آفتاب,aaf[taab]
@@ -22,34 +22,41 @@ what's up / what happened,چی شد؟
 it looks like,انگار,engaar
 to believe,باور كردن,baavar kardan
 in (2),تو / در,tou / dar
-in my opinion,به نظرمن,be bezaram
-opinion,نظر,bezar
+in my opinion,به نظر من,be nazar-e-man
+landscape,نظر,nazar
 real,واقعی,vaaghehi
 nightmare,کابوس,kaabouss
 what a nightmare (2),چه کابوسی / عجب کابوسی,che/adjab kaaboussi
 terrifying,وحشتناک,vahshatnaak
-to terrify,وحشت کردن
-horror,وحشت
+to terrify,وحشت کردن,vahshat kardan
+horror,وحشت,vahshat
 let me say,بذار بگم,bezaar begam
 let's go to the cinema,بیا (به) سینما بریم
 for me / for them (short form),برام / برامون
 to define,تعریف کردن,tahrif kardan
-let me tell you,بزار برات تعریف کنم
-not at all,نه خیر
+let me tell (describe) you,بزار برات تعریف کنم
+not at all,نه خیر,na rheir
 good night,شب بخیر
 wrong,اشتباه,eshtebah
 incorrect,غلط,ghalat
 butcher,قصاب,ghassaan
 butchery,قصابی,ghassaani
 you got it wrong,اشتباه گرفتید
-store,مغازه / فروشگاه
+store,مغازه / فروشگاه,maghaaze
 I'm sorry,متاسفم
 dear,عزیز
 bench,نیمکت,nimkat
 pencil,مداد,medaad
-pen,قلم,ghalam
+pen,خودکار,rodkaar
 paper,کاغذ,kaaghaz
 bird,پرنده,parande
 cloud,ابر,aabr
 horse,اسب,aasb
-
+every week I have a farsi class every friday at 6pm,har hafte jomeha saate shesh-e shab kelasse farsi daaram
+to close,بستن,bastan
+to listen,گوش دادن,goush daadan
+listen!,گوش کن
+other (formal/casual),دیگر/دیگه
+word,کلمه,kalame
+cabbage,کلم,kalam
+head (normal / slang),کله / سر,sar / kale
