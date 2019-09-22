@@ -1,0 +1,18 @@
+e,f,p
+grape,انگور,angoor
+swimming pool,استخر,estarhr
+I swim,شنا می کنم,shenaa mikonam
+office,اداره,edaare
+wedding,عروسی,aroussi
+marriage,ازدواج,ezdevaadj
+to sit,نشستن,neshastan
+please have a seat,لطفا بنشین,lotfan be(ne)shin
+I put the bottle on the table,بطری را روی میز گذاشتم,botri raa rouye miz gozaashtam
+a bottle of wine,یک بطری شراب,yek botri sharaab
+there are a lot of clouds in the sky,در آسمان خیلی ابر هست,dar asemoon rheili aabr hast
+my sister rides horses,خواهرم اسب سواری می کنه,rhaaharam asb savori mikone
+let's go to the (lips of the) beach,بیا بریم لب ساحل,biaa berim lab-e sahel
+magnifying glass (particle viewer),ذره بین,zarre-bin
+can you please close the door?,میشه لطفا در را ببندید؟,mishe lotfan dar raa bebandid?
+to close / I close,بستن / می بندم,bastan / mibandam
+when you see a shooting star you should make a wish,هر وقت شهاب دیدی باید آرزو کن,har vaght shahaab didi baayad aarezoo koni
