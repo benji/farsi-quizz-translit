@@ -16,3 +16,10 @@ magnifying glass (particle viewer),ذره بین,zarre-bin
 can you please close the door?,میشه لطفا در را ببندید؟,mishe lotfan dar raa bebandid?
 to close / I close,بستن / می بندم,bastan / mibandam
 when you see a shooting star you should make a wish,هر وقت شهاب دیدی باید آرزو کن,har vaght shahaab didi baayad aarezoo koni
+notebook (2),کتابچه / دفتر,ketaab-che / daftar
+behind,پشت,posht
+front,جلو,djolo
+beside,کنار,kenaar
+too,هم,ham
+on (above),روی,rooye
+under,زیر,zire
