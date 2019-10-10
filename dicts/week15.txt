@@ -1,0 +1,33 @@
+e,f,p
+to travel,مسافرت کردن / رفتن,mosaaferat +...
+to return / to turn around / to tip over / to come back,برگشتن
+by plane,با هواپیما,baa havaa peimaa
+by train,قطار,ghataar
+shadow,سایه,saaye
+neighbor,همسایه,hamsaaye
+coworker,همکار,hamkaar
+same age,هم سن
+classmate,همکلاسی
+housemate,هم خانه
+roommate,هم اتاقی
+same language,هم زبان
+compatriot (same coutry),هم وطن,ham vatan
+same neighboorhood,هم محل,ham mohal
+same height,هم قد,ham ghad
+weight,وزن,vazn
+same weight,هم وزن,ham vazn
+notebook / office,دفتر,daftar
+I was saying ... (formal/casual),داشتم ... می گفتم / ... می گفتم
+about,از / در باره
+he was knocking the door,در می زد
+times,دفعه / باره,dafhe / baare
+suddenly,یک دفعه,yek dafhe
+neither / nor,نه ... نه,nah ... nah ...
+but,بلکه / اما / ولی,balke / aamaa / vali
+old woman,پیرزن,pirzan
+old and ugly,عجوزه,?
+grumpy / whinny (women),عفریت,efrit
+to turn/change into ...,تبدیل شدن به,tabdil kardan be ...
+still / again / yet,باز هم
+you here?,شما  کجا?
+oh!,اوه!
