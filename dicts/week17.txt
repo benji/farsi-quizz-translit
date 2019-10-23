@@ -1,0 +1,17 @@
+e,f,p
+_a_ hotel (casual -> formal) (4),یه هتل / یک هتل / هتلی / یک هتلی
+downtown (city center),مرکز شهر,markaze shahr
+the student was focusing,دانشجو تمرکز داشت,daaneshdjoo tamarkoz daasht
+I'm going on a walk downtown,به مرکز شهر گردش می کنم,be markaze shahr gardesh mi-konam
+focus,تمرکز,tamarkoz
+spouse,همسر,hamsar
+I feel lonely,احساس تنها می کنم,ehssaass tanhaa mi-konam
+I live alone,من تنها زندگی می کنم
+not at all,اصلا / نخیر
+woah! / yay!,به به!,bah bah!
+birth certificate (know letter),شناس نامه,shenaas naame
+I live on the second floor,من در طبقه دوم زندگی می کنم,man dar tabaghe dovvom zendegi mi-konam
+we went to LA to see the family of my wife,برای دیدن خانواده همسرم به لس آنجلس رفتیم
+desk (work table),میز کار
+where is the exit?,خروج کجاست؟,rhooroodj kodjast?
+he is a foreigner,او یک خارجی است,ou yek rhaaredji ast
