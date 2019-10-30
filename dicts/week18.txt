@@ -1,0 +1,19 @@
+e,f,p
+electricity,برق,bargh
+you know me! (shortest),می شناسیم,mish(e)nassim
+I went to the pool to swim (short),برای شنا به استخر رفتم,baraaye shenaa be estarhr raftam
+to study (casual / formal),درس خواندن / مطالعه کردن,dars rhandan / motale-e kardan
+kitchen,آشپزخانه,ashpazrhaane
+library,کتابخانه
+wow! what a cake!,به به! چه کیکی!
+wow! what a delicious cake!,به به! عجب کیک خوشمزه ای!,adjab keike rhoshmaze-i
+surprise (2),تعجب / حیرت,tahdjoob / heirat
+poem,شعر,shehr
+students,شاگردن
+I was late,دیرم شد
+to wash,شستن,shostan
+I wash (casual-home / formal),می شورم / می شویم,mishouram  / mishouyam
+tired / fresh,خسته / سرحال,rhaste / sarhaal
+to ask,پرسیدن,porsidan
+I ask you a question,ازت یه سوال میپرسم,azet ye sohaal miporsam
+face,صورت,sourat
