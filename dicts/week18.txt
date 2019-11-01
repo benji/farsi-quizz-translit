@@ -16,4 +16,7 @@ I wash (casual-home / formal),می شورم / می شویم,mishouram  / mishouy
 tired / fresh,خسته / سرحال,rhaste / sarhaal
 to ask,پرسیدن,porsidan
 I ask you a question,ازت یه سوال میپرسم,azet ye sohaal miporsam
-face,صورت,sourat
+face,صورت,
+a bag of apples,یک کیسه سیب,yek kisse sib
+seatbelt (safety hip band),کمربند ایمنی,kamarbande imeni
+hedgehog (thorny chicken),جوجه تیغی,djuje tighi

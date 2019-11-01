@@ -1,38 +1,38 @@
 e,f,p
-in your opinion who will win the elections?,فکر می کنی در انتخابات کی برنده می شه,fekr mikoni dâr enterrhâbât ki barabde mishe?
-I take/carry the dog to the park,سگ را به پارک می برم,sag raa be park mi baram (bordan)
+in your opinion who will win the elections?,فکر می کنی در انتخابات کی برنده می شه,fekr mikoni dar enterrhâbât ki barande mishe?
+I take/carry the dog to the park,سگ را به پارک می برم,sag raa be park mi-baram (bordan)
 I write a book,من کتاب می نویسم,man ketaab mi nevissam
-I hear you,من شما را می شنوم,man shomaa raa mi shenavam
+I hear you,من شما را می شنوم,man shomaa raa mi-shenavam
 to hear,شنیدن,shenidan
 to write,نوشتن,neveshtan
-I'm writing a letter to you,من برای شما نامه می نویسم,man baraaye shomaa naame mi nevissam
+I'm writing a letter for you,من برای شما نامه می نویسم,man baraaye to naame mi-nevissam
 he doesn't come to the party,او به مهمانی نمی آید,ou be mehmooni ne mi a(ay)d
 he didn't come,او نیامد,ou na-i-aamad
 I wake you up at seven in the morning,ساعت هفت صبح تو را بیدار می کنم,saate hafte sohb to raa bidar mi konam
-1 AM,یک نصفه شب / یک صبح,yeke nessfe shab / yeke sobh
-My plane is at the airport,هواپیمای من در فرودگاه است,havaapeymaa ye man dar foroudgaah aast
+1 ~middle night / 1 AM,یک نصفه شب / یک صبح,yeke nessfe shab / yeke sobh
+My plane is at the airport,هواپیمای من در فرودگاه است,havaapeymaa ye man dar foroudgaah ast
 I caught a cold (I ate a cold),سرما خوردم,sarmaa rhordam
-you need to rest a bit,شما باید کمی استراحت کنید,shomaa baayad kami esteraahat konid
+you(pl) need(have) to rest a bit,شما باید کمی استراحت کنید,shomaa baayad kami esteraahat konid
 I just came from Los Angeles,من تازه از لس آنجلس اومدم,man taaze as Los Angeles oumadam
-I was with my mom,رفتیم پیش مامانم,raftim pishe maamaanam
+I went with my mom (expr),رفتیم پیش مامانم,raftim pishe maamaanam
 by the way,راستی
 give it to him,بهش بده,behesh bede
 I will arrive early,زود میرسم,zood mi ressam
 If I go to the cinema I see an Iranian movie,اگه به سینما برم یک فیلم ایرانی می بینم,age be sinemaa beram yek filme iraami mi binam
 I don't have the time to play,وقت بازی ندارم,vaghte baazi nadaaram
-that's it / this / the same ; right now,همین ; همین الان,hamin aalaan
-I want to go outside,می خواهم بیرون برم,man rhaaham birron beram
+that's it ; this ; the same / right now,همین / همین الان,hamin aalaan
+I want to go outside,می خواهم بیرون برم,mi-rhaaham biroon beram
 He couldn't help me,او نمی توانست به من کمک کند,ou nemi-tavaanest be man komak konad
 Send him my hello,سلام منو بهش برسون,saalaame mano behesh beressoon
 Science / teacher / scientist,علم / معلم / عالم,elm / mo-alem / aalem
 Geometry / engineer,هندسه / مهندس,handesse / mohandess
 This box is so heavy!,این جعبه خیلی سنگین است,in dja-abe rheili sangin ast
-I feel light headed,احساس سبك سر دارم,ehsaass sabodje sar daaram
 an alley is a small street,یک کوچه خیابان کوچکی است
 I want to buy a new rug,من می خواهم یک قالیچه جدید بخرم,man mirhaaham yek ghalitche (ye?) djadid berharam
 for example,مثلا,massalan
 Where's the trash can?,سطل آشغال کجاست؟,satle aashghaal kodjast?
 salesman,فروشنده,fouroushande
-question,سوال,sohaal
+question,سوال,soaal
 salt,نمک,namak
 I know her,من او را می شناسم,man ou raa mi shenaassam / manesho mineshnassam
+bucket,سطل,sAtl
