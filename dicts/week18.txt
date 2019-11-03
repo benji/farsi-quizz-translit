@@ -20,3 +20,25 @@ face,صورت,
 a bag of apples,یک کیسه سیب,yek kisse sib
 seatbelt (safety hip band),کمربند ایمنی,kamarbande imeni
 hedgehog (thorny chicken),جوجه تیغی,djuje tighi
+actually,اتفاقا,etefaaghaan
+meetup / visit,molaaghaat
+appointment (casual),وقت
+doctor appointment,وقت دکتر,vaghte doctor
+a few apples,چند سیب,tchand sib
+I touched (casual / formal) the table,میز را لمس می کنم / میز را دست می زنم,lams / dast
+unless,مگر اینکه / مگه اینکه,maggar / magge ingge
+magnetic,مغناطیسی,meghnaatissi
+super,فوق العاده,fogh al-aade
+great,العاده,al-aade
+above (physically),بالا,baalaa
+above (not physically) / superior,فوق,fogh
+hostpitable,مهمان نواز,mehmaan navaaz
+pleasant (gentle to the heart),دل نواز,del navaaz
+animal,حیوان,heivaan
+it's marvelous,معرکه است,ma-reke ast
+lightweight / heavy,سنگین / سبک,sanguin / sabok
+come in,بیا تو,biaa tu
+let me say,بذار بگم,bezaar begam
+be faster - hurry up,zood bash
+"oh I see" (expr),که این طور,ke in tor
+mean (x means Y),یعنی

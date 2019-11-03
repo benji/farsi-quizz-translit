@@ -20,7 +20,7 @@ When did you honor us with your arrival or visit?,آقاشما چه وقت تش�
 it's not possible,ممکن نیست
 it's impossible,غیر ممکنه,gheir momken-e
 I have a date,من یک قرار دارم,man yek gharaar daaram
-I have an appointment,قرار ملاقات دارم,gharaare molaaghaat daaram
+I have an rendez-vous,قرار ملاقات دارم,gharaare molaaghaat daaram
 I have a meeting with her,من با او ملاقات دارم,man baa ou molaaghaat daaram
 he is a great man,او مرد بزرگی است
 unique (2),یکتا / بی همتا
