@@ -42,3 +42,8 @@ let me say,بذار بگم,bezaar begam
 be faster - hurry up,zood bash
 "oh I see" (expr),که این طور,ke in tor
 mean (x means Y),یعنی
+how long does it take?,چقدر طول می کشه؟,cheradr tool mikeshe?
+how long is this meeting?,این جلسه چقدر طول می کشه؟,in djalasse cheradr tool mikesse
+meeting,جلسه,djalasse
+length,طول,tool
+to pull,کشدن,keshidan
