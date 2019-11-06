@@ -1,0 +1,14 @@
+e,f,p
+soft (touch),نرم
+software,نرم افزار,narm afzaar
+hardware,سخت افزار,sarht afzaar
+bathroom (shower/bathtub),حمام,ham-maan
+toilet / lavatory,توالت / دستشویی
+I eat both an apple and a banana,من هم سیب می خورم هم موز
+I both eat an apple and watch TV,من هم سیب می خورم هم تلویزیون تماشا می کنم
+I both drive and sing,هم رانندگی می کنم هم آواز می خوانم
+yeah,اره
+his hands / your books / their books,دستاش / کتابات / کتاباشون
+I ate nothing,من هیچی نخوردم
+an iranian (yek + ... + i),یک ایرانی ای
+Suddenly,یک دفعه,yek daf-he
