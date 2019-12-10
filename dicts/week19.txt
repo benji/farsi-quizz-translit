@@ -30,7 +30,7 @@ severe / intense,شدید,shadid
 voice / her voice,صدا / صداش,sedaa / sedaash
 duck (2),اردک / مرغابی,ordak / morghaabi (morgh+aab)
 to kill / killt,کشتن / میکشم,koshtan / kosht
-work,کلمه,kalame
+word,کلمه,kalame
 new (2),جدید / نو,djadid / no
 hospital,بیمارستان,bimarestaan
 lazyness,تنبلی,tanbali
@@ -44,3 +44,11 @@ he is gone,او رفته است
 slow (3),کند / اهسته / یواش,kond / aeste / yavaash
 knife,چاقو,tchaaghou
 handy,راه دست,raah dast
+garden,باغ,baagh
+gardener / gardening,باغبان / باغبانی
+to walk,راه رفتن,raah raftan
+color,رنگ
+to paint (house) (color),رنگ کردن
+to pain (canvas),نقاشی کردن,naghaashi kardan
+handwork,کار دستی,kare dasti
+wanna go out?,میخوای بری بیرون,mirhaii beri biroon

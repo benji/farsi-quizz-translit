@@ -1,0 +1,36 @@
+e,f,p
+mosque,مسجد,masdjed
+bookstore,کتابفروشی,ketaabforoushi
+tomorrow night,فردا شب
+yesterday evening,عصر دیروز
+now (2),حالا / الان,haallaa / allaan
+my own phone,تلفن خودم,telefone rhodam
+this year,امسال
+last year,پارسال,paar saal
+year before last,پیرال سال
+last week I woke up at seven o'clock every day, هفته پیش هر روز ساعت هفت بیدار می شدم
+when I was going to work I was learning farsi,وقتی به سر کار می رفتم فارسی را یاد می گرفتم
+when I came home, he was reading a book,وقتی به خانه آمدم ، او کتاب می خواند
+he was reading a book *when* I came home,او کتاب می خواند که به خانه آمدم
+to imagine,تصور کردن,tassav-vor kardan
+must,باید
+as your teacher,به عنوان معلم شما
+it takes (2) too much time (2),خیلی زمان می گیرد / خیلی وقت می بره
+not yet,نه هنوز,nah hanooz
+to put / I put,گذاشتن / می گذارم
+what does "friends" mean?,دوستان چی می شه
+old friends,دوستان قدیمی
+gym,باشگاه
+spring,بهار
+winter,زمستان
+summer,تابستان
+fall (season),پاییز
+neighbor (same shadow),همسایه
+dish,ظرف,tarf
+loud noise,صدای بلند
+to hear,شنیدن
+I see him (casual x2 / formal),اونو میبینم / می بینمش / من او را میبینم
+I used to smoke,من قبلا سیگار کشیدن,man ghablaan cigar keshidan
+to pull,کشیدن
+how many hours (long) is it?,چند ساعت راه است؟
+I don't have plans,من برنامه ندارم,man barnaame nadaaram
