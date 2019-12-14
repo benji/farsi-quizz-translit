@@ -1,0 +1,40 @@
+e,f,p
+wait a minute!,یک دقیقه صبر کن
+come eat dinner!,بیا شام بخور
+1 PM,یک ساعت شب
+off,خاموش
+shut down the TV!,تلویزیون را خاموش کنن
+go sleep!,برو بخواب
+(plural) come!,بیایید!
+sit down!,بنشنی!
+go!,برو,boro!
+there is no power,برق نیست
+water is cut,اب قطع است
+it's broken,روی این صندلی نشسته ، خراب است,rharaab ast
+to sit / I sit,نشستن / می نشینم,neshastan / mi neshinam
+danger of death,خطر مرگ,rhatar-e marg
+I am in front of the school,من جلوی مدرسه هستم
+to climb (to go up),بالا رفتن
+to come down,پایین آمدن از درخت
+to should (2),داد زدن / فریاد زدن,daad zadan / farid zadan
+immediately,فورآٍ,foraan
+bars / railing / fence,نرده,narde
+ladder,نردبان,nardebaan
+I pass (physically) (formal, casual),می گذرم,mi-gozaram / migzaram
+I put (formal, casual, more casual),می گاذرم,mi-gozaaram / migzaaram / mizaaram
+it was fun,خوش گذشت,rhosh gozasht
+are you having fun?,خوش می گذره,rhosh migzare?
+have fun!,خوش بگذره,rhosh bezare
+I live in SF (I'm a resident of SF),من ساکن سان فرانسیسکو هستم
+tent,چادر,tchaador
+sky,آسمان,aasemoun
+holiday,عید,-eid
+go! (single / plural),برو / بروید,(bo)ro / beravid
+don't go! (single / plural),نرو,naro / naravid
+clean / dirty,تمیز / کثیف,tamiz / kassif
+it makes me tired,منو خسته می کنه
+so far (up to now) (2),تا حالا / تا به حال,taa haalaa / taa be haal
+it's the best fessenjoon I have ever eaten,این بهترین فسنجونی که تا به حال خورده ام
+sweet+sour,ملس,malass
+both,هر دو
+ground/minced meat,گوشت چرخ کرده,goushte tcharrh karde

@@ -10,7 +10,7 @@ last year,پارسال,paar saal
 year before last,پیرال سال
 last week I woke up at seven o'clock every day, هفته پیش هر روز ساعت هفت بیدار می شدم
 when I was going to work I was learning farsi,وقتی به سر کار می رفتم فارسی را یاد می گرفتم
-when I came home, he was reading a book,وقتی به خانه آمدم ، او کتاب می خواند
+when I came home he was reading a book,وقتی به خانه آمدم ، او کتاب می خواند
 he was reading a book *when* I came home,او کتاب می خواند که به خانه آمدم
 to imagine,تصور کردن,tassav-vor kardan
 must,باید

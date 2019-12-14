@@ -4,6 +4,7 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 |  | En->Ir | Ir->En |
 | ------ | ------ | ------ |
+| Week 21 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week21&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week21&quizz_far2eng=true) |
 | Week 20 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week20&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week20&quizz_far2eng=true) |
 | Week 19 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week19&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week19&quizz_far2eng=true) |
 | Week 18 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week18&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week18&quizz_far2eng=true) |
