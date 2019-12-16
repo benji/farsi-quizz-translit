@@ -38,3 +38,6 @@ it's the best fessenjoon I have ever eaten,این بهترین فسنجونی ک
 sweet+sour,ملس,malass
 both,هر دو
 ground/minced meat,گوشت چرخ کرده,goushte tcharrh karde
+no problem,اشکالی نداره,eshkaali nadaare
+I play piano,من پیانو میزنم
+please wait,منتظر باشید,montazer baashid
