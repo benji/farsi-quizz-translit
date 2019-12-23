@@ -18,6 +18,7 @@ wordquizz.loadData = function(wordsFileContent, randomize) {
     if (!lines[i] || lines[i][0] == "#") continue;
 
     var parts = lines[i].split(",");
+    if (parts.length<2 || parts.length>3) throw 'Invalid line '+lines[i]
     var word = {
       eng: parts[0],
       farsi: parts[1],
