@@ -1,0 +1,21 @@
+e,f,p
+in one month (2),یک ماه دیگر / در یک ماه
+"she says hello" (delivers),سلام می رسونه
+"say hello" (from me),سلام برسن
+"she sent her hello",سلام رسود
+to deliver,رسندن,resendan
+to be born,به دنیا امدن
+to get in a car,سوار مشینه شدن,savaare machine shodan
+to shoot (array/gun),تیراندازی کردن,tiraandaazi kardan
+to throw,انداختن,aandaarhtan
+season,فصل,fasl
+nature,طبیعت,tabi-at
+some times I play football,بعضی وقت ها فوتبال بازی میکنم,ba-zi vaghtha footbaal laazi mikonam
+some men are lazy,بعضی مردان تنبل هستند,ba-zi mardaan tanbal hastand
+most books are boring,بیشتر کتابها کسل کننده هستند,bishtare ketaab-ha kessel konande hastand
+before coming here,قبل از آمدن اینجا,ghabl az aamadane indjaa
+I'm from Paris,من اهل پاریس هستم,man ahle paaris hastam
+train station,ایستگاه قطار,istgaah ghataar
+station / Quatar,قطار / قطر,ghataar / ghatar
+ship,کشتی,keshti
+first time (2),بار اول / اولین بار,baar-e av-val / av-valin baar

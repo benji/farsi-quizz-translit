@@ -1,0 +1,40 @@
+e,f,p
+to sew,دوختن,dourhtan
+thread,نخ,narh
+needle,سوزن,souzan
+kind,مهربان,mehrabaan
+kindness,مهر,kindness
+different,متفاوت,motefaavet
+inside / outside,داخل / برون,daarel / birooun
+building,ساختمان,saartemaan
+to go out,خارج شدن,rhaaledj shodan
+ocean,اقیانوس,aaghiaanous
+cucumber,خیار,rhiaar
+onion,پیاز,piaaz
+this is everyone's,,inhamast
+weather (formal) (water and air),اب و هوا,aab va havaa
+it's enough,کافی است,kaafie ast
+I try not to eat too much chocolate,سعی می کنم زیاد شکلات نخورم,sa-i mikonam ziad shokaalat narholam
+tear,اشک,ashk
+to cry,گریه کردن,guerie kardan
+to cut,بریدن,boridan
+empty,خالی
+massive,عظیم,azim
+gaz,گاز
+address,نشانی,neshaani
+pipe,لوله,lule
+mouse,ماوس
+to rent,کرایه کردن,keraaye kardan
+writing is hard / it's hard to write,نوشتن سخت است / سخته که بنویسم,neveshtan sarhte ast / sarhte ke benevissam
+hard / soft,سفت / نرم,seft / narm
+people (person),نفر,nefar
+teapot,قوری,ghouri
+lightbulb,چراغ,tcheraagh
+wolf,گرگ,gorg
+sheep,گوسفند,gosfand
+purple,بنفش,banafsh
+garage,گاراژ,gaaraaj
+river,رودخانه,roudrhaane
+bed,تخت,tarht
+cover,پتو,patou
+I don't come in a building with shoes,من با کفش دارل ساختمان نمی شوم,daarel .. saarhtemaan
