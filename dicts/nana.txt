@@ -27,7 +27,7 @@ mouse,ماوس
 to rent,کرایه کردن,keraaye kardan
 writing is hard / it's hard to write,نوشتن سخت است / سخته که بنویسم,neveshtan sarhte ast / sarhte ke benevissam
 hard / soft,سفت / نرم,seft / narm
-people (person),نفر,nefar
+people (person),نفر,nafar
 teapot,قوری,ghouri
 lightbulb,چراغ,tcheraagh
 wolf,گرگ,gorg

@@ -1,0 +1,100 @@
+e,f,p
+crown,تاج
+right (direction),راست
+musical instruments,ساز
+free (freedom),ازاد
+free ($0),مجانی,madjaani
+he was knocking the door,در می زد
+open,باز
+closed / to close,بست / بستن,bast / bastan
+wind,باد
+traditional soup/stew,آش
+waterfall,آبثار
+knife,چاقو / کارد,tchaaghou / kaard
+bag,ساک / کیسه,saac / kisse
+stove?,گاز
+wing,بال
+bird,پرنده,parande
+snake,مار,mâr
+elephant,فیل,phil
+a glass of water,لیوان آب
+groom,داماد
+almond,بادام
+dinner,شام
+rain,باران
+easy,آسان
+wise,دانا
+(bath)tub,وان,vân
+baker / bakery,نانوا / نانوایی
+broom,جارو
+sock,جوراب
+drug (medicine),دارو
+nest,لانه
+towel,حوله
+fabric,پارشه
+garlic,سیر
+wall,دیوار,divâr
+teapot?,قوری
+pomagranite,اَنار
+grapes,اَنگور
+fig,اَنجیر
+iron/metal,آهَن,âhan
+human,آدَم
+fire,آتَش
+leaf?,بَرگ
+pants,شَلوار
+cloud,ابر
+horse,اسب
+dog,سگ
+pencil,مداد
+pen,خودکار
+rice (uncooked / cooked),برنج / polo
+boy,پسر
+spoon,قاشق,ghaashogh
+plate,بشقاب,boshghaab
+(sea)shell,صدف دریایی,sadafe dariaai
+parrot,طوطی,touti
+rope,طناب,tanaab
+train station,ایستگاه قطار
+bottle,بطری
+midnight,نیمه شب
+box,جعبه,ja.be
+lamb,بره,bar-re
+question,سوال,sohal
+dream,رویا,royaa
+usually,معمولا,ma.moulan
+often,غالبا / بارها
+approximately,تقریباً,taghribaan
+pink,صورتی
+window,پنجره
+skirt,دامن,daaman
+cherry,گیلاس
+bike,دوچرخه
+street,خیابان
+tree,درخت
+young,javân
+used - aged,koghne (clothes) - radimi (building)
+empty,rhâli
+dumb,rheing
+short (things) - short (people),kutâ - rhadkutâ
+tall (things) - tall (people),boland - rhadboland
+empty (not crowded),rhalvat
+fast,sari
+fat,tcha(gh)
+sad,narâhat
+teacher (middleschool+highschool),دبیر,dabir
+driver,راننده
+photo / photographer,عکس / عکاس,aks / ak'kaas
+dentist,dandân pezecht
+ice,یخ,yarh
+baker,نانوا
+vase,گلدان,goldaan
+
+
+
+
+
+
+
+
+

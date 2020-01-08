@@ -19,3 +19,4 @@ train station,ایستگاه قطار,istgaah ghataar
 station / Quatar,قطار / قطر,ghataar / ghatar
 ship,کشتی,keshti
 first time (2),بار اول / اولین بار,baar-e av-val / av-valin baar
+bed,تختخواب,tarhtrhaab
