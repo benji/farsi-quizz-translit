@@ -89,3 +89,14 @@ dentist,دندانپزشک,dandân pezechk
 ice,یخ,yarh
 baker,نانوا
 vase,گلدان,goldaan
+let me go,بذار برم,bezaar beram
+writing is hard (1) / it's hard to write (2),نوشتن سخت است / سخته که بنویسم / سخته نوشتن ,neveshtan sarhte ast / sarhte ke benevissam / sarhte neveshtan
+mailman,نامه رسان,naame-resaan
+office worker,کارمند دفتر,kaarmande daftar
+salesman,فروشنده
+mechanic,مکانیک
+repairman,تعمیرکار
+dentist,دندانپزشک
+to happen,اتفاق افتادن,etefaagh oftaadan
+to fall,افتادن,oftaadan
+he's close to home,او نزدیک خانه است / او به خانه نزدیک است
