@@ -2,13 +2,13 @@ e,f,p
 crown,تاج
 right (direction),راست
 musical instruments,ساز
-free (freedom),ازاد
+free (freedom),ازاد,aazaad
 free ($0),مجانی,madjaani
 he was knocking the door,در می زد
 open,باز
 closed / to close,بست / بستن,bast / bastan
 wind,باد
-traditional soup/stew,آش
+traditional soup/stew,آش,aash
 waterfall,آبثار
 knife (2),چاقو / کارد,tchaaghou / kaard
 bag (2),ساک / کیسه,saac / kisse
@@ -33,18 +33,18 @@ nest,لانه
 towel,حوله
 fabric,پارشه
 garlic,سیر
-wall,دیوار,divaar
-teapot,قوری
-pomagranite,اَنار
-grapes,اَنگور
+wall,دیوار
+teapot,قوری,ghoori
+pomagranite,اَنار,anaar
+grapes,اَنگور,angoor
 fig,اَنجیر
 iron/metal,آهَن,aahan
-human,آدَم
-fire,آتَش
+human,آدَم,aadam
+fire,آتش,aatesh
 leaf,بَرگ
 pants,شَلوار
-cloud,ابر
-horse,اسب
+cloud,ابر,abr
+horse,اسب,asb
 dog,سگ
 pencil,مداد
 pen,خودکار
@@ -60,10 +60,10 @@ bottle,بطری
 midnight,نیمه شب
 box,جعبه,ja.be
 lamb,بره,bar-re
-question,سوال,sohal
+question,سوال,soaal
 dream,رویا,royaa
-usually,معمولا,ma.moulan
-often,غالبا / بارها
+usually,معمولاً,ma.moulan
+often,بارها
 approximately,تقریباً,taghribaan
 pink,صورتی
 window,پنجره
@@ -99,4 +99,4 @@ repairman,تعمیرکار
 dentist,دندانپزشک
 to happen,اتفاق افتادن,etefaagh oftaadan
 to fall,افتادن,oftaadan
-he's close to home,او نزدیک خانه است / او به خانه نزدیک است
+he's close to home (2),او نزدیک خانه است / او به خانه نزدیک است
