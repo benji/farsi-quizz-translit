@@ -4,6 +4,7 @@ Simple webapp (or nodejs app) to help learning to recognize conjugated Farsi ver
 
 |  | En->Ir | Ir->En |
 | ------ | ------ | ------ |
+| Week 24 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week24&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week24&quizz_far2eng=true) |
 | Week 23 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week23&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week23&quizz_far2eng=true) |
 | Nana | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=nana&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=nana&quizz_far2eng=true) |
 | Week 22 | [EN2IR](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week22&quizz_far2eng=false) | [IR2EN](http://htmlpreview.github.io/?https://github.com/benji/farsi-quizz-translit/blob/master/www/index.html?quizz_type=words&quizz_dict=week22&quizz_far2eng=true) |

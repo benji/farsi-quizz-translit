@@ -1,0 +1,19 @@
+e,f,p
+be healthy,سلامت باشی,salaamat baashi
+it was nice to meet you aashnaa,خوشحال شدم با شما آشنا شدم,roshhaal shodam ba shomaa aashnaa shodam
+familiar,آشنا,aashnaa
+X you wrote wrong,سلام تارا را اشتباه نوشتی
+I am very slow when I write farsi (2),خیلی آهسته هستم وقتی فارسی مینویسم / خیلی آهسته هستم که فارسی بنویسم
+I went on a last minute trip, سفر دقیقه آخری رفتم
+I can't come to the next class,کلاس بعدی را نمیتونم بیایم
+I hope that's not a problem,امیدوار هستم اشکالی نداره
+its shitty,خیلی  تخمیه
+strength / strong,قدرت / قوی,ghodrat / ghavi
+what did you do last weekend?,آخر هفته  چه کار کردی
+happy (2),شاد / خوشحال
+businessman,تاجر,taadjer
+translation,ترجمه,tardjome
+claw,پنجه,pandje
+
+
+
