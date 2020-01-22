@@ -14,6 +14,8 @@ happy (2),شاد / خوشحال
 businessman,تاجر,taadjer
 translation,ترجمه,tardjome
 claw,پنجه,pandje
+we went to the woods,ما به جنگل رفتیم,djangal
+newborn,نوزاد,nozaad
 
 
 
